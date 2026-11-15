@@ -1,0 +1,438 @@
+# 완료 목록 / Accepted catalog
+
+별도 계속 제작 원장 432세트입니다. 과거 880 등의 누계와 합산하지 않습니다. 기존 공개 366개는 불변 커밋 링크, 신규 66개는 이번 문서로 연결합니다. / This separate continuation ledger has 432 accepted sets: 366 previously published IDs and 66 new entries. Do not add it to older totals.
+
+기존 경로의 ID 일치는 전체 바이트 동일성이나 전역 고유성의 증명이 아닙니다. / Existing path-ID matches do not prove byte identity or global uniqueness.
+
+- [NEW_RECOVERY_005 · bowling pin](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_005/lod0) — 기공개 / existing
+- [NEW_RECOVERY_006 · boomerang](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_006/lod0) — 기공개 / existing
+- [NEW_RECOVERY_015 · popsicle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_015/lod0) — 기공개 / existing
+- [NEW_RECOVERY_047 · domino](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_047/lod0) — 기공개 / existing
+- [NEW_RECOVERY_002 · ice cream cone](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_002/lod0) — 기공개 / existing
+- [NEW_RECOVERY_300 · 흑립(갓)](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_300/lod0) — 기공개 / existing
+- [NEW_RECOVERY_003 · grapes](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_003/lod0) — 기공개 / existing
+- [NEW_RECOVERY_004 · hot dog](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_004/lod0) — 기공개 / existing
+- [NEW_RECOVERY_001 · pretzel](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_001/lod0) — 기공개 / existing
+- [NEW_RECOVERY_007 · squirrel](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_007/lod0) — 기공개 / existing
+- [NEW_RECOVERY_008 · spider](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_008/lod0) — 기공개 / existing
+- [NEW_RECOVERY_009 · scorpion](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_009/lod0) — 기공개 / existing
+- [NEW_RECOVERY_010 · dinosaur](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_010/lod0) — 기공개 / existing
+- [NEW_RECOVERY_011 · peacock](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_011/lod0) — 기공개 / existing
+- [NEW_RECOVERY_013 · pear](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_013/lod0) — 기공개 / existing
+- [NEW_RECOVERY_014 · peanut](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_014/lod0) — 기공개 / existing
+- [NEW_RECOVERY_012 · ferris wheel](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_012/lod0) — 기공개 / existing
+- [NEW_RECOVERY_016 · bee](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_016/lod0) — 기공개 / existing
+- [NEW_RECOVERY_017 · ant](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_017/lod0) — 기공개 / existing
+- [NEW_RECOVERY_018 · sheep](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_018/lod0) — 기공개 / existing
+- [NEW_RECOVERY_020 · scarecrow](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_020/lod0) — 기공개 / existing
+- [NEW_RECOVERY_021 · sled](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_021/lod0) — 기공개 / existing
+- [NEW_RECOVERY_022 · airship](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_022/lod0) — 기공개 / existing
+- [NEW_RECOVERY_019 · koala](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_019/lod0) — 기공개 / existing
+- [NEW_RECOVERY_023 · submarine](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_023/lod0) — 기공개 / existing
+- [NEW_RECOVERY_024 · tulip](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_024/lod0) — 기공개 / existing
+- [NEW_RECOVERY_025 · gorilla](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_025/lod0) — 기공개 / existing
+- [NEW_RECOVERY_026 · palm tree](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_026/lod0) — 기공개 / existing
+- [NEW_RECOVERY_027 · parrot](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_027/lod0) — 기공개 / existing
+- [NEW_RECOVERY_028 · lobster](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_028/lod0) — 기공개 / existing
+- [NEW_RECOVERY_029 · deer](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_029/lod0) — 기공개 / existing
+- [NEW_RECOVERY_030 · rooster](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_030/lod0) — 기공개 / existing
+- [NEW_RECOVERY_031 · grasshopper](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_031/lod0) — 기공개 / existing
+- [NEW_RECOVERY_032 · caterpillar](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_032/lod0) — 기공개 / existing
+- [NEW_RECOVERY_033 · toilet paper](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_033/lod0) — 기공개 / existing
+- [NEW_RECOVERY_035 · whistle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_035/lod0) — 기공개 / existing
+- [NEW_RECOVERY_037 · horseshoe magnet](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_037/lod0) — 기공개 / existing
+- [NEW_RECOVERY_034 · birdcage](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_034/lod0) — 기공개 / existing
+- [NEW_RECOVERY_036 · pea pod](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_036/lod0) — 기공개 / existing
+- [NEW_RECOVERY_038 · swan](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_038/lod0) — 기공개 / existing
+- [NEW_RECOVERY_039 · crab](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_039/lod0) — 기공개 / existing
+- [NEW_RECOVERY_040 · monkey](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_040/lod0) — 기공개 / existing
+- [NEW_RECOVERY_041 · fox](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_041/lod0) — 기공개 / existing
+- [NEW_RECOVERY_042 · bamboo](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_042/lod0) — 기공개 / existing
+- [NEW_RECOVERY_044 · avocado](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_044/lod0) — 기공개 / existing
+- [NEW_RECOVERY_046 · beaver](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_046/lod0) — 기공개 / existing
+- [NEW_RECOVERY_043 · dumpling](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_043/lod0) — 기공개 / existing
+- [NEW_RECOVERY_045 · walrus](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_045/lod0) — 기공개 / existing
+- [NEW_RECOVERY_048 · origami crane](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_048/lod0) — 기공개 / existing
+- [NEW_RECOVERY_049 · slingshot](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_049/lod0) — 기공개 / existing
+- [NEW_RECOVERY_050 · abacus](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_050/lod0) — 기공개 / existing
+- [NEW_RECOVERY_051 · bagpipes](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_051/lod0) — 기공개 / existing
+- [NEW_RECOVERY_053 · platypus](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_053/lod0) — 기공개 / existing
+- [NEW_RECOVERY_054 · armadillo](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_054/lod0) — 기공개 / existing
+- [NEW_RECOVERY_052 · praying mantis](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_052/lod0) — 기공개 / existing
+- [NEW_RECOVERY_055 · anteater](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_055/lod0) — 기공개 / existing
+- [NEW_RECOVERY_056 · chameleon](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_056/lod0) — 기공개 / existing
+- [NEW_RECOVERY_057 · centipede](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_057/lod0) — 기공개 / existing
+- [NEW_RECOVERY_059 · taco](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_059/lod0) — 기공개 / existing
+- [NEW_RECOVERY_060 · gas mask](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_060/lod0) — 기공개 / existing
+- [NEW_RECOVERY_061 · ginger](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_061/lod0) — 기공개 / existing
+- [NEW_RECOVERY_062 · radish](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_062/lod0) — 기공개 / existing
+- [NEW_RECOVERY_063 · pan flute](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_063/lod0) — 기공개 / existing
+- [NEW_RECOVERY_064 · cockroach](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_064/lod0) — 기공개 / existing
+- [NEW_RECOVERY_065 · stag beetle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_065/lod0) — 기공개 / existing
+- [NEW_RECOVERY_066 · toucan](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_066/lod0) — 기공개 / existing
+- [NEW_RECOVERY_067 · fork](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_067/lod0) — 기공개 / existing
+- [NEW_RECOVERY_068 · spoon](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_068/lod0) — 기공개 / existing
+- [NEW_RECOVERY_069 · rhinoceros beetle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_069/lod0) — 기공개 / existing
+- [NEW_RECOVERY_071 · snowflake](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_071/lod0) — 기공개 / existing
+- [NEW_RECOVERY_072 · torch](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_072/lod0) — 기공개 / existing
+- [NEW_RECOVERY_070 · mosquito](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_070/lod0) — 기공개 / existing
+- [NEW_RECOVERY_073 · swim fins](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_073/lod0) — 기공개 / existing
+- [NEW_RECOVERY_074 · igloo](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_074/lod0) — 기공개 / existing
+- [NEW_RECOVERY_075 · sickle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_075/lod0) — 기공개 / existing
+- [NEW_RECOVERY_076 · UFO flying saucer](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_076/lod0) — 기공개 / existing
+- [NEW_RECOVERY_078 · cattail](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_078/lod0) — 기공개 / existing
+- [NEW_RECOVERY_079 · chopsticks](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_079/lod0) — 기공개 / existing
+- [NEW_RECOVERY_077 · satellite](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_077/lod0) — 기공개 / existing
+- [NEW_RECOVERY_080 · campfire](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_080/lod0) — 기공개 / existing
+- [NEW_RECOVERY_081 · celery](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_081/lod0) — 기공개 / existing
+- [NEW_RECOVERY_082 · cicada](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_082/lod0) — 기공개 / existing
+- [NEW_RECOVERY_083 · housefly](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_083/lod0) — 기공개 / existing
+- [NEW_RECOVERY_084 · earthworm](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_084/lod0) — 기공개 / existing
+- [NEW_RECOVERY_085 · binder clip](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_085/lod0) — 기공개 / existing
+- [NEW_RECOVERY_086 · potato masher](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_086/lod0) — 기공개 / existing
+- [NEW_RECOVERY_088 · pinwheel](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_088/lod0) — 기공개 / existing
+- [NEW_RECOVERY_091 · honey dipper](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_091/lod0) — 기공개 / existing
+- [NEW_RECOVERY_087 · can opener](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_087/lod0) — 기공개 / existing
+- [NEW_RECOVERY_089 · anvil](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_089/lod0) — 기공개 / existing
+- [NEW_RECOVERY_094 · pomegranate](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_094/lod0) — 기공개 / existing
+- [NEW_RECOVERY_090 · hammock](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_090/lod0) — 기공개 / existing
+- [NEW_RECOVERY_092 · windsock](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_092/lod0) — 기공개 / existing
+- [NEW_RECOVERY_093 · cannon](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_093/lod0) — 기공개 / existing
+- [NEW_RECOVERY_095 · mole](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_095/lod0) — 기공개 / existing
+- [NEW_RECOVERY_096 · wind chime](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_096/lod0) — 기공개 / existing
+- [NEW_RECOVERY_097 · dreamcatcher](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_097/lod0) — 기공개 / existing
+- [NEW_RECOVERY_098 · curling stone](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_098/lod0) — 기공개 / existing
+- [NEW_RECOVERY_099 · dragon](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_099/lod0) — 기공개 / existing
+- [NEW_RECOVERY_100 · stegosaurus](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_100/lod0) — 기공개 / existing
+- [NEW_RECOVERY_101 · triceratops](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_101/lod0) — 기공개 / existing
+- [NEW_RECOVERY_102 · pyramid](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_102/lod0) — 기공개 / existing
+- [NEW_RECOVERY_103 · sleeping bag](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_103/lod0) — 기공개 / existing
+- [NEW_RECOVERY_105 · marionette](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_105/lod0) — 기공개 / existing
+- [NEW_RECOVERY_107 · paper airplane](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_107/lod0) — 기공개 / existing
+- [NEW_RECOVERY_104 · carousel](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_104/lod0) — 기공개 / existing
+- [NEW_RECOVERY_106 · roller coaster](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_106/lod0) — 기공개 / existing
+- [NEW_RECOVERY_108 · rubber stamp](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_108/lod0) — 기공개 / existing
+- [NEW_RECOVERY_109 · moka pot](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_109/lod0) — 기공개 / existing
+- [NEW_RECOVERY_110 · gas pump](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_110/lod0) — 기공개 / existing
+- [NEW_RECOVERY_111 · snowmobile](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_111/lod0) — 기공개 / existing
+- [NEW_RECOVERY_113 · sprinkler](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_113/lod0) — 기공개 / existing
+- [NEW_RECOVERY_114 · cable car](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_114/lod0) — 기공개 / existing
+- [NEW_RECOVERY_115 · shopping bag](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_115/lod0) — 기공개 / existing
+- [NEW_RECOVERY_112 · armor](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_112/lod0) — 기공개 / existing
+- [NEW_RECOVERY_116 · water tower](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_116/lod0) — 기공개 / existing
+- [NEW_RECOVERY_117 · rickshaw](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_117/lod0) — 기공개 / existing
+- [NEW_RECOVERY_118 · gumball machine](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_118/lod0) — 기공개 / existing
+- [NEW_RECOVERY_119 · pumpjack](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_119/lod0) — 기공개 / existing
+- [NEW_RECOVERY_120 · hovercraft](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_120/lod0) — 기공개 / existing
+- [NEW_RECOVERY_121 · space shuttle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_121/lod0) — 기공개 / existing
+- [NEW_RECOVERY_122 · jet ski](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_122/lod0) — 기공개 / existing
+- [NEW_RECOVERY_123 · torii](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_123/lod0) — 기공개 / existing
+- [NEW_RECOVERY_124 · teepee](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_124/lod0) — 기공개 / existing
+- [NEW_RECOVERY_126 · totem pole](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_126/lod0) — 기공개 / existing
+- [NEW_RECOVERY_127 · lunar lander](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_127/lod0) — 기공개 / existing
+- [NEW_RECOVERY_128 · foosball](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_128/lod0) — 기공개 / existing
+- [NEW_RECOVERY_129 · spoon catapult](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_129/lod0) — 기공개 / existing
+- [NEW_RECOVERY_130 · sloth](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_130/lod0) — 기공개 / existing
+- [NEW_RECOVERY_131 · dandelion](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_131/lod0) — 기공개 / existing
+- [NEW_RECOVERY_132 · eagle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_132/lod0) — 기공개 / existing
+- [NEW_RECOVERY_133 · pipe organ](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_133/lod0) — 기공개 / existing
+- [NEW_RECOVERY_134 · robot arm](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-selected-20261030/models/NEW_RECOVERY_134/lod0) — 기공개 / existing
+- [NEW301 · peach](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW301) — 기공개 / existing
+- [NEW302 · raspberry](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW302) — 기공개 / existing
+- [NEW303 · durian](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW303) — 기공개 / existing
+- [NEW305 · croissant](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW305) — 기공개 / existing
+- [NEW304 · flat single-row hair comb](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW304) — 기공개 / existing
+- [NEW306 · string mop](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW306) — 기공개 / existing
+- [NEW307 · Swiss cheese wedge](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW307) — 기공개 / existing
+- [NEW308 · lever nail clipper](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW308) — 기공개 / existing
+- [NEW309 · woodworking panel handsaw](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW309) — 기공개 / existing
+- [NEW310 · coconut half](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW310) — 기공개 / existing
+- [NEW311 · manual crank twin eggbeater](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW311) — 기공개 / existing
+- [NEW312 · whole shrimp](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW312) — 기공개 / existing
+- [NEW313 · American football helmet](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW313) — 기공개 / existing
+- [NEW315 · long chili pepper](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW315) — 기공개 / existing
+- [NEW316 · cut lotus root segment](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW316) — 기공개 / existing
+- [NEW318 · jellyfish](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW318) — 기공개 / existing
+- [NEW317 · quad roller skate](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW317) — 기공개 / existing
+- [NEW319 · real mallard duck](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW319) — 기공개 / existing
+- [NEW320 · nigiri sushi](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW320) — 기공개 / existing
+- [NEW321 · pullover hoodie](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW321) — 기공개 / existing
+- [NEW323 · segmented chocolate bar](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW323) — 기공개 / existing
+- [NEW325 · meat tenderizer mallet](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW325) — 기공개 / existing
+- [NEW322 · iced ring doughnut](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW322) — 기공개 / existing
+- [NEW324 · manual pepper mill](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW324) — 기공개 / existing
+- [NEW326 · triangular sandwich](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW326) — 기공개 / existing
+- [NEW327 · green onion](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW327) — 기공개 / existing
+- [NEW329 · fried egg](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW329) — 기공개 / existing
+- [NEW328 · cinnamon roll](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW328) — 기공개 / existing
+- [NEW330 · maple leaf with petiole](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW330) — 기공개 / existing
+- [NEW332 · combination pliers](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW332) — 기공개 / existing
+- [NEW338 · cricket bat](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW338) — 기공개 / existing
+- [NEW334 · cut kiwi half](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW334) — 기공개 / existing
+- [NEW335 · waffle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW335) — 기공개 / existing
+- [NEW336 · cupcake](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW336) — 기공개 / existing
+- [NEW333 · cauliflower head](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW333) — 기공개 / existing
+- [NEW337 · tailored blazer](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW337) — 기공개 / existing
+- [NEW340 · woodworking bevel-edge chisel](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW340) — 기공개 / existing
+- [NEW341 · sewing thread spool](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW341) — 기공개 / existing
+- [NEW349 · pizza slice](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW349) — 기공개 / existing
+- [NEW345 · sewing thimble](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW345) — 기공개 / existing
+- [NEW342 · manual safety razor](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW342) — 기공개 / existing
+- [NEW351 · macaron](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW351) — 기공개 / existing
+- [NEW346 · open mascara with wand](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW346) — 기공개 / existing
+- [NEW347 · nail polish bottle with brush](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW347) — 기공개 / existing
+- [NEW354 · asparagus spear](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW354) — 기공개 / existing
+- [NEW353 · eclair](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW353) — 기공개 / existing
+- [NEW352 · feather duster](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW352) — 기공개 / existing
+- [NEW348 · cut fig half](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW348) — 기공개 / existing
+- [NEW350 · pen-style gravity airbrush](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW350) — 기공개 / existing
+- [NEW356 · suspenders](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261031/NEW356) — 기공개 / existing
+- [NEW355 · handled tea infuser ball](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW355) — 기공개 / existing
+- [NEW358 · closed-gate carabiner](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW358) — 기공개 / existing
+- [NEW359 · whole scored baguette](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW359) — 기공개 / existing
+- [NEW360 · squeeze-handle soft-food disher](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW360) — 기공개 / existing
+- [NEW361 · square ravioli](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW361) — 기공개 / existing
+- [NEW357 · kettlebell](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW357) — 기공개 / existing
+- [NEW362 · ratchet socket wrench](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW362) — 기공개 / existing
+- [NEW363 · hinged citrus press](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW363) — 기공개 / existing
+- [NEW366 · hand shaped back scratcher](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW366) — 기공개 / existing
+- [NEW365 · countertop dish drying rack](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW365) — 기공개 / existing
+- [NEW364 · whole cannoli](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW364) — 기공개 / existing
+- [NEW367 · joined stem cherry pair](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW367) — 기공개 / existing
+- [NEW368 · complete kendama toy](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW368) — 기공개 / existing
+- [NEW369 · whole lattice top pie](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW369) — 기공개 / existing
+- [NEW370 · complete ring door knocker](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW370) — 기공개 / existing
+- [NEW372 · layered cake slice](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW372) — 기공개 / existing
+- [NEW371 · complete English riding saddle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW371) — 기공개 / existing
+- [NEW373 · pair of ballet pointe shoes](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW373) — 기공개 / existing
+- [NEW374 · ring handle suspended bead rattle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW374) — 기공개 / existing
+- [NEW375 · baby feeding bottle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW375) — 기공개 / existing
+- [NEW376 · two eye sleep mask with strap](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW376) — 기공개 / existing
+- [NEW377 · hinged molded paper egg carton](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW377) — 기공개 / existing
+- [NEW379 · water resistance rowing exercise machine](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW379) — 기공개 / existing
+- [NEW380 · complete mancala board and stones set](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW380) — 기공개 / existing
+- [NEW381 · whole manta ray](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW381) — 기공개 / existing
+- [NEW382 · living chambered nautilus](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW382) — 기공개 / existing
+- [NEW383 · whole cuttlefish](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW383) — 기공개 / existing
+- [NEW384 · powered wheelchair](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW384) — 기공개 / existing
+- [NEW385 · whole great hammerhead shark](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW385) — 기공개 / existing
+- [NEW386 · whole lined seahorse](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW386) — 기공개 / existing
+- [NEW388 · freestanding rack and pinion citrus juicer](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW388) — 기공개 / existing
+- [NEW387 · whole red lionfish](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW387) — 기공개 / existing
+- [NEW389 · wheeled mop bucket with side press wringer](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW389) — 기공개 / existing
+- [NEW391 · lever pump vacuum airpot beverage dispenser](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW391) — 기공개 / existing
+- [NEW390 · countertop suspended kettle popcorn machine](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW390) — 기공개 / existing
+- [NEW392 · front loading washing machine](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW392) — 기공개 / existing
+- [NEW393 · conveyor baggage security scanner](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW393) — 기공개 / existing
+- [NEW394 · electric pottery wheel with foot pedal](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW394) — 기공개 / existing
+- [NEW395 · straight rail stairlift chair assembly](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW395) — 기공개 / existing
+- [NEW396 · whole emperor penguin](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW396) — 기공개 / existing
+- [NEW397 · whole common bottlenose dolphin](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW397) — 기공개 / existing
+- [NEW398 · whole Florida manatee](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW398) — 기공개 / existing
+- [NEW399 · complete twin wheel bench grinder](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW399) — 기공개 / existing
+- [NEW400 · sliding compound miter saw](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW400) — 기공개 / existing
+- [NEW401 · floorstanding vertical bandsaw](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW401) — 기공개 / existing
+- [NEW403 · benchtop woodturning lathe](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW403) — 기공개 / existing
+- [NEW402 · countertop twin basket deep fryer](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW402) — 기공개 / existing
+- [NEW405 · whole humpback whale](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW405) — 기공개 / existing
+- [NEW406 · whole giant Pacific octopus](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW406) — 기공개 / existing
+- [NEW407 · whole male narwhal](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261101/NEW407) — 기공개 / existing
+- [NEW409 · whole smalltooth sawfish](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW409) — 기공개 / existing
+- [NEW408 · hydraulic trolley floor jack](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW408) — 기공개 / existing
+- [NEW410 · walk behind rotary petrol lawn mower](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW410) — 기공개 / existing
+- [NEW411 · complete tracked bulldozer](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW411) — 기공개 / existing
+- [NEW412 · articulated tandem drum road roller](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW412) — 기공개 / existing
+- [NEW413 · whole sperm whale](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW413) — 기공개 / existing
+- [NEW414 · enclosed cab farm tractor](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW414) — 기공개 / existing
+- [NEW415 · articulated wheeled front end loader](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW415) — 기공개 / existing
+- [NEW417 · folding household A frame stepladder](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW417) — 기공개 / existing
+- [NEW416 · four wheel folding seat brake rollator](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW416) — 기공개 / existing
+- [NEW421 · complete double hung sliding sash window](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW421) — 기공개 / existing
+- [NEW344 · toothpaste tube](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW344) — 기공개 / existing
+- [NEW420 · complete sectional overhead garage door](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW420) — 기공개 / existing
+- [NEW422 · crank operated outward opening casement window](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW422) — 기공개 / existing
+- [NEW424 · complete upholstered five caster office task chair](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW424) — 기공개 / existing
+- [NEW423 · complete three section folding ceiling hatch attic ladder](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW423) — 기공개 / existing
+- [NEW425 · enclosed electric pump espresso machine](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW425) — 기공개 / existing
+- [NEW426 · portable electric free arm sewing machine](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW426) — 기공개 / existing
+- [NEW427 · motor driven countertop citrus reamer](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW427) — 기공개 / existing
+- [NEW428 · six wheel tri star stair climbing hand truck](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW428) — 기공개 / existing
+- [NEW429 · bellows field view camera](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW429) — 기공개 / existing
+- [NEW430 · open frame filament 3D printer](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW430) — 기공개 / existing
+- [NEW431 · fixed head bowl lift planetary mixer](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW431) — 기공개 / existing
+- [NEW433 · adult female California sea lion](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW433) — 기공개 / existing
+- [NEW432 · Dobsonian reflector telescope on rotary rocker base](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW432) — 기공개 / existing
+- [NEW434 · ocean sunfish Mola mola](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW434) — 기공개 / existing
+- [NEW436 · centre-pivot roof window](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW436) — 기공개 / existing
+- [NEW435 · single-leaf collapsible scissor security gate](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW435) — 기공개 / existing
+- [NEW438 · bellows bee smoker](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW438) — 기공개 / existing
+- [NEW440 · deployed round-canopy personal parachute](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW440) — 기공개 / existing
+- [NEW442 · Indian flying fox Pteropus medius](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW442) — 기공개 / existing
+- [NEW443 · shoebill Balaeniceps rex](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW443) — 기공개 / existing
+- [NEW444 · height-adjustable track hurdle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW444) — 기공개 / existing
+- [NEW445 · complete two-leaf counterbalanced drawbridge](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW445) — 기공개 / existing
+- [NEW446 · manual eyelash curler](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW446) — 기공개 / existing
+- [NEW447 · manual three-frame honey extractor](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW447) — 기공개 / existing
+- [NEW448 · vertical castle portcullis architectural module](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW448) — 기공개 / existing
+- [NEW449 · Southern Cassowary Casuarius casuarius](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW449) — 기공개 / existing
+- [NEW451 · standalone eight-handle ship helm wheel](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW451) — 기공개 / existing
+- [NEW453 · penny-farthing direct-drive bicycle](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW453) — 기공개 / existing
+- [NEW454 · two-post automotive service lift](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW454) — 기공개 / existing
+- [NEW455 · two-wheel single-furrow walking plough](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW455) — 기공개 / existing
+- [NEW456 · two-wheel seated horse-drawn hay rake](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW456) — 기공개 / existing
+- [NEW457 · treadle-driven single grindstone](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW457) — 기공개 / existing
+- [NEW458 · traditional samovar closed exterior](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW458) — 기공개 / existing
+- [NEW459 · end-over-end barrel butter churn](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW459) — 기공개 / existing
+- [NEW460 · frame-mounted hand-crank warning siren](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW460) — 기공개 / existing
+- [NEW461 · single-pedestal gymnastics vault table](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW461) — 기공개 / existing
+- [NEW466 · GWR-style railway semaphore signal](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW466) — 기공개 / existing
+- [NEW467 · vertical stationary steam engine model](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/final-new50-20261103/NEW467) — 기공개 / existing
+- [NEW468 · hand-cranked cream separator](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW468) — 기공개 / existing
+- [NEW469 · kingpost hang glider](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW469) — 기공개 / existing
+- [NEW470 · pedal timpani](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW470) — 기공개 / existing
+- [NEW471 · pedestal 16 mm silent film projector](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW471) — 기공개 / existing
+- [NEW472 · handheld Holmes stereoscope](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW472) — 기공개 / existing
+- [NEW473 · tabletop hand-operated platen letterpress](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW473) — 기공개 / existing
+- [NEW474 · crank-driven hurdy-gurdy](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW474) — 기공개 / existing
+- [NEW475 · wired optical mouse with connected cable and USB-A plug](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW475) — 기공개 / existing
+- [NEW476 · sharpened hexagonal wooden graphite pencil with ferrule and eraser](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW476) — 기공개 / existing
+- [NEW477 · classic red plastic pushpin](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW477) — 기공개 / existing
+- [NEW478 · original freestanding pedestal birdbath](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW478) — 기공개 / existing
+- [NEW479 · original frosted household screw-base bulb](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW479) — 기공개 / existing
+- [NEW480 · original ceramic tabletop ashtray](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW480) — 기공개 / existing
+- [NEW481 · original umbrella street food vending cart](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW481) — 기공개 / existing
+- [NEW482 · portable three-aspect vehicular signal complete assembly](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW482) — 기공개 / existing
+- [NEW483 · integrated folding hex-key multi-tool](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW483) — 기공개 / existing
+- [NEW484 · long end-hinged food-bag sealing clip, fixed-open static prop](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW484) — 기공개 / existing
+- [NEW485 · complete retractable dog leash with oval grip, tape and swivel snap](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW485) — 기공개 / existing
+- [NEW486 · complete four-way wooden shipping pallet](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW486) — 기공개 / existing
+- [NEW487 · hooked crowbar with split claw and flattened chisel](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW487) — 기공개 / existing
+- [NEW488 · disposable pleated ear-loop face mask](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW488) — 기공개 / existing
+- [NEW489 · pole-mounted convex traffic safety mirror](https://github.com/hoin1357/submerged-city-assets/tree/dbada511d19bf8e3076d8dfc95d8d60c4aa1c090/deliveries/completed-assets-20261104/NEW489) — 기공개 / existing
+- [NEW490 · complete modular rubber road speed bump](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW490) — 기공개 / existing
+- [NEW491 · generic long-reach trigger grabber](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW491) — 기공개 / existing
+- [NEW492 · ratcheting automotive jack stand](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW492) — 기공개 / existing
+- [NEW493 · twin wooden-handle clamshell post-hole digger](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW493) — 기공개 / existing
+- [NEW494 · square-plate manual hand tamper](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW494) — 기공개 / existing
+- [NEW495 · wood-handled pointed bricklaying trowel](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW495) — 기공개 / existing
+- [NEW496 · articulated overhead door closer](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW496) — 기공개 / existing
+- [NEW498 · single wire-bail supermarket basket](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW498) — 기공개 / existing
+- [NEW499 · folding steel sawhorse](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW499) — 기공개 / existing
+- [NEW501 · closed pressed-steel jerrycan](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW501) — 기공개 / existing
+- [NEW502 · rigid-spout thumb-lever oil can](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW502) — 기공개 / existing
+- [NEW504 · solid aluminium pizza peel with nylon handle](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW504) — 기공개 / existing
+- [NEW505 · wooden clothes hanger with fixed trouser bar](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW505) — 기공개 / existing
+- [NEW506 · wooden forked boot jack](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW506) — 기공개 / existing
+- [NEW508 · wood-handled coping saw](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW508) — 기공개 / existing
+- [NEW509 · wooden through-handle rubber mallet](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW509) — 기공개 / existing
+- [NEW510 · fixed four-way wheel-nut wrench](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW510) — 기공개 / existing
+- [NEW511 · straight two-handle woodworking drawknife](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW511) — 기공개 / existing
+- [NEW513 · flared slotted screwdriver](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW513) — 기공개 / existing
+- [NEW514 · rattan carpet and rug beater](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW514) — 기공개 / existing
+- [NEW515 · handheld serrated bulb planter](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW515) — 기공개 / existing
+- [NEW517 · open pouring pitcher](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW517) — 기공개 / existing
+- [NEW518 · open-ribbon Y vegetable peeler](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW518) — 기공개 / existing
+- [NEW519 · wheel-lock snap-off utility knife](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW519) — 기공개 / existing
+- [NEW521 · broad flat decorating paintbrush](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW521) — 기공개 / existing
+- [NEW522 · empty ribbed paint-roller tray](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW522) — 기공개 / existing
+- [NEW523 · two-handled apple divider](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW523) — 기공개 / existing
+- [NEW527 · plain cheering foam finger](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW527) — 기공개 / existing
+- [NEW528 · complete hand-crank food mill](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW528) — 기공개 / existing
+- [NEW529 · complete basket dog muzzle](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW529) — 기공개 / existing
+- [NEW531 · high-profile metal clipboard](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW531) — 기공개 / existing
+- [NEW533 · ergonomic seam ripper](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW533) — 기공개 / existing
+- [NEW535 · classic cobbler cocktail shaker](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW535) — 기공개 / existing
+- [NEW536 · double-ended cocktail jigger](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW536) — 기공개 / existing
+- [NEW537 · Hawthorne cocktail strainer](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW537) — 기공개 / existing
+- [NEW538 · Single melon baller](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW538) — 기공개 / existing
+- [NEW539 · Wood-handled bell candle snuffer](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW539) — 기공개 / existing
+- [NEW540 · Toothed circular-head pasta server](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW540) — 기공개 / existing
+- [NEW542 · Wall-mounted toilet-roll holder with installed roll](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW542) — 기공개 / existing
+- [NEW543 · Single-handle conical pour-over coffee dripper](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW543) — 기공개 / existing
+- [NEW544 · Broad triangular offset cake server](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW544) — 기공개 / existing
+- [NEW547 · Wall-mounted double coat and hat hook](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW547) — 기공개 / existing
+- [NEW548 · Standalone forged steel horseshoe](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW548) — 기공개 / existing
+- [NEW551 · Standalone twin-core hollow concrete masonry block](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW551) — 기공개 / existing
+- [NEW552 · Open-body hook-and-eye turnbuckle](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW552) — 기공개 / existing
+- [NEW554 · triangular drafting ruler / set square](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW554) — 기공개 / existing
+- [NEW556 · molded-tooth zipper](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW556) — 기공개 / existing
+- [NEW558 · mechanical hand tally counter](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW558) — 기공개 / existing
+- [NEW559 · complete kiss-lock coin purse / 금속 똑딱이 잠금 동전지갑](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW559) — 기공개 / existing
+- [NEW560 · complete twin-well contact lens case / 나사뚜껑형 두 칸 콘택트렌즈 보관 케이스](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW560) — 기공개 / existing
+- [NEW561 · whole empty motion-picture film reel / 6공 플랜지형 35 mm 영화 필름 릴](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW561) — 기공개 / existing
+- [NEW563 · Complete thumb-strike bicycle bell / 엄지 타격식 자전거 벨](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW563) — 기공개 / existing
+- [NEW564 · Complete handled vacuum flask with drinking-cup lid / 컵 뚜껑과 측면 손잡이가 있는 진공 보온병](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW564) — 기공개 / existing
+- [NEW565 · Complete straight-shaft mountaineering ice axe / 일자 자루 등산용 피켈](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW565) — 기공개 / existing
+- [NEW567 · Complete wind-up chattering-teeth toy / 완성형 태엽 딸깍 이빨 장난감](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW567) — 기공개 / existing
+- [NEW568 · Complete unlit drip pillar wax candle / 완성형 심지·드립 무늬 원기둥 양초](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW568) — 기공개 / existing
+- [NEW570 · Complete wooden tic-tac-toe game set / 완성형 목제 틱택토 삼목 게임 세트](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW570) — 기공개 / existing
+- [NEW571 · Complete four-strap wooden luggage rack / 완성형 네 줄 스트랩 목제 짐받침대](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW571) — 기공개 / existing
+- [NEW577 · Complete five-spring wooden-handle chest expander / 완성형 나무 손잡이 5스프링 가슴 운동기](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW577) — 기공개 / existing
+- [NEW582 · Complete oval-ring-handled serving cloche with fitted plate / 완성형 타원 고리 손잡이 식품 덮개와 받침 접시](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW582) — 기공개 / existing
+- [NEW586 · Complete Latin-cross cemetery memorial with splayed pedestal and base / 완성형 십자가 묘비와 경사 기단](https://github.com/hoin1357/submerged-city-assets/tree/3657713e4191d119a3f41c3213cca5a0ed13ccc8/deliveries/completed-assets-20261106/NEW586) — 기공개 / existing
+- [NEW587 · Complete gingerbread-person biscuit with face and two buttons / 얼굴과 두 단추가 있는 완성형 진저브레드맨 비스킷](completed/NEW587/README.md) — 신규 / new
+- [NEW592 · Complete empty six-cavity muffin baking pan / 완성형 빈 6구 머핀 베이킹 팬](completed/NEW592/README.md) — 신규 / new
+- [NEW596 · Complete automotive spark plug / 완성형 자동차 점화 플러그](completed/NEW596/README.md) — 신규 / new
+- [NEW600 · Complete ceramic tagine cooking pot / 완성형 도자기 타진 조리 냄비](completed/NEW600/README.md) — 신규 / new
+- [NEW603 · Complete condiment shaker / 완성형 조미료 셰이커](completed/NEW603/README.md) — 신규 / new
+- [NEW605 · Complete mosquito coil with stand / 완성형 받침대 모기향](completed/NEW605/README.md) — 신규 / new
+- [NEW606 · Complete charcoal chimney starter / 완성형 숯 점화 굴뚝](completed/NEW606/README.md) — 신규 / new
+- [NEW607 · Complete sealed gable-top beverage carton / 완성형 밀봉 게이블탑 음료 팩](completed/NEW607/README.md) — 신규 / new
+- [NEW610 · Complete linked wooden bongos / 연결된 목제 봉고 한 쌍](completed/NEW610/README.md) — 신규 / new
+- [NEW611 · Complete four-arm concrete tetrapod / 완성형 4지 콘크리트 테트라포드](completed/NEW611/README.md) — 신규 / new
+- [NEW614 · Complete rope-driven clamshell harbour grab / 완성형 로프 구동 조개형 항만 그랩](completed/NEW614/README.md) — 신규 / new
+- [NEW615 · Complete elevated lifeguard chair / 완성형 인명구조원 감시 의자](completed/NEW615/README.md) — 신규 / new
+- [NEW617 · Complete two-diver open-bottom diving bell / 완성형 2인용 개방저 잠수벨](completed/NEW617/README.md) — 신규 / new
+- [NEW618 · Complete six-dog marine doorway / 완성형 6개 도그 잠금 선박 출입문](completed/NEW618/README.md) — 신규 / new
+- [NEW620 · Complete marina service pedestal / 완성형 마리나 전원 급수 페데스털](completed/NEW620/README.md) — 신규 / new
+- [NEW621 · Complete dockside fish-cleaning station / 완성형 부두 생선 손질 작업대](completed/NEW621/README.md) — 신규 / new
+- [NEW622 · Complete portable marine pumpout cart / 완성형 이동식 선박 오수 배출 카트](completed/NEW622/README.md) — 신규 / new
+- [NEW623 · Complete portable dive control panel / 완성형 휴대식 잠수 제어 패널](completed/NEW623/README.md) — 신규 / new
+- [NEW624 · Complete man-overboard marker assembly / 완성형 해상 추락자 위치표시 장치](completed/NEW624/README.md) — 신규 / new
+- [NEW626 · Complete wooden T-handle cargo hook / 완성형 목제 T손잡이 하역 갈고리](completed/NEW626/README.md) — 신규 / new
+- [NEW627 · Complete twin-cam rope cleat / 완성형 쌍캠 로프 클리트](completed/NEW627/README.md) — 신규 / new
+- [NEW628 · Complete mushroom anchor / 완성형 버섯 닻](completed/NEW628/README.md) — 신규 / new
+- [NEW629 · Complete one-piece ribbed wheel chock / 완성형 일체형 리브 바퀴 고임목](completed/NEW629/README.md) — 신규 / new
+- [NEW631 · Complete two-wheel trailer dolly / 완성형 이륜 트레일러 운반차](completed/NEW631/README.md) — 신규 / new
+- [NEW632 · Complete roadside warning triangle / 완성형 차량 비상 경고 삼각대](completed/NEW632/README.md) — 신규 / new
+- [NEW634 · Complete pedestal scenic binocular viewer / 완성형 받침대식 전망 쌍안경](completed/NEW634/README.md) — 신규 / new
+- [NEW636 · Complete open-array marine radar / 완성형 개방 배열 선박 레이더](completed/NEW636/README.md) — 신규 / new
+- [NEW637 · Complete closed grit storage bin / 완성형 닫힌 제설제 보관함](completed/NEW637/README.md) — 신규 / new
+- [NEW640 · Complete wooden-handle fish scaler / 완성형 목제 손잡이 생선 비늘 제거기](completed/NEW640/README.md) — 신규 / new
+- [NEW641 · Complete battery-mounted angle grinder / 완성형 배터리 장착 앵글 그라인더](completed/NEW641/README.md) — 신규 / new
+- [NEW642 · Complete pneumatic needle scaler / 완성형 공압 니들 스케일러](completed/NEW642/README.md) — 신규 / new
+- [NEW646 · Complete folding garden kneeler bench / 완성형 접이식 정원 무릎받침 겸 벤치](completed/NEW646/README.md) — 신규 / new
+- [NEW647 · Representative Pheronema glass sponge / 대표형 페로네마 유리해면](completed/NEW647/README.md) — 신규 / new
+- [NEW650 · Complete T-handle push corer / 완성형 T손잡이 푸시 코어러](completed/NEW650/README.md) — 신규 / new
+- [NEW653 · Complete rotating-cup sediment trap / 완성형 회전 채집병 침강물 포집기](completed/NEW653/README.md) — 신규 / new
+- [NEW654 · Complete ocean-bottom seismometer / 완성형 해저 지진계](completed/NEW654/README.md) — 신규 / new
+- [NEW655 · Complete sea pen colony / 완성형 바다펜 군체](completed/NEW655/README.md) — 신규 / new
+- [NEW657 · Complete living sand dollar / 완성형 생체 샌드달러](completed/NEW657/README.md) — 신규 / new
+- [NEW658 · Complete living chiton / 완성형 생체 군부](completed/NEW658/README.md) — 신규 / new
+- [NEW660 · Complete rosette water sampler / 완성형 로제트 채수기](completed/NEW660/README.md) — 신규 / new
+- [NEW661 · Complete recording current meter / 완성형 기록식 해류계](completed/NEW661/README.md) — 신규 / new
+- [NEW666 · Complete fish measuring board / 완성형 어류 계측판](completed/NEW666/README.md) — 신규 / new
+- [NEW667 · Complete boot scraper / 완성형 장화 흙 제거대](completed/NEW667/README.md) — 신규 / new
+- [NEW668 · Complete caulking iron / 완성형 선박 코킹 정](completed/NEW668/README.md) — 신규 / new
+- [NEW669 · Complete hollow splicing fid / 완성형 중공 로프 피드](completed/NEW669/README.md) — 신규 / new
+- [NEW670 · Complete bathyscope / 완성형 수중 관찰경](completed/NEW670/README.md) — 신규 / new
+- [NEW673 · Complete netting needle / 완성형 그물 수선 바늘](completed/NEW673/README.md) — 신규 / new
+- [NEW675 · Complete belaying pin / 완성형 목제 빌레이 핀](completed/NEW675/README.md) — 신규 / new
+- [NEW677 · Tafoni boulder / 타포니 공동 바위](completed/NEW677/README.md) — 신규 / new
+- [NEW678 · Complete survey quadrat / 완성형 해양 조사 방형구](completed/NEW678/README.md) — 신규 / new
+- [NEW679 · Complete plankton sampling net / 완성형 플랑크톤 채집망](completed/NEW679/README.md) — 신규 / new
+- [NEW680 · Complete towed side-scan sonar / 완성형 견인식 측면주사 소나](completed/NEW680/README.md) — 신규 / new
+- [NEW681 · Complete half-round wooden lobster pot / 완성형 반원통 목제 바닷가재 통발](completed/NEW681/README.md) — 신규 / new
+- [NEW682 · Complete two-vane harp sponge / 완성형 두 날개 하프 해면](completed/NEW682/README.md) — 신규 / new
+- [NEW683 · Complete Port Jackson shark eggcase / 완성형 포트잭슨상어 난각](completed/NEW683/README.md) — 신규 / new
+- [NEW684 · Complete sounding lead, marked line and wooden reel / 완성형 측심납추·표식줄·목제릴](completed/NEW684/README.md) — 신규 / new
+- [NEW685 · Complete three-hole stone anchor / 완성형 세 구멍 돌닻](completed/NEW685/README.md) — 신규 / new
+- [NEW686 · Complete mariner astrolabe, NAV0020 replica / 완성형 항해 아스트롤라베 NAV0020 복제품](completed/NEW686/README.md) — 신규 / new
+- [NEW687 · Complete pelorus with stand, ACO0736 / 완성형 받침 포함 펠로러스 ACO0736](completed/NEW687/README.md) — 신규 / new
+- [NEW688 · Cross staff / 크로스 스태프](completed/NEW688/README.md) — 신규 / new
+- [NEW689 · Giant tubeworm / 열수구 거대관벌레 외형](completed/NEW689/README.md) — 신규 / new
+- [NEW690 · NEW690 클리오네 / Complete swimming sea angel representative](completed/NEW690/README.md) — 신규 / new
+- [NEW691 · NEW691 리프트 백 / Open-bottom underwater lift bag representative](completed/NEW691/README.md) — 신규 / new
+- [NEW692 · NEW692 암포라 / Hollow handled ceramic amphora representative](completed/NEW692/README.md) — 신규 / new
+- [NEW693 · NEW693 청동 충각 / Bronze ship ram representative](completed/NEW693/README.md) — 신규 / new
+- [NEW694 · NEW694 계류 부표 / Mooring buoy representative](completed/NEW694/README.md) — 신규 / new

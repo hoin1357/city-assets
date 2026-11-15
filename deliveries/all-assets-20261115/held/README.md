@@ -1,0 +1,67 @@
+# 보류 및 이전판 / Held and historical versions
+
+미승인 60종 290모델과 이후 승인된 NEW614·NEW615의 이전판 9모델입니다. 총 62개 역사 항목, 299모델이며 완료 432세트에 더하지 않습니다. 비교용으로 포함됐던 다른 에셋은 제외했습니다.
+60 unaccepted IDs contain 290 models. Earlier held versions of subsequently accepted NEW614 and NEW615 contain 9 models. These 62 historical entries, 299 models, do not add to the 432 accepted sets. Comparison-only assets are excluded.
+
+- [NEW530 · three-arch wire napkin holder](NEW530/README.md) — 12 models
+- [NEW532 · arch-grip crinkle vegetable cutter](NEW532/README.md) — 2 models
+- [NEW534 · traditional wooden marking gauge](NEW534/README.md) — 18 models
+- [NEW541 · Steel-tip brass plumb bob](NEW541/README.md) — 6 models
+- [NEW545 · Bowl-rim egg separator](NEW545/README.md) — 12 models
+- [NEW546 · Rounded kitchen cutting board](NEW546/README.md) — 10 models
+- [NEW549 · Spiked dough docker](NEW549/README.md) — 10 models
+- [NEW550 · T-handle pineapple corer and spiral slicer](NEW550/README.md) — 12 models
+- [NEW555 · clasped foam hair roller / 스펀지 헤어롤](NEW555/README.md) — 11 models
+- [NEW557 · Standalone contoured bedpan](NEW557/README.md) — 6 models
+- [NEW562 · Whole hinged wooden movie clapperboard / 목재 영화 촬영 클래퍼보드](NEW562/README.md) — 10 models
+- [NEW566 · Baseball batting tee](NEW566/README.md) — 4 models
+- [NEW569 · Complete conventional metal kazoo / 완성형 금속 카주](NEW569/README.md) — 6 models
+- [NEW572 · Complete five-peg wooden quoits game / 완성형 다섯 기둥 목제 고리 던지기 세트](NEW572/README.md) — 5 models
+- [NEW573 · Complete double-guillotine cigar cutter / 완성형 양날 시가 커터](NEW573/README.md) — 7 models
+- [NEW574 · Complete lever-driven potato chipper / 완성형 레버식 감자튀김 절단기](NEW574/README.md) — 7 models
+- [NEW575 · Complete handheld rotary cheese grater / 완성형 휴대용 회전 치즈 강판](NEW575/README.md) — 7 models
+- [NEW576 · Complete stand-mounted vacuum siphon coffee brewer / 완성형 스탠드식 사이폰 커피 추출기](NEW576/README.md) — 6 models
+- [NEW578 · Complete clothes wringer / 완성형 수동 빨래 짜개](NEW578/README.md) — 3 models
+- [NEW579 · Vertical sausage stuffer / 수직형 소시지 충전기](NEW579/README.md) — 7 models
+- [NEW580 · Bellows foot air pump / 발판식 공기 펌프](NEW580/README.md) — 11 models
+- [NEW581 · Classic capped inhaler / 뚜껑을 씌운 고전형 흡입기](NEW581/README.md) — 9 models
+- [NEW583 · Whole dried star-anise fruit / 통팔각 열매](NEW583/README.md) — 3 models
+- [NEW584 · Rubber bone-shaped dog chew toy / 뼈 모양 고무 반려견 씹기 장난감](NEW584/README.md) — 3 models
+- [NEW585 · Go board and two closed stone bowls stored exterior / 바둑판과 닫힌 바둑통 보관 외형 세트](NEW585/README.md) — 3 models
+- [NEW588 · Whole Green Globe artichoke / 통 그린 글로브 아티초크](NEW588/README.md) — 2 models
+- [NEW589 · Complete closed-frame metal jaw harp / 완성형 금속 입하프](NEW589/README.md) — 5 models
+- [NEW590 · Complete whole roast chicken / 완성형 통닭구이](NEW590/README.md) — 3 models
+- [NEW591 · Complete five-point star metal cookie cutter / 완성형 오각 별 모양 금속 쿠키 커터](NEW591/README.md) — 2 models
+- [NEW593 · Complete spring-return cricket wicket / 완성형 복귀 스프링 크리켓 위켓](NEW593/README.md) — 1 models
+- [NEW594 · Complete handheld correction-tape dispenser / 완성형 휴대용 수정 테이프 디스펜서](NEW594/README.md) — 2 models
+- [NEW595 · Complete mesh-covered soda-water siphon / 완성형 금속 망 탄산수 사이펀](NEW595/README.md) — 2 models
+- [NEW597 · Complete automotive mechanic creeper / 완성형 자동차 정비용 크리퍼](NEW597/README.md) — 6 models
+- [NEW598 · Complete carpet knee kicker / 완성형 카펫 니 키커](NEW598/README.md) — 3 models
+- [NEW599 · Complete chain door guard / 완성형 체인 도어 가드](NEW599/README.md) — 2 models
+- [NEW601 · Complete French curve drafting template / 완성형 프렌치 커브 제도 템플릿](NEW601/README.md) — 1 models
+- [NEW602 · Complete rocker ink blotter / 완성형 로커 잉크 블로터](NEW602/README.md) — 4 models
+- [NEW604 · Sliding matchbox with declared partial load / 일부 성냥이 담긴 슬라이딩 성냥갑](NEW604/README.md) — 3 models
+- [NEW608 · Christmas party cracker / 크리스마스 파티 크래커](NEW608/README.md) — 4 models
+- [NEW609 · Complete coal briquette / 완성형 연탄](NEW609/README.md) — 1 models
+- [NEW612 · Queen conch shell / 여왕소라고둥 껍데기](NEW612/README.md) — 1 models
+- [NEW619 · Complete inspection ROV / 완성형 수중 점검 로봇](NEW619/README.md) — 2 models
+- [NEW625 · Complete hand bailer / 완성형 손잡이 물퍼개](NEW625/README.md) — 11 models
+- [NEW630 · Outboard motor / 선외기](NEW630/README.md) — 2 models
+- [NEW635 · Ship compass binnacle / 선박 나침반 비너클](NEW635/README.md) — 2 models
+- [NEW643 · Chain wrench / 체인 렌치](NEW643/README.md) — 5 models
+- [NEW644 · Freestanding cigarette butt receptacle / 독립형 꽁초 수거함](NEW644/README.md) — 4 models
+- [NEW649 · Sea pig / 바다돼지 해삼](NEW649/README.md) — 2 models
+- [NEW651 · Pillow lava outcrop / 베개 용암 노두](NEW651/README.md) — 2 models
+- [NEW652 · Giant isopod / 대왕등각류](NEW652/README.md) — 1 models
+- [NEW656 · Square benthic lander / 사각 해저 랜더](NEW656/README.md) — 1 models
+- [NEW659 · Codium seaweed / 청각](NEW659/README.md) — 2 models
+- [NEW662 · Red sea squirt / 붉은 멍게](NEW662/README.md) — 4 models
+- [NEW663 · Living scallop / 생체 가리비](NEW663/README.md) — 2 models
+- [NEW664 · Ekman sediment sampler / 에크만 채니기](NEW664/README.md) — 2 models
+- [NEW665 · Secchi transparency tool / 세키 투명도 측정 도구](NEW665/README.md) — 5 models
+- [NEW671 · Historical log line / 전통 항해 측속줄](NEW671/README.md) — 4 models
+- [NEW672 · Dumbo octopus / 덤보문어](NEW672/README.md) — 4 models
+- [NEW674 · Sailmaker palm / 돛 제작용 손바닥 골무](NEW674/README.md) — 2 models
+- [NEW676 · Sea hare / 군소](NEW676/README.md) — 1 models
+- [NEW614 · Clamshell grab / 클램셸 그랩](../promoted_history/NEW614/README.md) — 3 models
+- [NEW615 · Lifeguard chair / 인명구조원 감시 의자](../promoted_history/NEW615/README.md) — 6 models

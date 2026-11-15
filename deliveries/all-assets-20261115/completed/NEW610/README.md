@@ -1,0 +1,42 @@
+# NEW610 · Complete linked wooden bongos / 연결된 목제 봉고 한 쌍
+
+**상태 / Status:** 승인된 선택본 / accepted selected asset. 3 LOD × BLEND·GLB·FBX = 9 models.
+
+하나의 에셋이며 LOD나 형식은 별도 종류로 세지 않습니다. 텍스처가 제공된 경우 함께 배치하세요.
+One asset, not nine designs. Keep supplied textures with the model files.
+
+## 사용 범위 / Scope
+
+게임용 시각 에셋입니다. 제작 당시 파일 검사와 이번 복구의 바이트 검증은 Unity 실행, 물리·충돌·성능·동작 인증을 뜻하지 않습니다. 역사 자료 전체와의 중복 부재도 보장하지 않습니다.
+Visual game asset. Authoring-time checks and recovery byte verification are not Unity runtime, physics, collision, performance or operational certification. Global uniqueness is not guaranteed.
+
+## 개별 한계 / Asset-specific limitations
+
+Published dimensions are nominal head diameters of 184.15 mm and 219.075 mm, and a straight tension-rod diameter of 7.9375 mm. Height, shell walls and taper, center bridge, rims, tabs, slots, hooked tips, lower fittings and underside are inferred. The model is not a fully reverse-engineered construction.
+The original build stopped before saving geometry because of a Blender tessellator API return-type mismatch. Its script and failure log are preserved. The first completed gray model had clipped white lighting; v002 changed light intensity only, with exact mesh/material identity verified. Its blind recognition result, reported by the parent, was a bongo pair at native 128 (92/100) and connected bongos at 1024 (99/100).
+Independent source review found missing downward flared/slotted tabs and hooked rod tips in v002. The one allowed geometry correction produced v003: eight true through-slotted tabs and eight returned hooked tips, supported by the rim undersides, rod caps and finite slot ledges. The recognized complete unequal pair, membranes, hollow tapered shells, bridge and lower fittings were preserved. All original versions and failures remain intact. No second geometry correction is allowed.
+The inherited contact checker initially flagged 14 earlier-geometry corner/edge cases. Those failures are preserved. Replacing float angle sorting with an exact projected convex hull, and using exact triangle separating axes with full finite support coverage, resolved the cases without a geometry change. The independent auditor reproduced that result using its separate predicates before the hardware correction.
+Use the exact nine files in 검사 기록. The three FBX files are `NEW610_LOD0_fbx_v002.fbx`, `NEW610_LOD1_fbx_v002.fbx` and `NEW610_LOD2_fbx_v002.fbx`. BLEND and GLB files are `NEW610_LOD0`, `NEW610_LOD1` and `NEW610_LOD2` with the corresponding extension. The earlier FBX files are preserved failed-serialization evidence, not selected deliverables. No selected file changed after the frozen manifest was created.
+## Preserved infrastructure failures
+## Source limits and acceptance scope
+The exact reference is the official LP201AX-2 Comfort Curve II chrome option, not traditional-rim or gold hardware. Published dimensions are nominal 184.15 / 219.075 mm head diameters and 7.9375 mm straight tension-rod diameter. Height, shell walls/taper, bridge, rim sections, tabs, slots, returned tips, lower hardware and underside remain explicitly inferred. Constant source-inspired colors are approximate. Wood grain, rawhide fibers, logos, thread detail and wear are omitted. This is not metrology or a manufacturing model.
+**PASS for the corrected opaque-gray source/technical gate on sealed `NEW610_gray_v003.blend`.** This does not approve final exports, upload, registration or production delivery. The separate blind recognition assessment is not a substitute for this gate. No further geometry correction is requested or allowed under the bounded correction scope.
+The v002 HOLD was justified: it omitted the source's downward flared/slotted tabs and hooked rod ends. The single v003 correction adds all eight tabs with actual through apertures and eight actual returned hook profiles. These are now visible in detail and underside views. Independent exact native controls confirm that each aperture's full radial line misses every tab triangle while an adjacent upper material probe lies inside the tab; hook cross sections contain one lower stem, separated stem/return regions at middle height, and their reunited upper bridge. This is not merely a painted slot or renamed straight cap. No remaining materially wrong or missing source-essential hardware was found at this intended low-poly gray fidelity. Fine threads, logos, shell grooves, small rounding and exact hidden fastening construction remain simplified, not represented as exact manufacturing details.
+- 41 individually closed, connected, outward-oriented parts and 6,616 triangles. Zero nonmanifold edges, winding failures, invalid vertex links, degenerates or nonfinite coordinates. No smoothing, custom normals or modifiers.
+The independent narrowphase uses native binary-coordinate integers/Fractions and vertex/edge intersection, rather than copying the producer's clipping runner. Broadphase is a separately implemented linear all-pair sweep. Finite contact polygons use exact projected convex hulls and rational interval coverage. Local triangle SAT is only one local separation test, not a standalone proof of solid physics; it is combined with the closed oriented surfaces, exact finite contact coverage and containment witnesses. Generic predicate infrastructure was reused and challenged with the recorded controls. No numeric geometry was reused from another model or from producer QA.
+## Dimensions and limits
+Own measurements reproduce the published nominal head diameters **184.15 mm / 219.075 mm** and straight rod diameter **7.9375 mm** to saved float32 precision. Nominal head diameter is not outside-rim diameter. Shell height/taper/thickness, bridge dimensions, all rim and tab/slot/hook dimensions, lower fittings and hidden underside are inferred from the exact photograph. A head-size match does not imply calibrated photography or metrology. Flattened polygonal hook tips and horizontal sections through bent rods are deliberate simplifications. No acoustic, structural-strength, frictional-joint or fully reverse-engineered LP construction claim is made. Stability is for a rigid fastened/bonded assembly with uniform density, not a physical simulation of real material densities or fasteners.
+- All scripts and logs are included. v002 HOLD and earlier failed producer checks remain preserved; nothing was deleted or overwritten.
+**PASS for the nine frozen final deliverables.** This verdict covers the exact selected BLEND, FBX and GLB files at LOD0, LOD1 and LOD2, not superseded FBX exports. No model was modified, repaired, resaved, uploaded or deleted by this auditor. No additional render was created. This is an asset/source/technical acceptance, not a claim that backup, upload or registration has occurred.
+Independently opened the source and all three final natives in Blender 4.3.2, and imported all six selected exports with only the filepath argument after factory reset. No import scaling, normal, smoothing or repair option was changed. A new extraction script captured actual raw vertex/triangle arrays, world positions, corner normals/UVs/material indices, transforms, material nodes and dependencies. Producer geometry JSON was not used as the numeric input. Each imported mesh was left untouched. Exact coincident position welding is an analysis-only representation for topology, not a mesh repair.
+The source's curved chrome tabs/hooks are simplified into clearly angular low-poly forms, and fine surface grooves/threads are not modeled. These are explicit fidelity limits rather than hidden omissions. No further geometry correction is requested.
+- Every file contains the same 41 source parts. Triangle totals are **6,616 / 5,004 / 3,904**, meaningful reductions of approximately 24.4% and 41.0% from LOD0.
+- Actual assembly dimensions are approximately **471.6125 × 245.0750 × 218.0000 mm** at all LODs and formats. These overall dimensions remain inferred. Scene scale is 1 m per unit, and imported world geometry matches native with zero position or bounding-dimension error.
+## Preserved audit failures and limitations
+
+제작 중 작성된 제한 설명은 승인된 선택본의 사용 한계를 안내합니다. 그 설명의 과거 검사 대기 상태는 현재 승인 상태를 대체하지 않습니다. / Historical authoring notes describe limitations; their intermediate pending status does not supersede the accepted selected-file status.
+
+## 권리 / Rights
+
+이 문서는 새로운 라이선스를 부여하지 않습니다. 기존 저장소의 권리 안내를 따르세요.
+This document grants no new license; consult the repository’s existing rights information.

@@ -1,0 +1,43 @@
+# NEW615 · Complete elevated lifeguard chair / 완성형 인명구조원 감시 의자
+
+**상태 / Status:** 승인된 선택본 / accepted selected asset. 3 LOD × BLEND·GLB·FBX = 9 models.
+
+하나의 에셋이며 LOD나 형식은 별도 종류로 세지 않습니다. 텍스처가 제공된 경우 함께 배치하세요.
+One asset, not nine designs. Keep supplied textures with the model files.
+
+## 사용 범위 / Scope
+
+게임용 시각 에셋입니다. 제작 당시 파일 검사와 이번 복구의 바이트 검증은 Unity 실행, 물리·충돌·성능·동작 인증을 뜻하지 않습니다. 역사 자료 전체와의 중복 부재도 보장하지 않습니다.
+Visual game asset. Authoring-time checks and recovery byte verification are not Unity runtime, physics, collision, performance or operational certification. Global uniqueness is not guaranteed.
+
+## 개별 한계 / Asset-specific limitations
+
+**PASS_WITH_LIMITS** for technical geometry, with no model edits. This is not a visual/source/context approval.
+## Limits
+- Exact means exact stored binary mesh coordinates; original design idealizations and intended joinery are not inferred.
+- Native topology/normal, finite-support coverage, and containment routines were inspected and freshly rerun from supplied source. Independent exhaustive enumeration and alternate triangle predicate replace the producer BVH path; two exact algorithms agree on all 18,531 candidates. This is independent execution and validation, not a wholly independent implementation of every gate.
+## PASS_WITH_LIMITS
+The selected nine-file set passes as an original **static integrated elevated observation / lifeguard chair**, under the revised broad-function, plausible-screen-size and source-context criterion. It is not a guaranteed isolated gray128 naming result, an actual Unity integration test or a real installation.
+Fresh actual width/depth/height is **0.761999130249 / 1.092199325562 / 1.777999877930 m**, against published 30/43/70 inches converted to **0.762 / 1.0922 / 1.778 m**. Seat top is **1.270000457764 m**, against published 50 inches =1.270 m. Tread tops are **0.254001617432 / 0.546100616455 / 0.838199615479 m**, against 10/21.5/33 inches. Maximum level error is approximately **1.62 micrometres**, reflecting saved binary coordinates. Every selected format has identical bounds, origin at ground, metric-equivalent scale1.0, and no below-ground vertex.
+The approximately **540x205mm** platform footprints and **8mm** central joints are inferred from source proportions, not published measurements. Member sections, profiles, edge rounding, socket/fastener dimensions and hidden attachments are also inferred. The solid simplified seat and low-poly fittings are approximations, not manufacturing reproduction. The source specification's135lb versus current webpage's140lb discrepancy is not used for physical simulation. Actual reference-image filenames are the research `_v001` files; the older producer `_v003` image citations were erroneous and remain preserved with the correction documented.
+A strict first material-node checker flagged FBX's importer-created Normal Map node. Fresh default-import probes prove it has exactly zero unlinked Strength, neutral unlinked Color and no texture, with only expected links. All actual normals and PBR values already passed. This was a checker false positive, documented separately with original failed records retained; no material or import repair occurred.
+## Real raw-GLB failure, narrowly corrected
+The first raw-buffer check found a real portability failure in all three original GLBs: the right armrest cup-aperture top triangle50 had serialized corner normal(-0.000199999995,1,0) against exact axial geometric normal(0,1,0). Its independently normalized float64 deviation was **0.011459155460345 degrees**, above0.01. All three triangle positions have identicalY, so this is not transform or face-normal cancellation ambiguity.
+Installed exporter source confirms four-decimal normal rounding. The default Blender importer classifies this near-flat polygon as flat and evaluates its native polygon normal, so the default-import pass alone masked the raw-buffer deviation. The initial exports, frozenv001 manifest,24 original GLB views and failed-check witnesses remain unchanged. The failure was not waived as a Unity limitation.
+An independent raw reader mapped **4,344 / 3,480 / 2,904 corners** against a separately reopened direct-native extraction. **Every float32 normal byte matches exactly**, including shared-index consistency. **Every byte outside NORMAL accessor payloads is identical** to the old GLB: JSON, nodes, topology, positions, indices, UVs and materials included. Changed bytes are11,685 /8,424 /6,855, all inside allowed normal storage. Raw maxima are now **0.009668746070721 degrees**. Fresh corrected imports pass with zero position/normal/material drift and exact full oriented geometry equality to the previously exhaustive-tested meshes. All24 corrected-GLB images were actually rerendered and individually reviewed, not inferred from old images.
+Zero self-intersection, degeneracy or invalid contact defects were found. Two exact algorithms agree on all **46,484 candidates**. Cross edge/point contacts require complete rational union coverage by actual finite opposed contact patches plus local separation, not a whole-pair whitelist. Every LOD has102 finite support planes, a connected57-vertex/102-edge actual attachment graph, and a recorded ground path for every part. All **3,192 ordered strict-containment exclusions per LOD** pass.
+The three hollow meshes remain exactly unchanged across LODs. Each has closed genus-one topology;45 exact full-thickness through-channel probes and9 solid-wall probes pass. These establish open apertures rather than merely comparing volume. They are sampled channel tests plus complete surface equality, not a proof of every possible passage path.
+Reviewed rational primitives/contact/containment routines were transparently reused and freshly executed; independent enumeration, alternate-predicate comparison, aperture checks and support integration were added. This is not a claim that every helper was newly invented. **21 synthetic controls,15 cross-algorithm regressions and5 import-fidelity controls** pass, including near misses, shared-simplex violations, co-oriented contact, reversed winding, wrong normals/UV/material, capped apertures, and unsupported remote contact on an otherwise-supported object pair.
+## Actual individual views and functional limits
+Independent fresh camera projection confirms every named target is unclipped. Genuine128-square images project approximately116.5–116.6px asset height. All whole1024 underside margins exceed43.46px; seat and step detail target margins are40.31px and71.84px. Intentional cropping of unrelated upper/lower frame in detail shots is outside target scope. Pixel checks verify opaque output, expected native dimensions and a maximumRGB value of **228**, with **zero pixels at or above245**. The previews are native renders on144/288/576-square canvases, not downscaled stand-ins.
+At approximately117px height, the elevated seat and three platforms survive but tiny fittings fade; a generic tall chair or step-ladder association remains reasonable. Front three-quarter views at256/512px object height make the integrated access and elevated-seat function clearer. Side/top views are less diagnostic. Historical blind-gray ambiguity remains; no new blind recognition score is claimed. The prior unchanged-geometry poolside review supplies contextual evidence, not real-game validation.
+This audit made no model, source-normal, import-setting, upload, deletion or acceptance-index changes. The single earlier gray geometry correction remains exhausted; no additional geometry repair was used. Earlier HOLDs, camera failure, raw-normal failure, material-checker false positive, incomplete diagnostic writes and their uniquely named corrected audit records are preserved. Authoritative current raw evidence is 검사 기록; the exploratory original raw diagnostic is not a final pass record.
+**PASS_WITH_LIMITS**. No model correction or external mutation performed.
+All three formats are exactly equal within each LOD under full named-part coordinate and oriented triangle canonicalization. This is a complete geometry comparison, not a count comparison. LOD0/1/2 have 57 parts and 1,448 / 1,160 / 968 triangles. Canonicalization introduces no welding: original native extractions have no repeated vertex coordinates within a part.
+
+제작 중 작성된 제한 설명은 승인된 선택본의 사용 한계를 안내합니다. 그 설명의 과거 검사 대기 상태는 현재 승인 상태를 대체하지 않습니다. / Historical authoring notes describe limitations; their intermediate pending status does not supersede the accepted selected-file status.
+
+## 권리 / Rights
+
+이 문서는 새로운 라이선스를 부여하지 않습니다. 기존 저장소의 권리 안내를 따르세요.
+This document grants no new license; consult the repository’s existing rights information.
