@@ -1,6 +1,6 @@
-# Submerged City Assets
+# City Assets
 
-침수 도시 탐험 게임용 Blender·Unity 에셋 보관소입니다.
+침수된 도시용 Blender·Unity 에셋 보관소입니다.
 
 ## 다운로드
 
