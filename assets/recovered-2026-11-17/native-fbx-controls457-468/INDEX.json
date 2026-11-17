@@ -1,0 +1,183 @@
+{
+  "asset_count": 4,
+  "asset_ids": [
+    "NEW457",
+    "NEW461",
+    "NEW466",
+    "NEW468"
+  ],
+  "native_files": 12,
+  "FBX_files": 12,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW457_CONTROLS.zip",
+      "bytes": 1202780,
+      "sha256": "0dcbf0b1f905280e7ab2b3d1f4f0a23a5f350cd77592b539e4c6d7acb1236779",
+      "members": [
+        {
+          "member": "NEW457/NEW457_Treadle_Grindstone_LOD0.blend",
+          "bytes": 1304244,
+          "sha256": "64c0504084e59be885e092ec0cb0b933b27f0b02eb925511d98bd52d648a69ef"
+        },
+        {
+          "member": "NEW457/NEW457_Treadle_Grindstone_LOD0.fbx",
+          "bytes": 431308,
+          "sha256": "679078b71d967c5d420b8790485f968d5b62fd704fe31001a5ab85f37bb5fb63"
+        },
+        {
+          "member": "NEW457/NEW457_Treadle_Grindstone_LOD1.blend",
+          "bytes": 1166468,
+          "sha256": "d41278fdaf7101e0e18e2cfec38f6da4bcf7653c27e1b5b358fe2e69a92ec576"
+        },
+        {
+          "member": "NEW457/NEW457_Treadle_Grindstone_LOD1.fbx",
+          "bytes": 379724,
+          "sha256": "86a72f3e3d35fec7ac582419e2c3685f317c18e9193e7e68028de7dc2ae3f1f4"
+        },
+        {
+          "member": "NEW457/NEW457_Treadle_Grindstone_LOD2.blend",
+          "bytes": 1086668,
+          "sha256": "9da1d24df3c237346444f069b3257a98961fbbddb1468dafb6290e640f4645a1"
+        },
+        {
+          "member": "NEW457/NEW457_Treadle_Grindstone_LOD2.fbx",
+          "bytes": 346476,
+          "sha256": "247072e3415e2ed9cd3846d557b6fcf11f2b987c920d4be99c33d8a374f3ecc3"
+        },
+        {
+          "member": "NEW457/MANIFEST.json",
+          "bytes": 3472,
+          "sha256": "3e21b31617a003bc9141b92789f851d3e7a36c1f64e98a7957a5eb9956a454b0"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW461_CONTROLS.zip",
+      "bytes": 877335,
+      "sha256": "a83e1b68f002d45eb570138b03b5b42908a5b94d47025a482db235038fb0f50b",
+      "members": [
+        {
+          "member": "NEW461/NEW461_LOD0.blend",
+          "bytes": 722432,
+          "sha256": "040dbe2f88832458982f7e4db087981e45fd38daf1be771c6db120c98008296f"
+        },
+        {
+          "member": "NEW461/NEW461_LOD0.fbx",
+          "bytes": 213948,
+          "sha256": "16f9c992e922db890d584adba9639488164c0404b3ab16f251524954f9422a09"
+        },
+        {
+          "member": "NEW461/NEW461_LOD1.blend",
+          "bytes": 620032,
+          "sha256": "86572f7348cd1b43ff6644d93e02e281392a9f7a55f633a1a6d648d48826fbda"
+        },
+        {
+          "member": "NEW461/NEW461_LOD1.fbx",
+          "bytes": 169932,
+          "sha256": "4afe74399b7027b8d76972a87fc482b0191b9c5a2642ff2b90699e12ef5206ae"
+        },
+        {
+          "member": "NEW461/NEW461_LOD2.blend",
+          "bytes": 576512,
+          "sha256": "06ff0624262371673d6207fb2632b67ed914320399a65cfebf90cdae8639a2dd"
+        },
+        {
+          "member": "NEW461/NEW461_LOD2.fbx",
+          "bytes": 151164,
+          "sha256": "0f383b1c538c034160641ea4805896756bd44b4cd7ef8e455b871ce081658793"
+        },
+        {
+          "member": "NEW461/MANIFEST.json",
+          "bytes": 3847,
+          "sha256": "74abce1595ec2721e1f7daacf48aa1d599c99ce26459d6136438b8c1bf0b1a99"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW466_CONTROLS.zip",
+      "bytes": 1177637,
+      "sha256": "9d195957a3b2404d8733d33ca4ea32f1f30a1bd1c74627edabc087f79b0b300b",
+      "members": [
+        {
+          "member": "NEW466/NEW466_LOD0.blend",
+          "bytes": 1378140,
+          "sha256": "a1df56c00044d7f2ed3c1f52070b0b6fc0404ba3bc4cd90e307516788c29f4e4"
+        },
+        {
+          "member": "NEW466/NEW466_LOD0.fbx",
+          "bytes": 377516,
+          "sha256": "b7e8ebcf1ba7b9fc0ea424014e6248e9da24350cbb87d325e9f4a2939ee18d30"
+        },
+        {
+          "member": "NEW466/NEW466_LOD1.blend",
+          "bytes": 775552,
+          "sha256": "db10bffe6fe7f7f2547342add6c44954b568aa680c5fd88deda1a0d922fad1ab"
+        },
+        {
+          "member": "NEW466/NEW466_LOD1.fbx",
+          "bytes": 182172,
+          "sha256": "87447c9613a49453eecb18103e4c6e43fb0366d3ee66c600834a0f83b91037c5"
+        },
+        {
+          "member": "NEW466/NEW466_LOD2.blend",
+          "bytes": 653312,
+          "sha256": "a90696da21cb6661a378c4985d44d0837af9defb63cbc7f03f30e1d75bb9a72a"
+        },
+        {
+          "member": "NEW466/NEW466_LOD2.fbx",
+          "bytes": 137868,
+          "sha256": "85f12962fbac7ad8ae3300dad5141782ced2f421821da9dc4209124ba71141bb"
+        },
+        {
+          "member": "NEW466/MANIFEST.json",
+          "bytes": 6133,
+          "sha256": "ef5fabedc253d820314f8695d6d241ea8873dca02e7c4f5dba8df21533a90b7f"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW468_CONTROLS.zip",
+      "bytes": 1363464,
+      "sha256": "3a0fe4897ba0acdc509203e4f95e8e4a6a4dd5e022ad98d0c4aab34aeedf6125",
+      "members": [
+        {
+          "member": "NEW468/NEW468_LOD0.blend",
+          "bytes": 1171808,
+          "sha256": "fd419cc86f28f1d3065f046002d16c71a976c54a0871956a6600f495d718da6e"
+        },
+        {
+          "member": "NEW468/NEW468_LOD0.fbx",
+          "bytes": 326508,
+          "sha256": "8faebb9825e48dce1492e77140b62238cbfe1ff5a7712611240de6d0706341de"
+        },
+        {
+          "member": "NEW468/NEW468_LOD1.blend",
+          "bytes": 970684,
+          "sha256": "efbc9dadfb4315ab27ac80f0e38cff774f73e99bac057aa0cc5970037f8c156d"
+        },
+        {
+          "member": "NEW468/NEW468_LOD1.fbx",
+          "bytes": 282012,
+          "sha256": "de64c22eadb0549b3793c8868b862a11ec3cb81c454819fa59a03fbf0e79a76e"
+        },
+        {
+          "member": "NEW468/NEW468_LOD2.blend",
+          "bytes": 720816,
+          "sha256": "22cb29989da640b9dcc5366f0ffb4d79004cc3b6af4765c951c33c9290e61b5f"
+        },
+        {
+          "member": "NEW468/NEW468_LOD2.fbx",
+          "bytes": 193100,
+          "sha256": "e31bce96ee2c5cd4a6a46bda3a06f664770cb93542aedf9320e43e730b36d6f2"
+        },
+        {
+          "member": "NEW468/MANIFEST.json",
+          "bytes": 4475,
+          "sha256": "68c65869defb7c91cc6b91bc132293069f3a4df6bd9979445db22ad7319706b4"
+        }
+      ]
+    }
+  ],
+  "each_asset_zip_complete": true,
+  "Unity": "NOT_RUN"
+}
