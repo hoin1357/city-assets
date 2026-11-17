@@ -1,0 +1,61 @@
+{
+  "scope": "31 existing assets, separately privacy-cleaned native and FBX copies; originals preserved. GLB packages are separate. Not full registry completion.",
+  "asset_count": 31,
+  "native_files": 93,
+  "FBX_files": 93,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH001_001.zip",
+      "bytes": 8903870,
+      "sha256": "6d8167c834b064b3a58cb663d5046897856cf7a705351de6054bf3699965aa8c",
+      "asset_ids": [
+        "NEW_RECOVERY_006",
+        "NEW_RECOVERY_015",
+        "NEW_RECOVERY_047",
+        "NEW_RECOVERY_002",
+        "NEW_RECOVERY_300",
+        "NEW_RECOVERY_003",
+        "NEW_RECOVERY_004",
+        "NEW_RECOVERY_001",
+        "NEW_RECOVERY_007",
+        "NEW_RECOVERY_008",
+        "NEW_RECOVERY_009",
+        "NEW_RECOVERY_010",
+        "NEW_RECOVERY_011",
+        "NEW_RECOVERY_013",
+        "NEW_RECOVERY_014",
+        "NEW_RECOVERY_012"
+      ],
+      "native_files": 48,
+      "FBX_files": 48,
+      "payloads_including_public_manifests": 112
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH001_002.zip",
+      "bytes": 8463293,
+      "sha256": "58448ced5002d96e30b978a4096fa8f2de772d02a7ea66b68a9187e159e6e401",
+      "asset_ids": [
+        "NEW_RECOVERY_017",
+        "NEW_RECOVERY_020",
+        "NEW_RECOVERY_019",
+        "NEW_RECOVERY_023",
+        "NEW_RECOVERY_025",
+        "NEW_RECOVERY_026",
+        "NEW_RECOVERY_027",
+        "NEW_RECOVERY_028",
+        "NEW_RECOVERY_029",
+        "NEW_RECOVERY_030",
+        "NEW_RECOVERY_031",
+        "NEW_RECOVERY_032",
+        "NEW_RECOVERY_033",
+        "NEW_RECOVERY_035",
+        "NEW_RECOVERY_037"
+      ],
+      "native_files": 45,
+      "FBX_files": 45,
+      "payloads_including_public_manifests": 105
+    }
+  ],
+  "Unity": "NOT_RUN",
+  "source_public_hashes_differ": true
+}
