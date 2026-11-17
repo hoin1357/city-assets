@@ -1,0 +1,12 @@
+{
+  "unit": "v098",
+  "plan_item": "C039-01 wooden lectern",
+  "state": "PAUSED_INCOMPLETE_GEOMETRY_QA_FAILED",
+  "active_usable_version": null,
+  "failed_candidate": "v001",
+  "failed_path": "failures/v001",
+  "retained_original_generation_path": "active",
+  "warning": "The active directory name is a historical generation location, NOT a release designation. Original candidate files remain there unchanged; no files were moved or deleted.",
+  "reason": "Top_support_gap = 0.004553216948751215 m",
+  "next_action": "Prioritize historical-asset recovery investigation. Do not start v099. Do not resume geometry changes without authorization."
+}

@@ -1,0 +1,113 @@
+{
+  "root": "v098_lectern",
+  "unit": "v098",
+  "state": "PAUSED_INCOMPLETE_GEOMETRY_QA_FAILED",
+  "active_version": null,
+  "files": [
+    {
+      "path": "ACTIVE_STATUS.json",
+      "bytes": 646,
+      "sha256": "dca5f75ec9d05e7c33df40c18a8230a33aac7474519ed333ad2c11943550caa4"
+    },
+    {
+      "path": "RESUME.md",
+      "bytes": 4600,
+      "sha256": "97f0d8afd97c4ac2213b826f71ee0b12175519582de06a74c1bfad618fc8e761"
+    },
+    {
+      "path": "active/C03901R_LECTERN_ASSET_v001.blend",
+      "bytes": 128332,
+      "sha256": "1ef064d597c13653c6b48a718609f5e513a456aa8172d883a6bc7efbd271820c"
+    },
+    {
+      "path": "active/C03901R_LECTERN_COL_v001.glb",
+      "bytes": 7712,
+      "sha256": "2a2243cedfe1f9cfd1988cfd9b1891654cb6d8efb0bfea45cfd4296cac36646c"
+    },
+    {
+      "path": "active/C03901R_LECTERN_RENDER_v001.glb",
+      "bytes": 260256,
+      "sha256": "b30eddc7e54a9d82361956137deb03e42e17ec54e4deef2f2c6d2d934074eb57"
+    },
+    {
+      "path": "active/INDEPENDENT_QA.json",
+      "bytes": 1369,
+      "sha256": "0a84b9d1180be64d8426ff85a38626d0f171d8c6017e220932accf5e54c4093a"
+    },
+    {
+      "path": "active/PREVIEW_LECTERN_HERO_v098.png",
+      "bytes": 2169534,
+      "sha256": "29506952fa75fa26d2e84d40aab5f4f27848e8942450f02f7517acfba567f527"
+    },
+    {
+      "path": "active/STATUS_NOT_RELEASED.json",
+      "bytes": 646,
+      "sha256": "dca5f75ec9d05e7c33df40c18a8230a33aac7474519ed333ad2c11943550caa4"
+    },
+    {
+      "path": "evidence/DUPLICATE_SEARCH.json",
+      "bytes": 4729,
+      "sha256": "b2b8a606ba7bcd781aa9e71b85064f0c6cd9d4f0091681944ad22422e5fb813b"
+    },
+    {
+      "path": "evidence/FAILURE_COPY_COMPARISON.json",
+      "bytes": 923,
+      "sha256": "e336dc8efc88fcdaa18c19d5ad96410fb7a9b57ee9a2ea66b667d1ca1a8b678d"
+    },
+    {
+      "path": "evidence/PRESERVATION_SEARCH.json",
+      "bytes": 718,
+      "sha256": "180f67467609b9cd500dcd19ff8e5c86e3b6983cf6ed1a7050becc95c29852d6"
+    },
+    {
+      "path": "failures/v001/C03901R_LECTERN_ASSET_v001.blend",
+      "bytes": 128332,
+      "sha256": "1ef064d597c13653c6b48a718609f5e513a456aa8172d883a6bc7efbd271820c"
+    },
+    {
+      "path": "failures/v001/C03901R_LECTERN_COL_v001.glb",
+      "bytes": 7712,
+      "sha256": "2a2243cedfe1f9cfd1988cfd9b1891654cb6d8efb0bfea45cfd4296cac36646c"
+    },
+    {
+      "path": "failures/v001/C03901R_LECTERN_RENDER_v001.glb",
+      "bytes": 260256,
+      "sha256": "b30eddc7e54a9d82361956137deb03e42e17ec54e4deef2f2c6d2d934074eb57"
+    },
+    {
+      "path": "failures/v001/FAILURE_STATUS.json",
+      "bytes": 646,
+      "sha256": "dca5f75ec9d05e7c33df40c18a8230a33aac7474519ed333ad2c11943550caa4"
+    },
+    {
+      "path": "failures/v001/INDEPENDENT_QA.json",
+      "bytes": 1369,
+      "sha256": "0a84b9d1180be64d8426ff85a38626d0f171d8c6017e220932accf5e54c4093a"
+    },
+    {
+      "path": "failures/v001/PREVIEW_LECTERN_HERO_v098.png",
+      "bytes": 2169534,
+      "sha256": "29506952fa75fa26d2e84d40aab5f4f27848e8942450f02f7517acfba567f527"
+    },
+    {
+      "path": "logs/build_v001.log",
+      "bytes": 11920,
+      "sha256": "9c866a2e822ffea123222ab53ba494385c62839a1fd7f9c717dd29916f9157e1"
+    },
+    {
+      "path": "logs/verify_v001.log",
+      "bytes": 4347,
+      "sha256": "df961d34bd53b888cd5cd455381c5c8960211c75e1a68a1615bc713e1468d6bc"
+    },
+    {
+      "path": "source/build_v098.py",
+      "bytes": 7221,
+      "sha256": "c93e81bfce782774baf8018be9e6d09e66a188b394e915c8a3dde73dddbd4fac"
+    },
+    {
+      "path": "source/verify_geometry.py",
+      "bytes": 3468,
+      "sha256": "2e1371284dfd0e134584e51398413f4717a0afd2d5d5dcb2ea20dc2f38ef5f35"
+    }
+  ]
+}
