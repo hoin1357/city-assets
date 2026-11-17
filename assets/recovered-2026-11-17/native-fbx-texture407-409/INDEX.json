@@ -1,0 +1,130 @@
+{
+  "asset_ids": [
+    "NEW407",
+    "NEW409"
+  ],
+  "asset_count": 2,
+  "native_files": 6,
+  "FBX_files": 6,
+  "original_procedural_PNGs": 4,
+  "transport": "ALL_PARTS_REQUIRED_EXTRACT_INTO_SAME_FOLDER_PRESERVE_PATHS",
+  "parts_are_independent_assets": false,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_TEXTURE407_409_PART01.zip",
+      "bytes": 7620583,
+      "sha256": "8d75dedf3b64aa0e3fe5d25a1adf981e92156d080505fe2ac50076f13966f88a",
+      "members": [
+        {
+          "member": "NEW407/NEW407_LOD0.blend",
+          "bytes": 3336724,
+          "sha256": "ea40249ca5a224c53011e8162f1c5597faf857a0d302c578ef32404ff6cc3aa6"
+        },
+        {
+          "member": "NEW407/NEW407_LOD0.fbx",
+          "bytes": 2677644,
+          "sha256": "8ebd2381f7f824d7821ebcfc60833ab3c504aaccd6b29df3403395c5ee1a71e3"
+        },
+        {
+          "member": "NEW407/NEW407_LOD0_skin.png",
+          "bytes": 2339838,
+          "sha256": "9885a39f79062e36511f9a6e29ebd569ba5bdc9ffc71f1f553e740f92cf67d83"
+        },
+        {
+          "member": "NEW407/MANIFEST.json",
+          "bytes": 7706,
+          "sha256": "89196acd812add8f2f468284cbf86adf76905e76ff3e6af90ee8e5a683ffc070"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_TEXTURE407_409_PART02.zip",
+      "bytes": 4619643,
+      "sha256": "1246a023b122e9b755e9c496e3d84045875090d1c6826fbb9339536462c54744",
+      "members": [
+        {
+          "member": "NEW407/NEW407_LOD1.blend",
+          "bytes": 2068980,
+          "sha256": "26829262a0c54f07ca02d97f5f23f7f6b99c633a11f010e1c59a0fdc53b487f0"
+        },
+        {
+          "member": "NEW407/NEW407_LOD1.fbx",
+          "bytes": 1609068,
+          "sha256": "19accb00693e6ce166a18b99cf76c9ff31d71d8dad21b9c234d09afab2151b37"
+        },
+        {
+          "member": "NEW407/NEW407_LOD1_skin.png",
+          "bytes": 1416664,
+          "sha256": "2942ed06ef4704861a70e1cbc1e7cb0ce4d2010d4ab0103e16a8d5d9c71703ea"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_TEXTURE407_409_PART03.zip",
+      "bytes": 6294190,
+      "sha256": "ff6dd35af6f6967a3f2ba8ae6d4a3893be840e0e7ac0a68d3cbcd1f9b56935c5",
+      "members": [
+        {
+          "member": "NEW407/NEW407_LOD2.blend",
+          "bytes": 1242740,
+          "sha256": "f6822dbab39f736a12694fd939c6135eaec5513cfe39ac6ca5ea533752b772ef"
+        },
+        {
+          "member": "NEW407/NEW407_LOD2.fbx",
+          "bytes": 906172,
+          "sha256": "35afb3f3b79395f75ee1ce45ca1e9d8094b16a2eba8f9e7956b2c3c35b99190b"
+        },
+        {
+          "member": "NEW407/NEW407_LOD2_skin.png",
+          "bytes": 795582,
+          "sha256": "949004802fd19f546202ffdb3b049a81b3c27e450763d1c795e8f727ffb816a6"
+        },
+        {
+          "member": "NEW409/NEW409_LOD0.blend",
+          "bytes": 4443412,
+          "sha256": "399497f6f5a237d02e9b0e542b9eee6085a27090baad2b90b503a56e47747b70"
+        },
+        {
+          "member": "NEW409/NEW409_LOD0.fbx",
+          "bytes": 1011308,
+          "sha256": "ae918fc1e186569f4b7d751e94dd08058ea2ef59969c8413be8c827a6efe8b0b"
+        },
+        {
+          "member": "NEW409/NEW409_LOD1.blend",
+          "bytes": 2821012,
+          "sha256": "7cf6b5d5180cd1ef3140ba6d0a5577800f35addc3555409c4b499ac395871d81"
+        },
+        {
+          "member": "NEW409/NEW409_LOD1.fbx",
+          "bytes": 653116,
+          "sha256": "e07f7becf7611afe61c8b66ae35a5a1b9257fed7fffc7864bc30c15cbcdc4087"
+        },
+        {
+          "member": "NEW409/NEW409_LOD2.blend",
+          "bytes": 1755412,
+          "sha256": "b980d9422010172f4ae9f2c3fb6f8204e48d7e4a98062c7cb5edf82817035731"
+        },
+        {
+          "member": "NEW409/NEW409_LOD2.fbx",
+          "bytes": 400876,
+          "sha256": "db238886e0f5e84cdf5a1ca7c046c862b363423f50cbd41ad3e0327c2cae7210"
+        },
+        {
+          "member": "NEW409/sawfish_albedo.png",
+          "bytes": 77671,
+          "sha256": "57c30e99551128334af3aec7aae5cabc6ca31c08b41af2f974e6ee1c9054598a"
+        },
+        {
+          "member": "NEW409/MANIFEST.json",
+          "bytes": 7448,
+          "sha256": "192a948964f726df8572fa5563414177d8f4b399ec523a21895d4931c6bfd4c0"
+        }
+      ]
+    }
+  ],
+  "source_package_sha256": "19981a7d865e72b12838f2832cae98f5c0c161e4ba2ffa388ee119847a1a87da",
+  "all_payload_bytes_unchanged": true,
+  "required_file_count": 18,
+  "instructions": "TRANSPORT SET: Download ALL THREE PART ZIPs and extract each into the SAME destination folder, preserving NEW407/ and NEW409/ paths. These are not three independent asset packages: NEW407 spans all three parts. Do not flatten folders or treat a part as complete. Across the set there are 12 model files, 4 original procedural PNG dependencies, and 2 complete asset manifests. File bytes are identical to the verified source package. Reference photos, source code and private QA are excluded. Unity not tested.",
+  "Unity": "NOT_RUN"
+}
