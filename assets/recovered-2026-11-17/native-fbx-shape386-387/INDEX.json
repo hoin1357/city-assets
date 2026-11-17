@@ -1,0 +1,18 @@
+{
+  "asset_count": 2,
+  "asset_ids": [
+    "NEW386",
+    "NEW387"
+  ],
+  "native_files": 6,
+  "FBX_files": 6,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_SHAPE386_387.zip",
+      "bytes": 5637496,
+      "sha256": "d8a110630d5e1ecb76045380feba3264952b2cc58464a668a2f362005daaa6dc"
+    }
+  ],
+  "scope": "Two model-only cleaned shape-feature assets; not entire project completion.",
+  "Unity": "NOT_RUN"
+}
