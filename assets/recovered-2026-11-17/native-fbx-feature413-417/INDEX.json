@@ -1,0 +1,128 @@
+{
+  "asset_count": 2,
+  "asset_ids": [
+    "NEW413",
+    "NEW417"
+  ],
+  "native_files": 6,
+  "FBX_files": 6,
+  "procedural_PNGs": 3,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_413_417_PART01.zip",
+      "bytes": 7522549,
+      "sha256": "18b02e9054c07d64c88c042a6d3774a6eef64b0559a00d9977e4538fc0029b12",
+      "members": [
+        {
+          "member": "NEW413/NEW413_LOD0.blend",
+          "bytes": 3389928,
+          "sha256": "9bfeac847835f1930920bc7a1fbe57d5536b51f882251f5fc6804601587ede5b"
+        },
+        {
+          "member": "NEW413/NEW413_LOD0.fbx",
+          "bytes": 2664764,
+          "sha256": "fc4488d51ee191effe0a2e8ab458ecb7a5eecf653e7a089d67309326edfc54df"
+        },
+        {
+          "member": "NEW413/original_skin_LOD0.png",
+          "bytes": 2283662,
+          "sha256": "3782d66f6d9e73e902bd49d8f9915d26ffd994398fa4801d37295710eb655c2b"
+        },
+        {
+          "member": "NEW413/MANIFEST.json",
+          "bytes": 3295,
+          "sha256": "b4261d179df10da29c4ce041d1e46956b26df012816d28357aa2c8a4f864b3ff"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_413_417_PART02.zip",
+      "bytes": 4225275,
+      "sha256": "8029b7e85e9218534bc0b71ff8d279a02000814ac14f69e2682f1377e5715e71",
+      "members": [
+        {
+          "member": "NEW413/NEW413_LOD1.blend",
+          "bytes": 1994792,
+          "sha256": "5ca521c957da33551fd67ae37ac67aaf854d22bbb809881ec26f94a44b318692"
+        },
+        {
+          "member": "NEW413/NEW413_LOD1.fbx",
+          "bytes": 1488956,
+          "sha256": "e762bde830ebfb6190bdfe731f87bc3d10c40b3791badf87614d4bd539da24c1"
+        },
+        {
+          "member": "NEW413/original_skin_LOD1.png",
+          "bytes": 1278527,
+          "sha256": "588dfd6a04fe527a49a6c185c442e4d01af44fa5cdf476de1bf003943eb7d26d"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_413_417_PART03.zip",
+      "bytes": 1818032,
+      "sha256": "afdcbf26fb952350bb361db9b801f6497d04357661c5757aaf1763b453e3f7b6",
+      "members": [
+        {
+          "member": "NEW413/NEW413_LOD2.blend",
+          "bytes": 996068,
+          "sha256": "714be39b96ed9248a6afcd13c08cff705ebc3a6d50e31228a12283e322023581"
+        },
+        {
+          "member": "NEW413/NEW413_LOD2.fbx",
+          "bytes": 637532,
+          "sha256": "816b9b025ef664bd18d6196ef0cabaa49ec568f5a9b1b28e30c47bb8b0e3654e"
+        },
+        {
+          "member": "NEW413/original_skin_LOD2.png",
+          "bytes": 529401,
+          "sha256": "da1b36eb75cfe3dfec6edd3e1a148b2dc920620ceb384f28a23a20b23d221adf"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_413_417_PART04.zip",
+      "bytes": 482159,
+      "sha256": "222980cca5a76a1b98716d04ffd3ac1ed1c912afe4899f52b6dac920f46eaa21",
+      "members": [
+        {
+          "member": "NEW417/NEW417_LOD0.blend",
+          "bytes": 771644,
+          "sha256": "d14fa14c19c335a05ed63f0f69dcbb7b4e3f72ab90cbba1cc4e7f5c8c824c545"
+        },
+        {
+          "member": "NEW417/NEW417_LOD0.fbx",
+          "bytes": 227580,
+          "sha256": "ffe80f422038b1dea0a7b612274a3398bf8be1a02ba619175beb5c2a2ecc3ac6"
+        },
+        {
+          "member": "NEW417/NEW417_LOD1.blend",
+          "bytes": 712100,
+          "sha256": "9c911ffadd332cb97692b8c874bd594e2d360c90604aa90554cdff22368c4047"
+        },
+        {
+          "member": "NEW417/NEW417_LOD1.fbx",
+          "bytes": 209932,
+          "sha256": "b77519caad40266cad0bd89b317c6472b74158d0d1169ab55c61d5fa8b2beddb"
+        },
+        {
+          "member": "NEW417/NEW417_LOD2.blend",
+          "bytes": 681476,
+          "sha256": "153c8d4f1e01d0780097d821798dd6844fd23e7c513a5c933e8305ddec9c24c7"
+        },
+        {
+          "member": "NEW417/NEW417_LOD2.fbx",
+          "bytes": 200812,
+          "sha256": "402e5d1a9bd84db316a67e61e6395643e0eee75a25dde519141aee26c5cd1ec6"
+        },
+        {
+          "member": "NEW417/MANIFEST.json",
+          "bytes": 2963,
+          "sha256": "fd91175c4ad9ddff7cb97544b051612d529849c824032ff5aa50e9ebd3cde135"
+        }
+      ]
+    }
+  ],
+  "transport": "ALL_FOUR_PARTS_SAME_FOLDER_PRESERVE_PATHS",
+  "instructions": "Download ALL FOUR PART ZIPs and extract into the SAME destination directory, preserving NEW413/ and NEW417/ paths. NEW413 spans Parts 1-3. This transport set contains 12 models, 3 original procedural PNGs and 2 asset manifests. Parts are not independent complete-asset packages. NEW413 standard models static; supplemental tail control file not included. NEW417 native fold controls preserved; FBX static as in original. Unity not tested.",
+  "Unity": "NOT_RUN"
+}
