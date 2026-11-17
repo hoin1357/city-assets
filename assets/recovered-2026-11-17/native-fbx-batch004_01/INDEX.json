@@ -1,0 +1,57 @@
+{
+  "scope": "25 existing assets, separately privacy-cleaned native and FBX copies; originals preserved. GLB packages are separate. Not full registry completion.",
+  "asset_count": 25,
+  "native_files": 75,
+  "FBX_files": 75,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH004_01_001.zip",
+      "bytes": 9291738,
+      "sha256": "6454bdb0cc5193bda79393caa75684d2ad657cd976b7c71d950407a7c2cbb939",
+      "asset_ids": [
+        "NEW_RECOVERY_088",
+        "NEW_RECOVERY_089",
+        "NEW_RECOVERY_090",
+        "NEW_RECOVERY_091",
+        "NEW_RECOVERY_092",
+        "NEW_RECOVERY_093",
+        "NEW_RECOVERY_094",
+        "NEW_RECOVERY_095",
+        "NEW_RECOVERY_096",
+        "NEW_RECOVERY_097",
+        "NEW_RECOVERY_098",
+        "NEW_RECOVERY_099"
+      ],
+      "native_files": 36,
+      "FBX_files": 36,
+      "payloads_including_public_manifests": 84
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH004_01_002.zip",
+      "bytes": 9108071,
+      "sha256": "ab4a915f6ba967cf0d9529d94f261d1b73a1bd83456032678d730f5f53e7074c",
+      "asset_ids": [
+        "NEW_RECOVERY_100",
+        "NEW_RECOVERY_101",
+        "NEW_RECOVERY_102",
+        "NEW_RECOVERY_103",
+        "NEW_RECOVERY_104",
+        "NEW_RECOVERY_105",
+        "NEW_RECOVERY_106",
+        "NEW_RECOVERY_107",
+        "NEW_RECOVERY_108",
+        "NEW_RECOVERY_109",
+        "NEW_RECOVERY_110",
+        "NEW_RECOVERY_111",
+        "NEW_RECOVERY_113"
+      ],
+      "native_files": 39,
+      "FBX_files": 39,
+      "payloads_including_public_manifests": 91
+    }
+  ],
+  "functional_scope": "Same simple scene-library preservation scope as the first 31-asset pilot; not full animation, rig, linked-library, texture-dependent or Unity validation.",
+  "Unity": "NOT_RUN",
+  "source_public_hashes_differ": true,
+  "original_source_publication_deduplication": "Pending independent 20-branch review; a new cleaned byte hash is not evidence that its source asset was never published."
+}

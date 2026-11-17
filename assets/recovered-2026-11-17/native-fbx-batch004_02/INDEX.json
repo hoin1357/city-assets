@@ -1,0 +1,62 @@
+{
+  "scope": "20 existing assets, separately privacy-cleaned native and FBX copies; originals preserved. GLB packages are separate. Not full registry completion.",
+  "asset_count": 20,
+  "native_files": 60,
+  "FBX_files": 60,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH004_02_001.zip",
+      "bytes": 9297625,
+      "sha256": "998209e168749673e7ee4e57f750a9c93f8de8f7b043bad11dba7a062b9ea7cc",
+      "asset_ids": [
+        "NEW_RECOVERY_114",
+        "NEW_RECOVERY_115",
+        "NEW_RECOVERY_112",
+        "NEW_RECOVERY_116",
+        "NEW_RECOVERY_117",
+        "NEW_RECOVERY_119",
+        "NEW_RECOVERY_120"
+      ],
+      "native_files": 21,
+      "FBX_files": 21,
+      "payloads_including_public_manifests": 49
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH004_02_002.zip",
+      "bytes": 8996602,
+      "sha256": "19861d16171c3306eb710a5da5623f218a2aaf265131a72a953543c9118ee19e",
+      "asset_ids": [
+        "NEW_RECOVERY_121",
+        "NEW_RECOVERY_122",
+        "NEW_RECOVERY_123",
+        "NEW_RECOVERY_124",
+        "NEW_RECOVERY_126",
+        "NEW_RECOVERY_127",
+        "NEW_RECOVERY_128",
+        "NEW_RECOVERY_129",
+        "NEW_RECOVERY_130",
+        "NEW_RECOVERY_131"
+      ],
+      "native_files": 30,
+      "FBX_files": 30,
+      "payloads_including_public_manifests": 70
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH004_02_003.zip",
+      "bytes": 4897215,
+      "sha256": "426b123bc9a1924f6f3562f3588ede5b3ca1557772e02372efb7d1a27e73b203",
+      "asset_ids": [
+        "NEW_RECOVERY_132",
+        "NEW_RECOVERY_133",
+        "NEW_RECOVERY_134"
+      ],
+      "native_files": 9,
+      "FBX_files": 9,
+      "payloads_including_public_manifests": 21
+    }
+  ],
+  "functional_scope": "Same simple scene-library preservation scope as the first 31-asset pilot; not full animation, rig, linked-library, texture-dependent or Unity validation.",
+  "Unity": "NOT_RUN",
+  "source_public_hashes_differ": true,
+  "original_source_publication_deduplication": "Pending independent 20-branch review; a new cleaned byte hash is not evidence that its source asset was never published."
+}
