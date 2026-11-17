@@ -1,0 +1,107 @@
+{
+  "asset_count": 2,
+  "asset_ids": [
+    "NEW420",
+    "NEW421"
+  ],
+  "standard_native_LODs": 6,
+  "additional_native_control_companions": 1,
+  "total_native_files": 7,
+  "FBX_files": 6,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW420_CONTROLS.zip",
+      "bytes": 2015345,
+      "sha256": "5f7900146799a2a32f77f90fe0348f8c1133ace1c4f0df1e452d7cb393e04243",
+      "asset_id": "NEW420",
+      "members": [
+        {
+          "member": "NEW420/NEW420_LOD0.blend",
+          "bytes": 2641040,
+          "sha256": "b3d5471aec181fe10c87c30e2ee4ef4c6e2bf1165a672058868cd4e74854ff2b"
+        },
+        {
+          "member": "NEW420/NEW420_LOD0.fbx",
+          "bytes": 1020348,
+          "sha256": "4798f5949d25fdf364d5a30ef25b8a75147ebf4c168884e8bc5d90549eef248a"
+        },
+        {
+          "member": "NEW420/NEW420_LOD1.blend",
+          "bytes": 2214416,
+          "sha256": "b24a71f96ac263012869c7b05476fe2566b76daaed5ec79c05008f15391fc413"
+        },
+        {
+          "member": "NEW420/NEW420_LOD1.fbx",
+          "bytes": 868028,
+          "sha256": "191dfd244705d7cf403c7197525528e0fa0b292f55929d80de3df0d462ca27dc"
+        },
+        {
+          "member": "NEW420/NEW420_LOD2.blend",
+          "bytes": 2011332,
+          "sha256": "8f1c3f91994ddae0037e4e97006163c5169b1e8272b958393675dd471359d778"
+        },
+        {
+          "member": "NEW420/NEW420_LOD2.fbx",
+          "bytes": 801052,
+          "sha256": "10ae9d30ee6fc9b03925d78d97502da876559984618c0218363cc3adc09723e0"
+        },
+        {
+          "member": "NEW420/NEW420_sectional_door_RIG.blend",
+          "bytes": 2655996,
+          "sha256": "ea939c2154711798dc5081ac855d6a4ed439ccbdeb0daf610dadd261ef4ef69f"
+        },
+        {
+          "member": "NEW420/MANIFEST.json",
+          "bytes": 4129,
+          "sha256": "7019a634f706bc311efbd29b88015afffc13157c61c2e8a2a5c1570e9b279204"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW421_CONTROLS.zip",
+      "bytes": 358537,
+      "sha256": "2c5cfbd179519cbbf9a7e9e07b511e1145b1b4ca1df60ea06022e0fc854fadfa",
+      "asset_id": "NEW421",
+      "members": [
+        {
+          "member": "NEW421/NEW421_LOD0.blend",
+          "bytes": 483256,
+          "sha256": "5c91a44817bc1ee6a3611037ecc624272f01df36839ebbabe3242f4dde8f7122"
+        },
+        {
+          "member": "NEW421/NEW421_LOD0.fbx",
+          "bytes": 111564,
+          "sha256": "c18275569ca08e40ab6a32f249acd941cc7090f6a25a518d82d2d303c28ca398"
+        },
+        {
+          "member": "NEW421/NEW421_LOD1.blend",
+          "bytes": 477452,
+          "sha256": "b7ba6bfeee137a968a4ceba5e4de4ef5d6f177c4fe8835a4a3d9b3dae9f9c54e"
+        },
+        {
+          "member": "NEW421/NEW421_LOD1.fbx",
+          "bytes": 108732,
+          "sha256": "d6b20a8339a4184d9ff4d1de7ca1812e7dd3b19dc22a20e266c110521340d3bd"
+        },
+        {
+          "member": "NEW421/NEW421_LOD2.blend",
+          "bytes": 454236,
+          "sha256": "e951878709c60067127ed15219349185e9b55412228c58cc04a6a95101595d60"
+        },
+        {
+          "member": "NEW421/NEW421_LOD2.fbx",
+          "bytes": 96796,
+          "sha256": "bc2ad1108a9708e53f8176d177b3592b2d0c695e62c29cd6c57f10db23a8abd5"
+        },
+        {
+          "member": "NEW421/MANIFEST.json",
+          "bytes": 3660,
+          "sha256": "294e842f4a2f45ba4b2ac34bac9841a16863c87bdab0954d388785321423db55"
+        }
+      ]
+    }
+  ],
+  "each_archive_complete_for_its_asset": true,
+  "important": "NEW420 standard LODs are static: do not execute rig.py there. Use separate RIG companion explicitly with auto-exec disabled. NEW421 native actions/constraints retained; FBX static.",
+  "Unity": "NOT_RUN"
+}
