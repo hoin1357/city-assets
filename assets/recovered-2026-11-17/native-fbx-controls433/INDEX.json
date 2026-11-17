@@ -1,0 +1,55 @@
+{
+  "asset_count": 1,
+  "asset_ids": [
+    "NEW433"
+  ],
+  "native_files": 3,
+  "FBX_files": 3,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW433_CONTROLS.zip",
+      "bytes": 4732799,
+      "sha256": "f45cf18303a6dc1a36947cc4b5a5f28d2d45e26c6a642efae97f0f067b6063df",
+      "asset_id": "NEW433",
+      "members": [
+        {
+          "member": "NEW433/NEW433_LOD0.blend",
+          "bytes": 4158196,
+          "sha256": "267d4a0915abea7e735a8ebcbca72f6d1f702e600bef9caee2bacdc9933dc102"
+        },
+        {
+          "member": "NEW433/NEW433_LOD0.fbx",
+          "bytes": 1195004,
+          "sha256": "3538db33f2070537258fa89cc5b18ec90d3f7f147f810d6140b72f191cdc0027"
+        },
+        {
+          "member": "NEW433/NEW433_LOD1.blend",
+          "bytes": 2840756,
+          "sha256": "d8db8fc3a779c9980738c1a30b3135bcb48bdb0f8cd71052ce6688c103c71817"
+        },
+        {
+          "member": "NEW433/NEW433_LOD1.fbx",
+          "bytes": 774764,
+          "sha256": "8761adf5fd5d94b98f3eff2e78e598594e97f19c86fe55400ef55d81c3c98763"
+        },
+        {
+          "member": "NEW433/NEW433_LOD2.blend",
+          "bytes": 2055244,
+          "sha256": "5743467c5f400cae9b480e03d542919a88fe8b0305d6a428aec09e847bcdd34b"
+        },
+        {
+          "member": "NEW433/NEW433_LOD2.fbx",
+          "bytes": 520748,
+          "sha256": "d6b5034b36d1d9154dedf59923940baa1df453f770256bf0b8af659718286bfd"
+        },
+        {
+          "member": "NEW433/MANIFEST.json",
+          "bytes": 3506,
+          "sha256": "f4a989ad28ab5c35cb6e86c63f469c4f2c68526b8b7b2f4e44bf44ecde5f9536"
+        }
+      ]
+    }
+  ],
+  "each_archive_complete_for_its_asset": true,
+  "Unity": "NOT_RUN"
+}
