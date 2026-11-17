@@ -1,0 +1,272 @@
+{
+  "B01401R_SEAT_SLAT_00": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_SEAT_SLAT_01": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_SEAT_SLAT_02": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_SEAT_SLAT_03": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_SEAT_SLAT_04": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_BACK_SLAT_00": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_BACK_SLAT_01": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_BACK_SLAT_02": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_BACK_SLAT_03": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_PIERCED_SIDE_0": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_FOOT_0_0": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FOOT_0_0": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_FOOT_0_1": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FOOT_0_1": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_BACK_SUPPORT_0": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_COL_BACK_SUPPORT_0": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_ARMREST_0": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_0_00": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_0_01": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_0_02": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_0_03": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_0_04": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_0_05": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_0_06": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_0_07": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_ARM_0_GRIP": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_ARM_0_FRONT": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_ARM_0_REAR": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_PIERCED_SIDE_1": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_FOOT_1_0": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FOOT_1_0": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_FOOT_1_1": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FOOT_1_1": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_BACK_SUPPORT_1": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_COL_BACK_SUPPORT_1": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_ARMREST_1": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_1_00": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_1_01": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_1_02": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_1_03": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_1_04": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_1_05": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_1_06": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_FRAME_1_07": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_ARM_1_GRIP": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_ARM_1_FRONT": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_ARM_1_REAR": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_UNDERSEAT_RAIL_0": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_COL_RAIL_0": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_UNDERSEAT_RAIL_1": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B01401R_COL_RAIL_1": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_SEAT": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_COL_BACK": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B01401R_PLACEMENT_ROOT_BOTTOM_CENTER": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  }
+}

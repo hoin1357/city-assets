@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "source_sha256": "62c567a78929bc271ce4bd39d36dc58187bdf3d189ed42f7c84a4ee1ae5f5628",
+  "base_meshes": 2127,
+  "after_bench_meshes": 2180,
+  "after_planter_meshes": 2278,
+  "base_all_visibility_unchanged": true,
+  "base_hidden_or_inactive_count": 841,
+  "linked_libraries": [
+    "/workspace/scratch/44e36eee5477/representative_route_20261116/stage_v086/B01401R_PLACEMENT_ADDON_v002.blend",
+    "/workspace/scratch/44e36eee5477/representative_route_20261116/stage_v087/B05001R_PLACEMENT_ADDON_v001.blend"
+  ],
+  "used_unpacked_file_images": [],
+  "saved": false,
+  "Unity": "NOT_RUN",
+  "legacy_inactive_names": [
+    "SUBWAY_A001_SOUTH_W_RENDER",
+    "SUBWAY_A001_SOUTH_W_COL",
+    "PLATFORM_TEST_WEST_WALL",
+    "SUBWAY_A001_WEST_N_RENDER",
+    "SUBWAY_A001_WEST_N_COL",
+    "LEISURE_LOBBY_BACK_M_0_A001-01_LOD0",
+    "LEISURE_LOBBY_BACK_M_0_A001-01_COL"
+  ],
+  "legacy_inactive_count": 7,
+  "legacy_inactive_preserved": true
+}

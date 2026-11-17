@@ -1,0 +1,497 @@
+{
+  "B05001R_PLANTER_RENDER": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_00": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_01": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_02": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_03": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_04": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_05": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_06": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_07": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_08": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_09": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_10": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_11": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_12": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_13": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_14": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_15": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_16": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_17": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_18": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_19": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_20": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_21": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_22": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_23": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_24": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_25": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_26": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_27": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_28": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_29": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_30": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_31": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_32": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_33": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_34": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_35": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_36": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_37": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_38": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_39": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_40": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_41": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_42": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_43": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_44": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_45": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_46": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_0_47": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_00": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_01": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_02": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_03": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_04": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_05": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_06": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_07": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_08": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_09": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_10": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_11": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_12": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_13": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_14": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_15": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_16": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_17": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_18": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_19": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_20": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_21": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_22": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_23": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_24": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_25": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_26": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_27": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_28": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_29": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_30": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_31": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_32": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_33": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_34": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_35": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_36": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_37": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_38": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_39": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_40": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_41": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_42": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_43": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_44": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_45": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_46": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_1_47": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_COL_BOTTOM": {
+    "hide_set": true,
+    "hide_render": true,
+    "hide_viewport": false
+  },
+  "B05001R_PLACEMENT_ROOT_BOTTOM_CENTER": {
+    "hide_set": false,
+    "hide_render": false,
+    "hide_viewport": false
+  }
+}

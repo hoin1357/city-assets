@@ -1,0 +1,211 @@
+{
+  "scope": "Prepared final binary backup only; no full historical-state or procedural rebuild guarantee",
+  "base": {
+    "filename": "DISTRICT_PUBLIC_FOUNTAIN_v085.blend",
+    "bytes": 121925721,
+    "sha256": "62c567a78929bc271ce4bd39d36dc58187bdf3d189ed42f7c84a4ee1ae5f5628",
+    "git_blob_sha1": "2a577c50fda8f62e7603cca9e61f9be7d57a4f40",
+    "parts": [
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part001",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part002",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part003",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part004",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part005",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part006",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part007",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part008",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part009",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part010",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part011",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part012",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part013",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part014",
+      "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part015"
+    ]
+  },
+  "files": [
+    {
+      "path": "ASSEMBLY_CHECK.json",
+      "bytes": 952,
+      "sha256": "b9ea8170414a6d9a16677f1c8d2ebffe860b7797a9a19907d03033471b584e55",
+      "git_blob_sha1": "cbfcb20c169f653f323ebd0664e0ae7569687191"
+    },
+    {
+      "path": "README_KO.md",
+      "bytes": 2003,
+      "sha256": "7e9d8ac1427d8c1aa92b4345b89ea2a62c5cc5cc1df6be9d4ce568c6affd8e6f",
+      "git_blob_sha1": "8723943083c54e05ec278be56a9fb71f35062b4b"
+    },
+    {
+      "path": "assemble_in_blender.py",
+      "bytes": 562,
+      "sha256": "937826b7219b2af22bfcc9398eb5a4dcb4af47784cb75e2adb6254446bdfcd1c",
+      "git_blob_sha1": "db897ce993fd994d1eb8a0407583eb5eca47a406"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part001",
+      "bytes": 8388608,
+      "sha256": "91b8d40bc941bf5e782a41b7ed002acf49d7d08f166f44f0a8049a802a6ce5c7",
+      "git_blob_sha1": "ae0de056a1c3373355af51e341b76650b4fa77ec"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part002",
+      "bytes": 8388608,
+      "sha256": "219b9f9d7c91e46a421f4349550ce51c6305bd21cace79f2400a9463b6fb14c6",
+      "git_blob_sha1": "93715fb3d95da04c1edf4d2a51d98c29545da640"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part003",
+      "bytes": 8388608,
+      "sha256": "0890ebb3887608ebf19d3ad9582b2d9b79aba2d761579654935f6d336fc95d84",
+      "git_blob_sha1": "549ba3397a502931a1e5109da9f2cf99ecf1ef8d"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part004",
+      "bytes": 8388608,
+      "sha256": "57bc8ca5f89ec5c36e85f21615a82214df9332e82a99f575bf40f583f4522970",
+      "git_blob_sha1": "4a908c05bd339cfa5a818594204a0300a4cf20f4"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part005",
+      "bytes": 8388608,
+      "sha256": "5051b3bd3fb28c1b736108a1f9b2553f913166a393068d5c9984f97af09a8fca",
+      "git_blob_sha1": "491a1baee1c8d3d01efc479a16968b4d1cfce21b"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part006",
+      "bytes": 8388608,
+      "sha256": "16bc04e5d25debd1e37830796505cd147372cd46a8153669fe0a0a6e940140f2",
+      "git_blob_sha1": "967aa7982e66afe865833904582c0c4849380588"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part007",
+      "bytes": 8388608,
+      "sha256": "e765aa09fc203bc8936efe858f7474856d6bf2e6e2657a92722d28dfe9b9ff4d",
+      "git_blob_sha1": "462076865fdfba05001deac3b546115c7ed612b0"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part008",
+      "bytes": 8388608,
+      "sha256": "bffb4245d21e50ae3823c4c2afc359ac4aca4aa85d7eb5e1331f2fc096c746e7",
+      "git_blob_sha1": "27dc7108e25b645a3a3cfbf7cc0f0fccd2af8115"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part009",
+      "bytes": 8388608,
+      "sha256": "7ddc6d7932a6830dfcba4eee4d521340502f678516e851d143e4730f8b023fcb",
+      "git_blob_sha1": "16b8eac873096874f1fe7ef39e0c7140a1a65833"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part010",
+      "bytes": 8388608,
+      "sha256": "07e334c984d1f171882af8c4b3ec82146600113a0146e973ad9a406e2f521b91",
+      "git_blob_sha1": "a08d35844444d344fe3a5a131a61db948f902b9d"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part011",
+      "bytes": 8388608,
+      "sha256": "11cc74bcaeb8f1325c42acde278a9b7752d8f0c566ac7b2b53a3e06ef3b2dd5c",
+      "git_blob_sha1": "d895998be46dca1a6df6f19d351f370016c2fe69"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part012",
+      "bytes": 8388608,
+      "sha256": "1779303795f66a21f1922c8167047c37386f39bdda4221c848ee4d8db424c32e",
+      "git_blob_sha1": "0db1c7d09f54b30c5ef471e683ad2a0bccefcce1"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part013",
+      "bytes": 8388608,
+      "sha256": "676529c0deead948071de90b05f8a48414a3d368ab1c85d80c33a601dfdc7602",
+      "git_blob_sha1": "5cd7c481eaecc494c1edcc350ee881c1c7604aff"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part014",
+      "bytes": 8388608,
+      "sha256": "0ce9c3101c65876f1f85e9126fab14a9ee012cd14c3d7d47902858990d9b5c0e",
+      "git_blob_sha1": "a61e04ecbae83150805e7730e764f997e99dd173"
+    },
+    {
+      "path": "base_parts/DISTRICT_PUBLIC_FOUNTAIN_v085.blend.part015",
+      "bytes": 4485209,
+      "sha256": "afea09bb6d817307c69e5d1fe5ac867e680ba800760ca669bba63561c8c70fbe",
+      "git_blob_sha1": "db59b2ce5bcd22beddbe68c974f05aaf4d34d745"
+    },
+    {
+      "path": "restore_base.py",
+      "bytes": 774,
+      "sha256": "f9eb47300fed3878c81d817617b40ea608ab6265e8f4c40d8395b8c979221ff6",
+      "git_blob_sha1": "d1552852428e73c677c4db4b916082800a98d8aa"
+    },
+    {
+      "path": "stage_v086/ADDON_OBJECT_STATE_v002.json",
+      "bytes": 5880,
+      "sha256": "68856f0ab98c428258334d2321787bd398ee5de63e5b38efc0008f43f3de9b04",
+      "git_blob_sha1": "59a9a6f188d16500efdef44461a3c86772c2c154"
+    },
+    {
+      "path": "stage_v086/B01401R_PLACEMENT_ADDON_v002.blend",
+      "bytes": 133599,
+      "sha256": "43b0b28ed16a6944e01b2e9db2011d079b7589da94274a4898be47896d312c6c",
+      "git_blob_sha1": "3453393e8ca176d8f37854a506b888f441698e72"
+    },
+    {
+      "path": "stage_v086/QA_v086_v002.json",
+      "bytes": 248434,
+      "sha256": "ebad4eb3ef877bcc66788bb8f22afce54b590383f2dce8fc1b811fd29bde8f36",
+      "git_blob_sha1": "84afee8f4b1c44d45711aa83891ccd287f56042f"
+    },
+    {
+      "path": "stage_v086/append_bench_placement.py",
+      "bytes": 2034,
+      "sha256": "9f8bd0493d38eb99ac214729b57527c2f190dd088d6deddf0b120d07155c738a",
+      "git_blob_sha1": "3b5fa5eccac60c12cb731c199f351d4a84e6f87c"
+    },
+    {
+      "path": "stage_v086/qa_helpers_v001.py",
+      "bytes": 895,
+      "sha256": "aae5c569223b5b7f5f59710b22b4f805c703c3b6b73325b9279ba866b3d213a1",
+      "git_blob_sha1": "2f9772399db88eb764f6e8fb6e03ac0d4643fdeb"
+    },
+    {
+      "path": "stage_v087/ADDON_OBJECT_STATE.json",
+      "bytes": 10231,
+      "sha256": "b4d60e13b8ddf83f03fc2505d17b67c1fb9613e3e340684c19137fc9eb7122b0",
+      "git_blob_sha1": "23e1ae488939f8a029adc7463f078d6913ea4893"
+    },
+    {
+      "path": "stage_v087/B05001R_PLACEMENT_ADDON_v001.blend",
+      "bytes": 97359,
+      "sha256": "21043311713e959eac9e484a7208de1f50f2cee27354aae34dc0bc0c7e6ecf6c",
+      "git_blob_sha1": "c5aa59f8a7ee6d5b7f1e9cb8ad46f0caaa8a6f62"
+    },
+    {
+      "path": "stage_v087/DEPENDENCIES.json",
+      "bytes": 482,
+      "sha256": "bea3cc171db9124012c7786e3ebddf3759e539e774e0a58f435bbf64fe7bacb2",
+      "git_blob_sha1": "182b19329a58375877837f4b85ca3ac2b3c3ca45"
+    },
+    {
+      "path": "stage_v087/QA_v087.json",
+      "bytes": 244936,
+      "sha256": "2b02979286273ce2d5c57156c3037e453e641ba2c94cf3563a441f00ff8bf62a",
+      "git_blob_sha1": "e0abf7f5c65ee043826c203cd6464ed10b08e8c5"
+    },
+    {
+      "path": "stage_v087/append_planter_placement.py",
+      "bytes": 2064,
+      "sha256": "35eb88aa26f35601d3fcf61ef0c83b04e4c90620bea4204a476c2fc6a3ecf554",
+      "git_blob_sha1": "643aaf8e479938c0daacd68f0a1eb7e68d1c3ae6"
+    },
+    {
+      "path": "stage_v087/qa_helpers_v001.py",
+      "bytes": 895,
+      "sha256": "aae5c569223b5b7f5f59710b22b4f805c703c3b6b73325b9279ba866b3d213a1",
+      "git_blob_sha1": "2f9772399db88eb764f6e8fb6e03ac0d4643fdeb"
+    }
+  ],
+  "expected_mesh_count": 2278,
+  "legacy_inactive_count": 7,
+  "Unity": "NOT_RUN"
+}
