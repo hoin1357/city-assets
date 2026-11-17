@@ -1,0 +1,59 @@
+{
+  "scope": "Two selected assets, separately cleaned native/FBX copies; not full registry completion. All parts required.",
+  "asset_count": 2,
+  "asset_ids": [
+    "NEW442",
+    "NEW443"
+  ],
+  "native_files": 6,
+  "FBX_files": 6,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH015_01_PART001.zip",
+      "bytes": 7949579,
+      "sha256": "e4ad5d49bdda23998ed5e1f3e5e0394c80e43894b989e0f459d6452b26f6f9f6",
+      "asset_ids": [
+        "NEW442",
+        "NEW443"
+      ],
+      "native_files": 4,
+      "FBX_files": 4,
+      "payloads_including_public_manifests": 10,
+      "members": [
+        "NEW442/MANIFEST.json",
+        "NEW442/NEW442_LOD0.blend",
+        "NEW442/NEW442_LOD0.fbx",
+        "NEW442/NEW442_LOD1.blend",
+        "NEW442/NEW442_LOD1.fbx",
+        "NEW442/NEW442_LOD2.blend",
+        "NEW442/NEW442_LOD2.fbx",
+        "NEW443/MANIFEST.json",
+        "NEW443/NEW443_Shoebill_LOD0.blend",
+        "NEW443/NEW443_Shoebill_LOD0.fbx"
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH015_01_PART002.zip",
+      "bytes": 5197838,
+      "sha256": "f74c889373312db1e066d33dfb1d6e95e82fde163c8cb9ecc0996a3386a72454",
+      "asset_ids": [
+        "NEW443"
+      ],
+      "native_files": 2,
+      "FBX_files": 2,
+      "payloads_including_public_manifests": 4,
+      "members": [
+        "NEW443/NEW443_Shoebill_LOD1.blend",
+        "NEW443/NEW443_Shoebill_LOD1.fbx",
+        "NEW443/NEW443_Shoebill_LOD2.blend",
+        "NEW443/NEW443_Shoebill_LOD2.fbx"
+      ]
+    }
+  ],
+  "multipart_instruction": "Download and extract every part into the same folder. An asset may span multiple ZIPs; per-asset MANIFEST covers all its files.",
+  "validation": "12 same-format reopen/import comparisons; 552 evaluated states total per source/copy. Original Action/shape/driver/UI properties preserved. Only runtime Action.session_uid excluded from equality.",
+  "limitations": "Native bounded visual controls only. NEW443 opposite shape controls supported only through signed yaw, not arbitrary simultaneous shape values. FBX remains original neutral static interchange; no physical/biological/Unity certification.",
+  "source_public_hashes_differ": true,
+  "original_source_publication_deduplication": "Public-copy byte hashes differ from originals; this package is not a claim that the source asset was previously unpublished. GLB coverage and prior branch audit are separate.",
+  "Unity": "NOT_RUN"
+}

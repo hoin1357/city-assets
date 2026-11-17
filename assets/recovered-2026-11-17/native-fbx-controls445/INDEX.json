@@ -1,0 +1,55 @@
+{
+  "asset_count": 1,
+  "asset_ids": [
+    "NEW445"
+  ],
+  "native_files": 3,
+  "FBX_files": 3,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW445_CONTROLS.zip",
+      "bytes": 2705128,
+      "sha256": "c0defb3545dc209955758bd904bb722b0ff60cbc79ca190f697df9986a5b61f1",
+      "asset_id": "NEW445",
+      "members": [
+        {
+          "member": "NEW445/NEW445_LOD0.blend",
+          "bytes": 4084448,
+          "sha256": "b42b1023a5f53efbe4a7c3e152c73fd453eb1b4c5e8eb0dad12a9278612b2102"
+        },
+        {
+          "member": "NEW445/NEW445_LOD0.fbx",
+          "bytes": 1725260,
+          "sha256": "719f6e537b7b861ed0bdb75bdd49d9a5fe741a7f01d3896063b27f1bc8f0e094"
+        },
+        {
+          "member": "NEW445/NEW445_LOD1.blend",
+          "bytes": 3785552,
+          "sha256": "e914b3ac1b9e5a3816c3f420583193eb97d3ae4f45dbb7449380ca43ab87481b"
+        },
+        {
+          "member": "NEW445/NEW445_LOD1.fbx",
+          "bytes": 1618444,
+          "sha256": "7db2ee589396daf0f81c3b45301b98771d0d713c4eabda514ade8c51d3ebf512"
+        },
+        {
+          "member": "NEW445/NEW445_LOD2.blend",
+          "bytes": 3540056,
+          "sha256": "f6fe92fc57408d7295c570d2c676ae74a8aa5ae3e61eacfce4b243be074f36cf"
+        },
+        {
+          "member": "NEW445/NEW445_LOD2.fbx",
+          "bytes": 1513884,
+          "sha256": "57941e0cb80c3e8358be85878881c88e39e6be053d84c7f2aacda89bd31035a4"
+        },
+        {
+          "member": "NEW445/MANIFEST.json",
+          "bytes": 3837,
+          "sha256": "97b605a3503276f6884877c257e598b585fdb8ad768374218d4ab9373cf19cec"
+        }
+      ]
+    }
+  ],
+  "each_archive_complete_for_its_asset": true,
+  "Unity": "NOT_RUN"
+}
