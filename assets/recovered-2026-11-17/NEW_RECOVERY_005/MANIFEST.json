@@ -1,0 +1,25 @@
+{
+  "asset_id": "NEW_RECOVERY_005",
+  "name": "Bowling pin",
+  "scope": "GLB_ONLY_LOD0_LOD1_LOD2",
+  "files": [
+    {
+      "file": "models/NEW_RECOVERY_005_LOD0.glb",
+      "bytes": 132768,
+      "sha256": "024907fc697119fa40adc7ee672b8bd238c8b9298858351c920a80ad7357b07f"
+    },
+    {
+      "file": "models/NEW_RECOVERY_005_LOD1.glb",
+      "bytes": 80540,
+      "sha256": "d1a98d57812b427d653d1c43c0ad68cc692a82af8a059a213d6c3f947e605a94"
+    },
+    {
+      "file": "models/NEW_RECOVERY_005_LOD2.glb",
+      "bytes": 44632,
+      "sha256": "8b295b76ca7b8dc5e76b69dba4340b512974224a62ab31952833e0c1576cf5c3"
+    }
+  ],
+  "validation": "Blender 4.3.2 import and basic mesh checks passed. No external texture dependencies.",
+  "Unity": "NOT_RUN",
+  "limitations": "Native Blender and FBX files are not included. No engine or physical-safety certification."
+}
