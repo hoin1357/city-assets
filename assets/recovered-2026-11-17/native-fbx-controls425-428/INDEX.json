@@ -1,0 +1,143 @@
+{
+  "asset_count": 3,
+  "asset_ids": [
+    "NEW425",
+    "NEW426",
+    "NEW428"
+  ],
+  "native_files": 9,
+  "FBX_files": 9,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW425_CONTROLS.zip",
+      "bytes": 1388003,
+      "sha256": "cd6701da28db64c4a583dc49f3fc31046d2d14afc3e383bb0371c8c9bad32eb8",
+      "asset_id": "NEW425",
+      "members": [
+        {
+          "member": "NEW425/NEW425_LOD0.blend",
+          "bytes": 1581228,
+          "sha256": "77244ca3fa96b69554bc7b1c19d77ea7344b067211618ebeeef35e9321c3e2e4"
+        },
+        {
+          "member": "NEW425/NEW425_LOD0.fbx",
+          "bytes": 580140,
+          "sha256": "1512eb9a93e18ffb572d8a6016bf1ee74e58b5e8a72b174d68aef0376cc6f196"
+        },
+        {
+          "member": "NEW425/NEW425_LOD1.blend",
+          "bytes": 1390904,
+          "sha256": "97124bf6eda0de735d7d9579fea1d73da29749b2ae294296dc84b3415366e50f"
+        },
+        {
+          "member": "NEW425/NEW425_LOD1.fbx",
+          "bytes": 506732,
+          "sha256": "5e9da716910f0280b983df62dd2eed6c542b152f03fea99b2f0e0623949670c4"
+        },
+        {
+          "member": "NEW425/NEW425_LOD2.blend",
+          "bytes": 1205116,
+          "sha256": "d7e5efaa22eca237a94cacd0455b13bcda5f41f59c90025a07c68fbb7f80a8c8"
+        },
+        {
+          "member": "NEW425/NEW425_LOD2.fbx",
+          "bytes": 440588,
+          "sha256": "d9493eb419d7b25598553fc0334f789b8b74e0ee967558e47f6027b62247ee64"
+        },
+        {
+          "member": "NEW425/MANIFEST.json",
+          "bytes": 3188,
+          "sha256": "4ebb9650cd27d88575bbd02e919b641addf908c7afe43833d15697883e4aba23"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW426_CONTROLS.zip",
+      "bytes": 1461158,
+      "sha256": "ac7b92d4126a9a066fc447534ca59f76e637da12429f8b6d7e7caf8066561f75",
+      "asset_id": "NEW426",
+      "members": [
+        {
+          "member": "NEW426/NEW426_LOD0.blend",
+          "bytes": 1896408,
+          "sha256": "e3968f099a405af7d2687ed50447b7ae15fd29300ec6b01ac3ee8fdbbcaca7e3"
+        },
+        {
+          "member": "NEW426/NEW426_LOD0.fbx",
+          "bytes": 683740,
+          "sha256": "8292a389edb7c1646d5d54a6c7e531ef242202f4c968abde57549b5dbe1c3e2c"
+        },
+        {
+          "member": "NEW426/NEW426_LOD1.blend",
+          "bytes": 1492872,
+          "sha256": "4fbb47594b03ea20976bac422e6c1a926bddd0a6be65e54506a2ea608a9e0b13"
+        },
+        {
+          "member": "NEW426/NEW426_LOD1.fbx",
+          "bytes": 529436,
+          "sha256": "45e2024c01a76dae5ca98a2bd74124f18ee046b43b788163d2dc7fdf0e38756e"
+        },
+        {
+          "member": "NEW426/NEW426_LOD2.blend",
+          "bytes": 1135488,
+          "sha256": "39e93580fa7f03fded9953cf66660028ecab0673f3d84b6463f50c8410b36194"
+        },
+        {
+          "member": "NEW426/NEW426_LOD2.fbx",
+          "bytes": 385772,
+          "sha256": "f4963d7d360c0a2645ea083d2884bd500360d5b35f2676003dbd3c0edf14eb2f"
+        },
+        {
+          "member": "NEW426/MANIFEST.json",
+          "bytes": 3160,
+          "sha256": "9eb3deb8928f955ad6b995709c12ca373d487ed2a5c876afd9ead3f4d44142ac"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW428_CONTROLS.zip",
+      "bytes": 1787386,
+      "sha256": "4cd102922eb3d4af2dda351c07ffcc670369b484aebf2d61f5932b413e1142cc",
+      "asset_id": "NEW428",
+      "members": [
+        {
+          "member": "NEW428/NEW428_LOD0.blend",
+          "bytes": 2267936,
+          "sha256": "e974ef214350131695ff2ea9b38e04b7f8b5c7760ac86309978e071b5cf55650"
+        },
+        {
+          "member": "NEW428/NEW428_LOD0.fbx",
+          "bytes": 794620,
+          "sha256": "bb22d3922a07dd2803ca25018a9b12e969117259d524e8aa26963dbaf682a29f"
+        },
+        {
+          "member": "NEW428/NEW428_LOD1.blend",
+          "bytes": 1854200,
+          "sha256": "ce20caf8a2e928cd81e8fd484846d9fac15b7aa317a7677be514127ce5ff873c"
+        },
+        {
+          "member": "NEW428/NEW428_LOD1.fbx",
+          "bytes": 632444,
+          "sha256": "617c82ff2e3a8abfa5ec04050a8bac9978332b09b5267cad381ecb9fc572a02f"
+        },
+        {
+          "member": "NEW428/NEW428_LOD2.blend",
+          "bytes": 1433312,
+          "sha256": "217ddf4c9888ebcb0213bc57f2bf6ad7b7baae37fd3d52719794b3bfbb71749e"
+        },
+        {
+          "member": "NEW428/NEW428_LOD2.fbx",
+          "bytes": 491932,
+          "sha256": "6d2d214a179af904c782d3d6907961341f0792697a08dd6b4130fd6d4359301e"
+        },
+        {
+          "member": "NEW428/MANIFEST.json",
+          "bytes": 3237,
+          "sha256": "b9bea9c41b4a0f0003ad7bfbb78f14df1fa2588c6590aab52e070da97ef4bd71"
+        }
+      ]
+    }
+  ],
+  "each_archive_complete_for_its_asset": true,
+  "Unity": "NOT_RUN"
+}

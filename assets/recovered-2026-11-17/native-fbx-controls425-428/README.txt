@@ -1,0 +1,1 @@
+Three independent asset ZIPs. Preserve folders on extraction. Native controls retained; FBX original static/rest or rigid hierarchy scope, not animated exports. No Actions/autoplay. NEW428 descriptive text is not an executable helper. Unity not tested.
