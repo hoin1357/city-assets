@@ -1,0 +1,1 @@
+NEW615 correction: the earlier GLB batch contained the older same-stem exports, not the registry-selected final normals_v002 exports. Use the three normals_v002 GLBs in this correction directory. Older batch files are preserved unchanged for traceability. Corrected files match final selection hashes and were imported in Blender. Unity remains untested.

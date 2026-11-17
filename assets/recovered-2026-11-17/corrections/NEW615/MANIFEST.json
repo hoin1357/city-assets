@@ -1,0 +1,30 @@
+{
+  "asset_id": "NEW615",
+  "scope": "Final-selected GLB correction; original GLB bytes preserved",
+  "files": [
+    {
+      "file": "models/NEW615_LOD0_normals_v002.glb",
+      "bytes": 189956,
+      "sha256": "a3068cce10694213ddef173d524a37fa0f7235eb28cd55451ea331371ae1e4f4"
+    },
+    {
+      "file": "models/NEW615_LOD1_normals_v002.glb",
+      "bytes": 161012,
+      "sha256": "77d25f7e862789ee4b8eb4ae9265c1b4f58b08321f9d51becc62fa1f1110020d"
+    },
+    {
+      "file": "models/NEW615_LOD2_normals_v002.glb",
+      "bytes": 138640,
+      "sha256": "7a0751b395201014234d8f13899e22354272e062d9dbc99c52647629353597b9"
+    }
+  ],
+  "validation": [
+    "Exact final selection SHA256 match",
+    "GLB2 header/chunks/bufferView bounds",
+    "Full JSON and binary privacy marker scan",
+    "No extras or external URI",
+    "Blender 4.3.2 actual import: 57 meshes each; triangles 1448/1160/968; finite vertex coordinates"
+  ],
+  "external_textures_required": 0,
+  "Unity": "NOT_RUN"
+}
