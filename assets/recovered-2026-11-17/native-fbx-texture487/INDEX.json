@@ -1,0 +1,54 @@
+{
+  "asset_count": 1,
+  "asset_ids": [
+    "NEW487"
+  ],
+  "native_files": 3,
+  "FBX_files": 3,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW487_TEXTURES.zip",
+      "bytes": 2924152,
+      "sha256": "a74463b03627747ed20318193528850f2b8c30ad77da5a8edb3f9ea18bada265",
+      "members": [
+        {
+          "member": "NEW487/hooked_crowbar_LOD0.blend",
+          "bytes": 847860,
+          "sha256": "28dae24a752b72258935b81b2b4f0f94887b09f89712e1fd94891f585ee0a3ca"
+        },
+        {
+          "member": "NEW487/hooked_crowbar_LOD0.fbx",
+          "bytes": 621484,
+          "sha256": "e1ca67e943d81b8b3d5a1ae1853ed96c6324c3a673ea846e5243b0555a293ccb"
+        },
+        {
+          "member": "NEW487/hooked_crowbar_LOD1.blend",
+          "bytes": 832912,
+          "sha256": "61762f4af63d67fada8b61d167d2063ae07ee587d19cafcdf091ff07fa396dd9"
+        },
+        {
+          "member": "NEW487/hooked_crowbar_LOD1.fbx",
+          "bytes": 623340,
+          "sha256": "17dbc4fbe1fdd132eb7c0df488a8e71c3350b702dccc75589d194ff1294bb38e"
+        },
+        {
+          "member": "NEW487/hooked_crowbar_LOD2.blend",
+          "bytes": 382508,
+          "sha256": "6a60ec5df3d47df909e7d2bdb8159a06be0fc53ebcf3656b2c28163a8850d4bc"
+        },
+        {
+          "member": "NEW487/hooked_crowbar_LOD2.fbx",
+          "bytes": 181980,
+          "sha256": "ad705eba4a0a2310683755b3a41a4dce016e0a573de9805cfc7b72cc4363d1d6"
+        },
+        {
+          "member": "NEW487/MANIFEST.json",
+          "bytes": 8659,
+          "sha256": "64fbb03c15ca9d325de8034b66f9f7ae433283119e84226955f7a641874e35a5"
+        }
+      ]
+    }
+  ],
+  "each_model_has_embedded_texture_closure": true,
+  "Unity": "NOT_RUN"
+}
