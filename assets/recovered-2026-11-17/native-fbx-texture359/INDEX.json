@@ -1,0 +1,94 @@
+{
+  "asset_count": 1,
+  "asset_ids": [
+    "NEW359"
+  ],
+  "native_files": 3,
+  "FBX_files": 3,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW359_LOD0_blend.zip",
+      "bytes": 5057712,
+      "sha256": "448edd63617fe4bcce8acde873a98df1684b752e2e5416ead73c42efe79c75ad",
+      "complete_embedded_dependencies": true,
+      "members": [
+        {
+          "member": "NEW359/NEW359_baguette_LOD0.blend",
+          "bytes": 6466640,
+          "sha256": "2c5412dfba197014e5f9aff155c02d4d2e5661db26d63a4f929445065b0abcc4"
+        },
+        {
+          "member": "NEW359/MANIFEST_NEW359_baguette_LOD0_blend.json",
+          "bytes": 1981,
+          "sha256": "ad630c5189dd563a6b207d6d9113350bc1383c46fbd841c4f7b7d640d4e1733d"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW359_LOD0_fbx.zip",
+      "bytes": 4998925,
+      "sha256": "3f2116b2b00d8a0eb5920df68ce5817d493e833567db879b5193c8ea03cb17d9",
+      "complete_embedded_dependencies": true,
+      "members": [
+        {
+          "member": "NEW359/NEW359_baguette_LOD0.fbx",
+          "bytes": 5184668,
+          "sha256": "5736f8010822a7ab281ea83811f8020ffb5c25d0738cb3e6d1b5dc3792fdc573"
+        },
+        {
+          "member": "NEW359/MANIFEST_NEW359_baguette_LOD0_fbx.json",
+          "bytes": 2625,
+          "sha256": "8a7aa1581fbf30233bb3c422890c2926fc6cd068ebd5687c6de83e7ff6d707be"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW359_LOD1.zip",
+      "bytes": 5523900,
+      "sha256": "bad87e6211fe1959bb3233f094ec69298c47857fc7b64dfb05559a71a6c08621",
+      "complete_embedded_dependencies": true,
+      "members": [
+        {
+          "member": "NEW359/NEW359_baguette_LOD1.blend",
+          "bytes": 3572344,
+          "sha256": "9013382aa281a3cbb3e8484ef5303105512c753fb00c66dabbc8dc84cff2803c"
+        },
+        {
+          "member": "NEW359/NEW359_baguette_LOD1.fbx",
+          "bytes": 2825852,
+          "sha256": "8940768f4a3fb576452de68b0ff0f0279af3217cb92bd5166b4861e77da5bc63"
+        },
+        {
+          "member": "NEW359/MANIFEST_NEW359_baguette_LOD1_blend.json",
+          "bytes": 3548,
+          "sha256": "91e3020b94bdd0820932267293256869ef255303b16cafe7f4b3beef5289af7a"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW359_LOD2.zip",
+      "bytes": 3120437,
+      "sha256": "3d0cbfce71cf18f07c77fb46885451191ce069d0755a269fffbc2f9a7761987c",
+      "complete_embedded_dependencies": true,
+      "members": [
+        {
+          "member": "NEW359/NEW359_baguette_LOD2.blend",
+          "bytes": 2064844,
+          "sha256": "6d643d3e9f9b97cd6c3b815315459f7c57eecb2c9e664e1636f0a83101d1c4fc"
+        },
+        {
+          "member": "NEW359/NEW359_baguette_LOD2.fbx",
+          "bytes": 1584476,
+          "sha256": "cb8d38f2685382f9c433d901e3ea8ab46052f76f2b0d586feee035d2ec8e98c9"
+        },
+        {
+          "member": "NEW359/MANIFEST_NEW359_baguette_LOD2_blend.json",
+          "bytes": 3548,
+          "sha256": "61732add1209a5279eca4197243648a9060578d5cfb1bb9910e23f434a3ee33a"
+        }
+      ]
+    }
+  ],
+  "closure": "Each model embeds its required authored atlas; no external photograph or PNG dependency. LOD packages may be extracted independently.",
+  "Unity": "NOT_RUN"
+}
