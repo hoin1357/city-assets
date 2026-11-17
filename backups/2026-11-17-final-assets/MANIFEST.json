@@ -1,0 +1,37 @@
+[
+  {
+    "file": "B04901R_EDITABLE_FOUNTAIN_ASSET_v085.zip",
+    "bytes": 2953256,
+    "sha256": "faf9a485530dbac50c370210fa55905b6f1c9e86b5196080b3472ba1b841509f",
+    "version": "v085",
+    "mixed_preserve_local": false
+  },
+  {
+    "file": "B01401R_EDITABLE_OUTDOOR_BENCH_v086.zip",
+    "bytes": 2762720,
+    "sha256": "54c31c94f37766d68a5888901d137ab8c710617104c03551c8aca1036b04c16f",
+    "version": "v086",
+    "mixed_preserve_local": false
+  },
+  {
+    "file": "B05001R_PLANTER_USABLE_ASSET_v001.zip",
+    "bytes": 2703667,
+    "sha256": "58403205f6d671659098f6911a523d5e9c750abc2a8d979264030e08ff55c724",
+    "version": "v087",
+    "mixed_preserve_local": false
+  },
+  {
+    "file": "B05401R_TREE_USABLE_ASSET_v003.zip",
+    "bytes": 6654398,
+    "sha256": "c5b58f66969bcf4916b69e363391f3234ff7454946efe3d1cba040acdda6d882",
+    "version": "v088",
+    "mixed_preserve_local": false
+  },
+  {
+    "file": "C03407R_IV_STAND_CANDIDATE_v091.zip",
+    "bytes": 2097792,
+    "sha256": "8ba2a573de90e0b1d69c12935e5cd8c3384d264f7e86ff07dd37d6b22ff321c5",
+    "version": "v091",
+    "mixed_preserve_local": false
+  }
+]
