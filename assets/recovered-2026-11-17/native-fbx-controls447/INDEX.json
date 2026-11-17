@@ -1,0 +1,55 @@
+{
+  "asset_count": 1,
+  "asset_ids": [
+    "NEW447"
+  ],
+  "native_files": 3,
+  "FBX_files": 3,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW447_CONTROLS.zip",
+      "bytes": 1641156,
+      "sha256": "b967ebc89e6573bfead469f8252f0f3e2a8488ea2ecee72e9291d95ab641a92c",
+      "asset_id": "NEW447",
+      "members": [
+        {
+          "member": "NEW447/NEW447_honey_extractor_LOD0.blend",
+          "bytes": 1833372,
+          "sha256": "1307c41a8ed61f039ff59981266e2294d64650358581fd332651a22f08e9e226"
+        },
+        {
+          "member": "NEW447/NEW447_honey_extractor_LOD0.fbx",
+          "bytes": 504652,
+          "sha256": "34c83efa331633186fd1aa0693b6e79ad14c5e2cface61984a29a4163b2bef15"
+        },
+        {
+          "member": "NEW447/NEW447_honey_extractor_LOD1.blend",
+          "bytes": 1558392,
+          "sha256": "62124ad96a1bee60bc9a1d652d60a164e5404bc03b39b3b402edeb255fc73992"
+        },
+        {
+          "member": "NEW447/NEW447_honey_extractor_LOD1.fbx",
+          "bytes": 427932,
+          "sha256": "eaca91280fc585bb059ec0851a4a87075dfb1ff2e5562a4ddd93743b886a67d3"
+        },
+        {
+          "member": "NEW447/NEW447_honey_extractor_LOD2.blend",
+          "bytes": 1344556,
+          "sha256": "9e22b7103a406e24ed70c6ff3db6b16199e7e48bfa6149e5195083944cfcaa0a"
+        },
+        {
+          "member": "NEW447/NEW447_honey_extractor_LOD2.fbx",
+          "bytes": 370396,
+          "sha256": "09d7388589293b58d044476cd755c4f5a73a2ab970638cdd77194ab4ad87fdf0"
+        },
+        {
+          "member": "NEW447/MANIFEST.json",
+          "bytes": 3626,
+          "sha256": "a95bcfd6a400824a4fd03e5ee5cc7d2231063732ef2f2e4159950901337674fd"
+        }
+      ]
+    }
+  ],
+  "each_archive_complete_for_its_asset": true,
+  "Unity": "NOT_RUN"
+}
