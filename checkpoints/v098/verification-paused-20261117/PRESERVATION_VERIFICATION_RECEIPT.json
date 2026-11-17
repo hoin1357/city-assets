@@ -1,0 +1,171 @@
+{
+  "checkpoint_commit": "a60d7b690ed561d5306f4517952360f72d1721ba",
+  "preservation_integrity_gate": "PASS",
+  "asset_geometry_status": "FAIL_TOP_SUPPORT_GAP",
+  "active_usable_version": null,
+  "remote_files": [
+    {
+      "path": "CHECKPOINT_MANIFEST.json",
+      "bytes": 3643,
+      "sha256": "2c2c0c7b95955c7a6155b7e6e3af943d60466fe2083d672640b3c17b017180b8",
+      "comparison": "PASS"
+    },
+    {
+      "path": "RESUME.md",
+      "bytes": 4600,
+      "sha256": "97f0d8afd97c4ac2213b826f71ee0b12175519582de06a74c1bfad618fc8e761",
+      "comparison": "PASS"
+    },
+    {
+      "path": "SNAPSHOT_SHA256.json",
+      "bytes": 182,
+      "sha256": "73cf72887329a625e8cf849026398a6ff1f5e04a41190e513a67dcb880e2ec88",
+      "comparison": "PASS"
+    },
+    {
+      "path": "UNIT_STATUS.json",
+      "bytes": 646,
+      "sha256": "dca5f75ec9d05e7c33df40c18a8230a33aac7474519ed333ad2c11943550caa4",
+      "comparison": "PASS"
+    },
+    {
+      "path": "V098_PAUSED_SOURCE_OUTPUT_FAILURE_SNAPSHOT.zip",
+      "bytes": 4673646,
+      "sha256": "c7d42275c4fe5e70db47feb11192e49b88f3bfb29e0f5acd93cabeedefb6c896",
+      "comparison": "PASS"
+    }
+  ],
+  "snapshot_crc": "PASS",
+  "snapshot_file_count": 21,
+  "snapshot_files": [
+    {
+      "path": "ACTIVE_STATUS.json",
+      "bytes": 646,
+      "sha256": "dca5f75ec9d05e7c33df40c18a8230a33aac7474519ed333ad2c11943550caa4",
+      "status": "PASS"
+    },
+    {
+      "path": "RESUME.md",
+      "bytes": 4600,
+      "sha256": "97f0d8afd97c4ac2213b826f71ee0b12175519582de06a74c1bfad618fc8e761",
+      "status": "PASS"
+    },
+    {
+      "path": "active/C03901R_LECTERN_ASSET_v001.blend",
+      "bytes": 128332,
+      "sha256": "1ef064d597c13653c6b48a718609f5e513a456aa8172d883a6bc7efbd271820c",
+      "status": "PASS"
+    },
+    {
+      "path": "active/C03901R_LECTERN_COL_v001.glb",
+      "bytes": 7712,
+      "sha256": "2a2243cedfe1f9cfd1988cfd9b1891654cb6d8efb0bfea45cfd4296cac36646c",
+      "status": "PASS"
+    },
+    {
+      "path": "active/C03901R_LECTERN_RENDER_v001.glb",
+      "bytes": 260256,
+      "sha256": "b30eddc7e54a9d82361956137deb03e42e17ec54e4deef2f2c6d2d934074eb57",
+      "status": "PASS"
+    },
+    {
+      "path": "active/INDEPENDENT_QA.json",
+      "bytes": 1369,
+      "sha256": "0a84b9d1180be64d8426ff85a38626d0f171d8c6017e220932accf5e54c4093a",
+      "status": "PASS"
+    },
+    {
+      "path": "active/PREVIEW_LECTERN_HERO_v098.png",
+      "bytes": 2169534,
+      "sha256": "29506952fa75fa26d2e84d40aab5f4f27848e8942450f02f7517acfba567f527",
+      "status": "PASS"
+    },
+    {
+      "path": "active/STATUS_NOT_RELEASED.json",
+      "bytes": 646,
+      "sha256": "dca5f75ec9d05e7c33df40c18a8230a33aac7474519ed333ad2c11943550caa4",
+      "status": "PASS"
+    },
+    {
+      "path": "evidence/DUPLICATE_SEARCH.json",
+      "bytes": 4729,
+      "sha256": "b2b8a606ba7bcd781aa9e71b85064f0c6cd9d4f0091681944ad22422e5fb813b",
+      "status": "PASS"
+    },
+    {
+      "path": "evidence/FAILURE_COPY_COMPARISON.json",
+      "bytes": 923,
+      "sha256": "e336dc8efc88fcdaa18c19d5ad96410fb7a9b57ee9a2ea66b667d1ca1a8b678d",
+      "status": "PASS"
+    },
+    {
+      "path": "evidence/PRESERVATION_SEARCH.json",
+      "bytes": 718,
+      "sha256": "180f67467609b9cd500dcd19ff8e5c86e3b6983cf6ed1a7050becc95c29852d6",
+      "status": "PASS"
+    },
+    {
+      "path": "failures/v001/C03901R_LECTERN_ASSET_v001.blend",
+      "bytes": 128332,
+      "sha256": "1ef064d597c13653c6b48a718609f5e513a456aa8172d883a6bc7efbd271820c",
+      "status": "PASS"
+    },
+    {
+      "path": "failures/v001/C03901R_LECTERN_COL_v001.glb",
+      "bytes": 7712,
+      "sha256": "2a2243cedfe1f9cfd1988cfd9b1891654cb6d8efb0bfea45cfd4296cac36646c",
+      "status": "PASS"
+    },
+    {
+      "path": "failures/v001/C03901R_LECTERN_RENDER_v001.glb",
+      "bytes": 260256,
+      "sha256": "b30eddc7e54a9d82361956137deb03e42e17ec54e4deef2f2c6d2d934074eb57",
+      "status": "PASS"
+    },
+    {
+      "path": "failures/v001/FAILURE_STATUS.json",
+      "bytes": 646,
+      "sha256": "dca5f75ec9d05e7c33df40c18a8230a33aac7474519ed333ad2c11943550caa4",
+      "status": "PASS"
+    },
+    {
+      "path": "failures/v001/INDEPENDENT_QA.json",
+      "bytes": 1369,
+      "sha256": "0a84b9d1180be64d8426ff85a38626d0f171d8c6017e220932accf5e54c4093a",
+      "status": "PASS"
+    },
+    {
+      "path": "failures/v001/PREVIEW_LECTERN_HERO_v098.png",
+      "bytes": 2169534,
+      "sha256": "29506952fa75fa26d2e84d40aab5f4f27848e8942450f02f7517acfba567f527",
+      "status": "PASS"
+    },
+    {
+      "path": "logs/build_v001.log",
+      "bytes": 11920,
+      "sha256": "9c866a2e822ffea123222ab53ba494385c62839a1fd7f9c717dd29916f9157e1",
+      "status": "PASS"
+    },
+    {
+      "path": "logs/verify_v001.log",
+      "bytes": 4347,
+      "sha256": "df961d34bd53b888cd5cd455381c5c8960211c75e1a68a1615bc713e1468d6bc",
+      "status": "PASS"
+    },
+    {
+      "path": "source/build_v098.py",
+      "bytes": 7221,
+      "sha256": "c93e81bfce782774baf8018be9e6d09e66a188b394e915c8a3dde73dddbd4fac",
+      "status": "PASS"
+    },
+    {
+      "path": "source/verify_geometry.py",
+      "bytes": 3468,
+      "sha256": "2e1371284dfd0e134584e51398413f4717a0afd2d5d5dcb2ea20dc2f38ef5f35",
+      "status": "PASS"
+    }
+  ],
+  "blender_failed_candidate_reopen": "PASS_READABILITY_ONLY",
+  "v099_started": false,
+  "production_state": "PAUSED_FOR_HISTORICAL_RECOVERY_PRIORITY"
+}

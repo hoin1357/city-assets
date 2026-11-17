@@ -1,0 +1,24 @@
+{
+  "scope": [
+    "/workspace",
+    "/tmp",
+    "/home/agent",
+    "/mnt"
+  ],
+  "visited_directory_counts": {
+    "/workspace": 192,
+    "/tmp": 14,
+    "/home/agent": 66,
+    "/mnt": 1
+  },
+  "matches": [],
+  "errors": [
+    "[Errno 13] Permission denied: '/tmp/codex-daemon-1000'"
+  ],
+  "interpretation": "Scoped non-discovery is not evidence of deletion or cleanup. No files restored or environment settings changed for this search.",
+  "separate_materials": {
+    "v091_v092": "/workspace/flood_city_restore/github_final intentional restorations",
+    "v093_v097": "newly generated standalone assets in this environment",
+    "git": "/workspace/submerged-city-assets and /workspace/v093_publish checkouts"
+  }
+}
