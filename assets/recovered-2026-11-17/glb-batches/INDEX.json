@@ -1,0 +1,1424 @@
+{
+  "schema": 1,
+  "scope": "435 selected assets, 1305 original GLB files. This index supersedes transport references for the listed replaced archives only.",
+  "asset_count": 435,
+  "GLB_file_count": 1305,
+  "archive_count": 65,
+  "archives": [
+    {
+      "file": "RECOVERED_GLB_BATCH_001.zip",
+      "bytes": 5558158,
+      "sha256": "6889e2a2396fca2c21de26a8d7b6b07b7e580e961b56829e2a0f50a2b483b15e",
+      "GLB_file_count": 108,
+      "asset_ids": [
+        "NEW_RECOVERY_001",
+        "NEW_RECOVERY_002",
+        "NEW_RECOVERY_003",
+        "NEW_RECOVERY_004",
+        "NEW_RECOVERY_006",
+        "NEW_RECOVERY_007",
+        "NEW_RECOVERY_008",
+        "NEW_RECOVERY_009",
+        "NEW_RECOVERY_010",
+        "NEW_RECOVERY_011",
+        "NEW_RECOVERY_012",
+        "NEW_RECOVERY_013",
+        "NEW_RECOVERY_014",
+        "NEW_RECOVERY_015",
+        "NEW_RECOVERY_016",
+        "NEW_RECOVERY_017",
+        "NEW_RECOVERY_018",
+        "NEW_RECOVERY_019",
+        "NEW_RECOVERY_020",
+        "NEW_RECOVERY_021",
+        "NEW_RECOVERY_022",
+        "NEW_RECOVERY_023",
+        "NEW_RECOVERY_024",
+        "NEW_RECOVERY_025",
+        "NEW_RECOVERY_026",
+        "NEW_RECOVERY_027",
+        "NEW_RECOVERY_028",
+        "NEW_RECOVERY_029",
+        "NEW_RECOVERY_030",
+        "NEW_RECOVERY_031",
+        "NEW_RECOVERY_032",
+        "NEW_RECOVERY_033",
+        "NEW_RECOVERY_035",
+        "NEW_RECOVERY_037",
+        "NEW_RECOVERY_047",
+        "NEW_RECOVERY_300"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_002.zip",
+      "bytes": 4719884,
+      "sha256": "9d80175162410faaea64b2aac65ccfad718583dbc6c382aec4c2c38da3c83241",
+      "GLB_file_count": 93,
+      "asset_ids": [
+        "NEW_RECOVERY_034",
+        "NEW_RECOVERY_036",
+        "NEW_RECOVERY_038",
+        "NEW_RECOVERY_039",
+        "NEW_RECOVERY_040",
+        "NEW_RECOVERY_041",
+        "NEW_RECOVERY_042",
+        "NEW_RECOVERY_043",
+        "NEW_RECOVERY_044",
+        "NEW_RECOVERY_045",
+        "NEW_RECOVERY_046",
+        "NEW_RECOVERY_048",
+        "NEW_RECOVERY_049",
+        "NEW_RECOVERY_050",
+        "NEW_RECOVERY_051",
+        "NEW_RECOVERY_052",
+        "NEW_RECOVERY_053",
+        "NEW_RECOVERY_054",
+        "NEW_RECOVERY_055",
+        "NEW_RECOVERY_056",
+        "NEW_RECOVERY_057",
+        "NEW_RECOVERY_059",
+        "NEW_RECOVERY_060",
+        "NEW_RECOVERY_061",
+        "NEW_RECOVERY_062",
+        "NEW_RECOVERY_063",
+        "NEW_RECOVERY_064",
+        "NEW_RECOVERY_065",
+        "NEW_RECOVERY_066",
+        "NEW_RECOVERY_067",
+        "NEW_RECOVERY_068"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_003.zip",
+      "bytes": 4835285,
+      "sha256": "db874467124a9637ffe4d84470ee1c7645b8fc0c92d36cc7cc97a094125d1e65",
+      "GLB_file_count": 87,
+      "asset_ids": [
+        "NEW_RECOVERY_069",
+        "NEW_RECOVERY_070",
+        "NEW_RECOVERY_071",
+        "NEW_RECOVERY_072",
+        "NEW_RECOVERY_073",
+        "NEW_RECOVERY_074",
+        "NEW_RECOVERY_075",
+        "NEW_RECOVERY_076",
+        "NEW_RECOVERY_077",
+        "NEW_RECOVERY_078",
+        "NEW_RECOVERY_079",
+        "NEW_RECOVERY_080",
+        "NEW_RECOVERY_081",
+        "NEW_RECOVERY_082",
+        "NEW_RECOVERY_083",
+        "NEW_RECOVERY_084",
+        "NEW_RECOVERY_085",
+        "NEW_RECOVERY_086",
+        "NEW_RECOVERY_087",
+        "NEW_RECOVERY_088",
+        "NEW_RECOVERY_089",
+        "NEW_RECOVERY_090",
+        "NEW_RECOVERY_091",
+        "NEW_RECOVERY_092",
+        "NEW_RECOVERY_093",
+        "NEW_RECOVERY_094",
+        "NEW_RECOVERY_095",
+        "NEW_RECOVERY_096",
+        "NEW_RECOVERY_097"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_004.zip",
+      "bytes": 3264186,
+      "sha256": "f788f130c53f36117605686c9f8992203e4cb4c245c488a2616920c01af949a6",
+      "GLB_file_count": 51,
+      "asset_ids": [
+        "NEW_RECOVERY_098",
+        "NEW_RECOVERY_099",
+        "NEW_RECOVERY_100",
+        "NEW_RECOVERY_101",
+        "NEW_RECOVERY_102",
+        "NEW_RECOVERY_103",
+        "NEW_RECOVERY_104",
+        "NEW_RECOVERY_105",
+        "NEW_RECOVERY_106",
+        "NEW_RECOVERY_107",
+        "NEW_RECOVERY_108",
+        "NEW_RECOVERY_109",
+        "NEW_RECOVERY_110",
+        "NEW_RECOVERY_111",
+        "NEW_RECOVERY_113",
+        "NEW_RECOVERY_114",
+        "NEW_RECOVERY_115"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_005.zip",
+      "bytes": 4379095,
+      "sha256": "dbb82ddfbd185f9766c34078630693aedc44edc59bbfa0a19a21c9ccc9bc6edb",
+      "GLB_file_count": 30,
+      "asset_ids": [
+        "NEW_RECOVERY_112",
+        "NEW_RECOVERY_116",
+        "NEW_RECOVERY_117",
+        "NEW_RECOVERY_118",
+        "NEW_RECOVERY_119",
+        "NEW_RECOVERY_120",
+        "NEW_RECOVERY_121",
+        "NEW_RECOVERY_122",
+        "NEW_RECOVERY_123",
+        "NEW_RECOVERY_124"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_006.zip",
+      "bytes": 4905052,
+      "sha256": "c61da8125b0b809b03bdaa2601ada6518269ea4e5a494616a41e3fb368cfcc01",
+      "GLB_file_count": 33,
+      "asset_ids": [
+        "NEW301",
+        "NEW302",
+        "NEW_RECOVERY_126",
+        "NEW_RECOVERY_127",
+        "NEW_RECOVERY_128",
+        "NEW_RECOVERY_129",
+        "NEW_RECOVERY_130",
+        "NEW_RECOVERY_131",
+        "NEW_RECOVERY_132",
+        "NEW_RECOVERY_133",
+        "NEW_RECOVERY_134"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_007.zip",
+      "bytes": 4127618,
+      "sha256": "f1da6315268d529785f49022e1ab3fc4ac38f994fb7371ac45fea233c9a4418e",
+      "GLB_file_count": 27,
+      "asset_ids": [
+        "NEW303",
+        "NEW304",
+        "NEW305",
+        "NEW307",
+        "NEW309",
+        "NEW310",
+        "NEW313",
+        "NEW315",
+        "NEW316"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_008.zip",
+      "bytes": 5100212,
+      "sha256": "77fc8199671a79c2f211d2ecd6c9f5bcad749cd0c6563bbced587967024a84b2",
+      "GLB_file_count": 18,
+      "asset_ids": [
+        "NEW320",
+        "NEW321",
+        "NEW322",
+        "NEW323",
+        "NEW325",
+        "NEW326"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_009.zip",
+      "bytes": 5200549,
+      "sha256": "8be38b6a81ef5de3052fcd2bd15eac3490c2a55824380da2fd45a57bde172a0b",
+      "GLB_file_count": 21,
+      "asset_ids": [
+        "NEW327",
+        "NEW328",
+        "NEW329",
+        "NEW330",
+        "NEW334",
+        "NEW335",
+        "NEW338"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_010.zip",
+      "bytes": 4623290,
+      "sha256": "2bee5037b41b2e4510dfe0838e201b73e33b79019d6fcfc49d3f3c5150aada5b",
+      "GLB_file_count": 18,
+      "asset_ids": [
+        "NEW333",
+        "NEW336",
+        "NEW337",
+        "NEW340",
+        "NEW341",
+        "NEW349"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_011.zip",
+      "bytes": 3775079,
+      "sha256": "eae0ffb894a53ec88426e0b2968c2a1120a8d9cf98436eb0402eb1aa66335971",
+      "GLB_file_count": 12,
+      "asset_ids": [
+        "NEW345",
+        "NEW351",
+        "NEW353",
+        "NEW354"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_012.zip",
+      "bytes": 4929781,
+      "sha256": "d1ed273a937705b0d2063b003bdbdc9c428d4754e4f94870746fa934cc728631",
+      "GLB_file_count": 12,
+      "asset_ids": [
+        "NEW348",
+        "NEW352",
+        "NEW356",
+        "NEW358"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_013.zip",
+      "bytes": 10746182,
+      "sha256": "433f36c07d55b35fd3883c56fac000ce9f53c99ec28726d7e13cbfc3e9c9b21b",
+      "GLB_file_count": 9,
+      "asset_ids": [
+        "NEW359",
+        "NEW360",
+        "NEW361"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_014.zip",
+      "bytes": 4672474,
+      "sha256": "e5ae2c3b68ff621b003798c41abf7dff023eb4d56c0e5764c7445f718d7659eb",
+      "GLB_file_count": 24,
+      "asset_ids": [
+        "NEW357",
+        "NEW362",
+        "NEW363",
+        "NEW364",
+        "NEW365",
+        "NEW366",
+        "NEW367",
+        "NEW368"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_015.zip",
+      "bytes": 4578939,
+      "sha256": "3b650d186b83dc3fa3fa7ab039676a585f7a00cb25a106bf844d095db3b852d3",
+      "GLB_file_count": 18,
+      "asset_ids": [
+        "NEW369",
+        "NEW370",
+        "NEW371",
+        "NEW372",
+        "NEW373",
+        "NEW374"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_016.zip",
+      "bytes": 3368333,
+      "sha256": "7b84a2b3c3289aaec4269a458bdd189fcf3cc186a1168ed1535ddeaeb9167bfb",
+      "GLB_file_count": 12,
+      "asset_ids": [
+        "NEW375",
+        "NEW377",
+        "NEW379",
+        "NEW380"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_017.zip",
+      "bytes": 3041659,
+      "sha256": "7aba1b4d75b4dc50322c90bec79edbd21ef92f8b56658ceb3e9fefc3dc3fdcce",
+      "GLB_file_count": 12,
+      "asset_ids": [
+        "NEW384",
+        "NEW388",
+        "NEW389",
+        "NEW391"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_018.zip",
+      "bytes": 3861705,
+      "sha256": "6a65d4e7ab1d580f914d19814b132301f3478f4c95b6ef0a02e80348c57bea9d",
+      "GLB_file_count": 12,
+      "asset_ids": [
+        "NEW390",
+        "NEW392",
+        "NEW393",
+        "NEW394"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_019.zip",
+      "bytes": 3725760,
+      "sha256": "995440f0e6908435e92c296e39aa4d37a8ba3612702a2d1abd7256b7e774323e",
+      "GLB_file_count": 18,
+      "asset_ids": [
+        "NEW395",
+        "NEW396",
+        "NEW397",
+        "NEW398",
+        "NEW399",
+        "NEW400"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_020.zip",
+      "bytes": 3109290,
+      "sha256": "279b3951b6e1e69c4c90c5ffb3033ff0a3fe37dba7db175083936d6eb247e1a4",
+      "GLB_file_count": 12,
+      "asset_ids": [
+        "NEW401",
+        "NEW402",
+        "NEW403",
+        "NEW405"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_021.zip",
+      "bytes": 8829239,
+      "sha256": "b4f7b8675638b8e83649f5cf4ca73e3f0784e74a2037f847473bf1a5d84083d7",
+      "GLB_file_count": 9,
+      "asset_ids": [
+        "NEW406",
+        "NEW407",
+        "NEW408"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_022.zip",
+      "bytes": 6259481,
+      "sha256": "415ba527ed9368a10df444e36b4fe545df2aef3f57f125817515c5aed07927d5",
+      "GLB_file_count": 15,
+      "asset_ids": [
+        "NEW410",
+        "NEW411",
+        "NEW412",
+        "NEW413",
+        "NEW414"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_023.zip",
+      "bytes": 3156524,
+      "sha256": "650aa9c9dc4f928edc13da81b6d55d1a0e406434d2898766f70ad7dd519b25a3",
+      "GLB_file_count": 24,
+      "asset_ids": [
+        "NEW344",
+        "NEW415",
+        "NEW416",
+        "NEW417",
+        "NEW420",
+        "NEW421",
+        "NEW422",
+        "NEW424"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_024.zip",
+      "bytes": 3741535,
+      "sha256": "00c7d08b0e1788b49b8a9b730bc11f3b79e16282dee3e48673b152f68615824d",
+      "GLB_file_count": 15,
+      "asset_ids": [
+        "NEW423",
+        "NEW425",
+        "NEW426",
+        "NEW427",
+        "NEW428"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_025.zip",
+      "bytes": 4862205,
+      "sha256": "91ddcbb8a8c97882710e8ba5adad7078c8afdc7b8786ad748c5ca88a1ec1a0a1",
+      "GLB_file_count": 12,
+      "asset_ids": [
+        "NEW431",
+        "NEW432",
+        "NEW433",
+        "NEW434"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_026.zip",
+      "bytes": 2465992,
+      "sha256": "311f09187da23c380c36219a0c3e170053399f23193c91586a613454fe8198ab",
+      "GLB_file_count": 9,
+      "asset_ids": [
+        "NEW435",
+        "NEW436",
+        "NEW438"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_027.zip",
+      "bytes": 2013479,
+      "sha256": "42e64c665128435b7575c1b9f7bfcef3cf517730ca7c8dfcfa32b6f69b5abd88",
+      "GLB_file_count": 6,
+      "asset_ids": [
+        "NEW440",
+        "NEW442"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_028.zip",
+      "bytes": 4711715,
+      "sha256": "2eed0741f8d7c0202e7c266aed549ae3f1617af546909b13f2baaac1b93df74d",
+      "GLB_file_count": 6,
+      "asset_ids": [
+        "NEW443",
+        "NEW444"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_029.zip",
+      "bytes": 1784797,
+      "sha256": "665bd4d74f7580c06f55ce6b7ea9906de91554cda3d317238556575f08054cdb",
+      "GLB_file_count": 9,
+      "asset_ids": [
+        "NEW445",
+        "NEW446",
+        "NEW447"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_030_TRANSPORT_01.zip",
+      "bytes": 9286231,
+      "sha256": "c1dda9da90f4877fafb6b9c3de6280d535c6840563c10df2376fbb1c9865e20a",
+      "GLB_file_count": 2,
+      "asset_ids": [
+        "NEW449"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_030_TRANSPORT_02.zip",
+      "bytes": 4874553,
+      "sha256": "f877856fb77acd97cfa1a890813804325472af1fe8b1d5ba32be9d95958943c7",
+      "GLB_file_count": 1,
+      "asset_ids": [
+        "NEW449"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_031_TRANSPORT_01.zip",
+      "bytes": 9878823,
+      "sha256": "c00497ed4517ce5361bbc6859d0c14f480cfdf1ca4677e825172bfe97eada23c",
+      "GLB_file_count": 3,
+      "asset_ids": [
+        "NEW451"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_031_TRANSPORT_02.zip",
+      "bytes": 1908734,
+      "sha256": "bafe4927cf0add3b916f7986097ccb3fc03a8ac5f3af57301cec4037a2406541",
+      "GLB_file_count": 6,
+      "asset_ids": [
+        "NEW453",
+        "NEW454"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_032.zip",
+      "bytes": 5099213,
+      "sha256": "9850e8795a696535e470a42b50276ba9648999b8e5f8dfa6f96a55eb84989599",
+      "GLB_file_count": 15,
+      "asset_ids": [
+        "NEW455",
+        "NEW456",
+        "NEW457",
+        "NEW458",
+        "NEW459"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_033.zip",
+      "bytes": 4811723,
+      "sha256": "18131efee549e1c7c50467922b4ea22c27eec770c0a32d99b52eee68f97752cd",
+      "GLB_file_count": 24,
+      "asset_ids": [
+        "NEW460",
+        "NEW461",
+        "NEW466",
+        "NEW467",
+        "NEW468",
+        "NEW469",
+        "NEW470",
+        "NEW471"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_034.zip",
+      "bytes": 9965080,
+      "sha256": "71b33196e9c091e1d005b7649be9f27b1b7131d5684610082e04dbe7ad25b022",
+      "GLB_file_count": 15,
+      "asset_ids": [
+        "NEW473",
+        "NEW474",
+        "NEW475",
+        "NEW476",
+        "NEW483"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_035_TRANSPORT_01.zip",
+      "bytes": 6621570,
+      "sha256": "1f9b144ab298a981ae454b9340cf1a5a9cb42da80c8a84f118febca4de26c293",
+      "GLB_file_count": 6,
+      "asset_ids": [
+        "NEW486",
+        "NEW487"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_035_TRANSPORT_02.zip",
+      "bytes": 9005999,
+      "sha256": "73083eb7f36e96d6c3070442dd59d3c61a3c55567e501023c3435e32c667cfda",
+      "GLB_file_count": 9,
+      "asset_ids": [
+        "NEW488",
+        "NEW489",
+        "NEW490"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_036.zip",
+      "bytes": 4185272,
+      "sha256": "699af207722da2e6276f0f28e81ce4220b88f82e01a2e1d62e3ca8bed6b355d1",
+      "GLB_file_count": 48,
+      "asset_ids": [
+        "NEW563",
+        "NEW564",
+        "NEW565",
+        "NEW600",
+        "NEW603",
+        "NEW605",
+        "NEW607",
+        "NEW610",
+        "NEW611",
+        "NEW614",
+        "NEW615",
+        "NEW617",
+        "NEW618",
+        "NEW620",
+        "NEW621",
+        "NEW622"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_037.zip",
+      "bytes": 7202932,
+      "sha256": "3597576c3bbbee62ae621be88bbd34563089d2542c9de2508b0d9e2f2f266b99",
+      "GLB_file_count": 54,
+      "asset_ids": [
+        "NEW623",
+        "NEW624",
+        "NEW626",
+        "NEW627",
+        "NEW628",
+        "NEW629",
+        "NEW631",
+        "NEW632",
+        "NEW634",
+        "NEW636",
+        "NEW637",
+        "NEW640",
+        "NEW641",
+        "NEW642",
+        "NEW646",
+        "NEW647",
+        "NEW655",
+        "NEW657"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_038.zip",
+      "bytes": 9085519,
+      "sha256": "bb429917ddcc8c064297c46dcc9998a6a5ec2c52e6c57517abdb55373761cdd7",
+      "GLB_file_count": 36,
+      "asset_ids": [
+        "NEW658",
+        "NEW660",
+        "NEW661",
+        "NEW673",
+        "NEW678",
+        "NEW679",
+        "NEW680",
+        "NEW681",
+        "NEW682",
+        "NEW685",
+        "NEW686",
+        "NEW687"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_039_TRANSPORT_01.zip",
+      "bytes": 9402499,
+      "sha256": "ff46aa59a5924eaf9211edea5c6d30a8cb571642a8639d4d255b1f66b10496fb",
+      "GLB_file_count": 18,
+      "asset_ids": [
+        "NEW688",
+        "NEW689",
+        "NEW690",
+        "NEW691",
+        "NEW692",
+        "NEW693"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_039_TRANSPORT_02.zip",
+      "bytes": 2609888,
+      "sha256": "5484bed4644654cf87353321d2006532dbc18b53c46e1544a0367ca2c92debdd",
+      "GLB_file_count": 3,
+      "asset_ids": [
+        "NEW694"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_040_TRANSPORT_01.zip",
+      "bytes": 9682397,
+      "sha256": "ee01c33b48f336b8ece66fc0bdf43c4b498bd5552bc13d0c84316f9afaefc977",
+      "GLB_file_count": 6,
+      "asset_ids": [
+        "NEW695",
+        "NEW696"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_040_TRANSPORT_02.zip",
+      "bytes": 1960875,
+      "sha256": "933e8aeb7543328c1548aca38c5eaca2ec24302065d54655523cf79fc3f675bf",
+      "GLB_file_count": 3,
+      "asset_ids": [
+        "NEW698"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_041_TRANSPORT_01.zip",
+      "bytes": 9925644,
+      "sha256": "96224632aab2d1944599459a9e1cb4d4e5bec88c853370c65552209c6ad59e2e",
+      "GLB_file_count": 20,
+      "asset_ids": [
+        "NEW699",
+        "NEW700",
+        "NEW701",
+        "NEW702",
+        "NEW703",
+        "NEW704",
+        "NEW705"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_041_TRANSPORT_02.zip",
+      "bytes": 4561241,
+      "sha256": "c27e1fa2b7df9e4bbaa5574b78bda5532de47bb0b381c90c043874ab29a8eed9",
+      "GLB_file_count": 7,
+      "asset_ids": [
+        "NEW705",
+        "NEW706",
+        "NEW707"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_BATCH_042.zip",
+      "bytes": 1410426,
+      "sha256": "d4377a4369fdbbe01fc08ffa31aa4ffd73a2ce6ad53f1978cf4f0fe51fc54e33",
+      "GLB_file_count": 3,
+      "asset_ids": [
+        "NEW708"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_001.zip",
+      "bytes": 4081550,
+      "sha256": "382697c843522c3be7ae2758692e29dd80fb2260f606feb30ce41fcd841e6e23",
+      "GLB_file_count": 15,
+      "asset_ids": [
+        "NEW306",
+        "NEW308",
+        "NEW311",
+        "NEW312",
+        "NEW318"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_002.zip",
+      "bytes": 3874153,
+      "sha256": "3ea1c99c8cc72917529cd4589038cbd1a7bba16cbc3fddc9c4d9ec3ca9bf1de2",
+      "GLB_file_count": 18,
+      "asset_ids": [
+        "NEW317",
+        "NEW319",
+        "NEW324",
+        "NEW332",
+        "NEW342",
+        "NEW346"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_003.zip",
+      "bytes": 3184948,
+      "sha256": "cded2322627d1a2e4f9c9530f0cbb1a60d04d882a30d7a6c975c863fae4f9bbb",
+      "GLB_file_count": 12,
+      "asset_ids": [
+        "NEW347",
+        "NEW350",
+        "NEW355",
+        "NEW376"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_004.zip",
+      "bytes": 4219380,
+      "sha256": "fa37d3903c45bc8af7f32ee2e2e71f800347d3226f61fee6c376e31e5c75e399",
+      "GLB_file_count": 6,
+      "asset_ids": [
+        "NEW381",
+        "NEW382"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_005.zip",
+      "bytes": 2130509,
+      "sha256": "228cdbfca756a995cdcebc7105d47e6804406be4c41f7e9c79e88c4e97f579ce",
+      "GLB_file_count": 3,
+      "asset_ids": [
+        "NEW383"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_006.zip",
+      "bytes": 2749037,
+      "sha256": "ed1e061816a3b9803544727cf4dbb18990c25489991ced5cf6c9b620f93c5b41",
+      "GLB_file_count": 6,
+      "asset_ids": [
+        "NEW385",
+        "NEW386"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_007.zip",
+      "bytes": 4302772,
+      "sha256": "e2da86228ba67af127623cba61017b4a21d91d66036f6d3b3d680c08badd01ab",
+      "GLB_file_count": 15,
+      "asset_ids": [
+        "NEW387",
+        "NEW409",
+        "NEW429",
+        "NEW430",
+        "NEW448"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_008.zip",
+      "bytes": 7509017,
+      "sha256": "85fc79b2b3f59928121176647b79afd8d7c3d1b5c0485ac6aa120589f73cd6ff",
+      "GLB_file_count": 42,
+      "asset_ids": [
+        "NEW472",
+        "NEW477",
+        "NEW478",
+        "NEW479",
+        "NEW480",
+        "NEW481",
+        "NEW484",
+        "NEW485",
+        "NEW491",
+        "NEW492",
+        "NEW493",
+        "NEW494",
+        "NEW495",
+        "NEW496"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_009.zip",
+      "bytes": 4906950,
+      "sha256": "20c0b3c74ca7ab5bc76580d6f0e85d5877c834e5b96341e4fde43e26a7e179b8",
+      "GLB_file_count": 36,
+      "asset_ids": [
+        "NEW498",
+        "NEW499",
+        "NEW501",
+        "NEW502",
+        "NEW504",
+        "NEW505",
+        "NEW506",
+        "NEW508",
+        "NEW509",
+        "NEW510",
+        "NEW511",
+        "NEW513"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_010.zip",
+      "bytes": 5823442,
+      "sha256": "622cc5e19960545efe5d499cc6ca3feef985e6a33d4f60294b486e0a7628ea17",
+      "GLB_file_count": 39,
+      "asset_ids": [
+        "NEW514",
+        "NEW515",
+        "NEW517",
+        "NEW518",
+        "NEW519",
+        "NEW521",
+        "NEW522",
+        "NEW523",
+        "NEW527",
+        "NEW528",
+        "NEW529",
+        "NEW531",
+        "NEW533"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_011.zip",
+      "bytes": 4482941,
+      "sha256": "c5af2953edcfe8bfc48cdab145723a277c2bc092878d66e709b558d532c9e9e7",
+      "GLB_file_count": 21,
+      "asset_ids": [
+        "NEW535",
+        "NEW536",
+        "NEW537",
+        "NEW538",
+        "NEW539",
+        "NEW540",
+        "NEW542"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_012.zip",
+      "bytes": 4090185,
+      "sha256": "9e224fcef939afee756adb4f763803c34e261fb3aa33ab64c1caec8ef84948cd",
+      "GLB_file_count": 18,
+      "asset_ids": [
+        "NEW543",
+        "NEW544",
+        "NEW548",
+        "NEW551",
+        "NEW552",
+        "NEW554"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_013.zip",
+      "bytes": 4418963,
+      "sha256": "ae224b562b4245c3d7a367def1e4724ce1593e1c1f565b56d4c16d8f56e37a14",
+      "GLB_file_count": 15,
+      "asset_ids": [
+        "NEW556",
+        "NEW558",
+        "NEW559",
+        "NEW560",
+        "NEW561"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_014.zip",
+      "bytes": 6145619,
+      "sha256": "02ce980019accb4c1ed8226de2202d7f7caf80e1f84058c9bba2855e2527e8e0",
+      "GLB_file_count": 18,
+      "asset_ids": [
+        "NEW567",
+        "NEW571",
+        "NEW577",
+        "NEW582",
+        "NEW586",
+        "NEW587"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_015.zip",
+      "bytes": 4478219,
+      "sha256": "1962eca52484ef045ccdf45bb36d977315f294edf73c1965d723fadf8de4940b",
+      "GLB_file_count": 21,
+      "asset_ids": [
+        "NEW592",
+        "NEW596",
+        "NEW606",
+        "NEW667",
+        "NEW668",
+        "NEW669",
+        "NEW670"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_016_TRANSPORT_01.zip",
+      "bytes": 9675491,
+      "sha256": "0a1c9c3a0bdea082d265df9ff0b9199871922e925900c9c731831ed1eb0a6246",
+      "GLB_file_count": 3,
+      "asset_ids": [
+        "NEW675"
+      ]
+    },
+    {
+      "file": "RECOVERED_GLB_EXTRAS_BATCH_016_TRANSPORT_02.zip",
+      "bytes": 7677521,
+      "sha256": "b8eb5ab4a019551e42a41d6454a63c719fec1e4c27a5415e848b3faa3ecb6a5b",
+      "GLB_file_count": 6,
+      "asset_ids": [
+        "NEW677",
+        "NEW684"
+      ]
+    }
+  ],
+  "replacements": [
+    {
+      "original_archive": "RECOVERED_GLB_BATCH_030.zip",
+      "original_sha256": "90b245051b71799971ce46d047841534988c1fedcd9aa4981d198dc245eb5fae",
+      "original_bytes": 14160259,
+      "replacement_archives": [
+        {
+          "file": "RECOVERED_GLB_BATCH_030_TRANSPORT_01.zip",
+          "bytes": 9286231,
+          "sha256": "c1dda9da90f4877fafb6b9c3de6280d535c6840563c10df2376fbb1c9865e20a",
+          "GLB_file_count": 2,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW449",
+              "files": [
+                "NEW449/models/NEW449_Southern_Cassowary_LOD0.glb",
+                "NEW449/models/NEW449_Southern_Cassowary_LOD1.glb"
+              ],
+              "LOD_subset": true
+            }
+          ]
+        },
+        {
+          "file": "RECOVERED_GLB_BATCH_030_TRANSPORT_02.zip",
+          "bytes": 4874553,
+          "sha256": "f877856fb77acd97cfa1a890813804325472af1fe8b1d5ba32be9d95958943c7",
+          "GLB_file_count": 1,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW449",
+              "files": [
+                "NEW449/models/NEW449_Southern_Cassowary_LOD2.glb"
+              ],
+              "LOD_subset": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_archive": "RECOVERED_GLB_BATCH_031.zip",
+      "original_sha256": "2f3d741b24c59c19d7a8b29cca169a7a9182ed70b52cd883c73703df463e22f9",
+      "original_bytes": 11787038,
+      "replacement_archives": [
+        {
+          "file": "RECOVERED_GLB_BATCH_031_TRANSPORT_01.zip",
+          "bytes": 9878823,
+          "sha256": "c00497ed4517ce5361bbc6859d0c14f480cfdf1ca4677e825172bfe97eada23c",
+          "GLB_file_count": 3,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW451",
+              "files": [
+                "NEW451/models/NEW451_ship_helm_LOD0.glb",
+                "NEW451/models/NEW451_ship_helm_LOD1.glb",
+                "NEW451/models/NEW451_ship_helm_LOD2.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        },
+        {
+          "file": "RECOVERED_GLB_BATCH_031_TRANSPORT_02.zip",
+          "bytes": 1908734,
+          "sha256": "bafe4927cf0add3b916f7986097ccb3fc03a8ac5f3af57301cec4037a2406541",
+          "GLB_file_count": 6,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW453",
+              "files": [
+                "NEW453/models/NEW453_penny_farthing_LOD0.glb",
+                "NEW453/models/NEW453_penny_farthing_LOD1.glb",
+                "NEW453/models/NEW453_penny_farthing_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW454",
+              "files": [
+                "NEW454/models/NEW454_LOD0.glb",
+                "NEW454/models/NEW454_LOD1.glb",
+                "NEW454/models/NEW454_LOD2.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_archive": "RECOVERED_GLB_BATCH_035.zip",
+      "original_sha256": "27bfeec735d97e5c315ad40f47398c02ceb32c7816a6bad250f4f8b952d9e15b",
+      "original_bytes": 15627036,
+      "replacement_archives": [
+        {
+          "file": "RECOVERED_GLB_BATCH_035_TRANSPORT_01.zip",
+          "bytes": 6621570,
+          "sha256": "1f9b144ab298a981ae454b9340cf1a5a9cb42da80c8a84f118febca4de26c293",
+          "GLB_file_count": 6,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW486",
+              "files": [
+                "NEW486/models/wooden_shipping_pallet_LOD0.glb",
+                "NEW486/models/wooden_shipping_pallet_LOD1.glb",
+                "NEW486/models/wooden_shipping_pallet_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW487",
+              "files": [
+                "NEW487/models/hooked_crowbar_LOD0.glb",
+                "NEW487/models/hooked_crowbar_LOD1.glb",
+                "NEW487/models/hooked_crowbar_LOD2.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        },
+        {
+          "file": "RECOVERED_GLB_BATCH_035_TRANSPORT_02.zip",
+          "bytes": 9005999,
+          "sha256": "73083eb7f36e96d6c3070442dd59d3c61a3c55567e501023c3435e32c667cfda",
+          "GLB_file_count": 9,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW488",
+              "files": [
+                "NEW488/models/pleated_face_mask_LOD0.glb",
+                "NEW488/models/pleated_face_mask_LOD1.glb",
+                "NEW488/models/pleated_face_mask_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW489",
+              "files": [
+                "NEW489/models/convex_traffic_mirror_LOD0.glb",
+                "NEW489/models/convex_traffic_mirror_LOD1.glb",
+                "NEW489/models/convex_traffic_mirror_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW490",
+              "files": [
+                "NEW490/models/modular_rubber_speed_bump_LOD0.glb",
+                "NEW490/models/modular_rubber_speed_bump_LOD1.glb",
+                "NEW490/models/modular_rubber_speed_bump_LOD2.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_archive": "RECOVERED_GLB_BATCH_039.zip",
+      "original_sha256": "27339822be19d9dbe7fc4f9ba771c1845c320bcae4b24b80c5bd82fd8c5e2637",
+      "original_bytes": 12011861,
+      "replacement_archives": [
+        {
+          "file": "RECOVERED_GLB_BATCH_039_TRANSPORT_01.zip",
+          "bytes": 9402499,
+          "sha256": "ff46aa59a5924eaf9211edea5c6d30a8cb571642a8639d4d255b1f66b10496fb",
+          "GLB_file_count": 18,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW688",
+              "files": [
+                "NEW688/models/NEW688_CrossStaff_LOD0_v001.glb",
+                "NEW688/models/NEW688_CrossStaff_LOD1_v001.glb",
+                "NEW688/models/NEW688_CrossStaff_LOD2_v001.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW689",
+              "files": [
+                "NEW689/models/NEW689_Tubeworm_LOD0.glb",
+                "NEW689/models/NEW689_Tubeworm_LOD1.glb",
+                "NEW689/models/NEW689_Tubeworm_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW690",
+              "files": [
+                "NEW690/models/NEW690_SeaAngel_LOD0.glb",
+                "NEW690/models/NEW690_SeaAngel_LOD1.glb",
+                "NEW690/models/NEW690_SeaAngel_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW691",
+              "files": [
+                "NEW691/models/NEW691_LiftBag_LOD0.glb",
+                "NEW691/models/NEW691_LiftBag_LOD1.glb",
+                "NEW691/models/NEW691_LiftBag_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW692",
+              "files": [
+                "NEW692/models/NEW692_Amphora_LOD0.glb",
+                "NEW692/models/NEW692_Amphora_LOD1.glb",
+                "NEW692/models/NEW692_Amphora_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW693",
+              "files": [
+                "NEW693/models/NEW693_BronzeRam_LOD0.glb",
+                "NEW693/models/NEW693_BronzeRam_LOD1.glb",
+                "NEW693/models/NEW693_BronzeRam_LOD2.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        },
+        {
+          "file": "RECOVERED_GLB_BATCH_039_TRANSPORT_02.zip",
+          "bytes": 2609888,
+          "sha256": "5484bed4644654cf87353321d2006532dbc18b53c46e1544a0367ca2c92debdd",
+          "GLB_file_count": 3,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW694",
+              "files": [
+                "NEW694/models/NEW694_MooringBuoy_LOD0.glb",
+                "NEW694/models/NEW694_MooringBuoy_LOD1.glb",
+                "NEW694/models/NEW694_MooringBuoy_LOD2.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_archive": "RECOVERED_GLB_BATCH_040.zip",
+      "original_sha256": "f172d68988a7db307740c373d128775a444ca7fbc69e65b38e2d72950d52b4a2",
+      "original_bytes": 11642749,
+      "replacement_archives": [
+        {
+          "file": "RECOVERED_GLB_BATCH_040_TRANSPORT_01.zip",
+          "bytes": 9682397,
+          "sha256": "ee01c33b48f336b8ece66fc0bdf43c4b498bd5552bc13d0c84316f9afaefc977",
+          "GLB_file_count": 6,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW695",
+              "files": [
+                "NEW695/models/NEW695_BasketStar_LOD0.glb",
+                "NEW695/models/NEW695_BasketStar_LOD1.glb",
+                "NEW695/models/NEW695_BasketStar_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW696",
+              "files": [
+                "NEW696/models/NEW696_OysterTongs_LOD0.glb",
+                "NEW696/models/NEW696_OysterTongs_LOD1.glb",
+                "NEW696/models/NEW696_OysterTongs_LOD2.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        },
+        {
+          "file": "RECOVERED_GLB_BATCH_040_TRANSPORT_02.zip",
+          "bytes": 1960875,
+          "sha256": "933e8aeb7543328c1548aca38c5eaca2ec24302065d54655523cf79fc3f675bf",
+          "GLB_file_count": 3,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW698",
+              "files": [
+                "NEW698/models/NEW698_StandardRainGauge_LOD0.glb",
+                "NEW698/models/NEW698_StandardRainGauge_LOD1.glb",
+                "NEW698/models/NEW698_StandardRainGauge_LOD2.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_archive": "RECOVERED_GLB_BATCH_041.zip",
+      "original_sha256": "41b5765f527750a8ebe1ece90f9538f45b27c980cff4489b6b033b8eebaba17f",
+      "original_bytes": 14486324,
+      "replacement_archives": [
+        {
+          "file": "RECOVERED_GLB_BATCH_041_TRANSPORT_01.zip",
+          "bytes": 9925644,
+          "sha256": "96224632aab2d1944599459a9e1cb4d4e5bec88c853370c65552209c6ad59e2e",
+          "GLB_file_count": 20,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW699",
+              "files": [
+                "NEW699/models/NEW699_AneroidBarometer_LOD0.glb",
+                "NEW699/models/NEW699_AneroidBarometer_LOD1.glb",
+                "NEW699/models/NEW699_AneroidBarometer_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW700",
+              "files": [
+                "NEW700/models/NEW700_CompleteBoatHook_LOD0.glb",
+                "NEW700/models/NEW700_CompleteBoatHook_LOD1.glb",
+                "NEW700/models/NEW700_CompleteBoatHook_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW701",
+              "files": [
+                "NEW701/models/NEW701_CompleteServingMallet_LOD0.glb",
+                "NEW701/models/NEW701_CompleteServingMallet_LOD1.glb",
+                "NEW701/models/NEW701_CompleteServingMallet_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW702",
+              "files": [
+                "NEW702/models/NEW702_CompleteSeamRubber_LOD0.glb",
+                "NEW702/models/NEW702_CompleteSeamRubber_LOD1.glb",
+                "NEW702/models/NEW702_CompleteSeamRubber_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW703",
+              "files": [
+                "NEW703/models/NEW703_CompleteDarningMushroom_LOD0.glb",
+                "NEW703/models/NEW703_CompleteDarningMushroom_LOD1.glb",
+                "NEW703/models/NEW703_CompleteDarningMushroom_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW704",
+              "files": [
+                "NEW704/models/NEW704_CompleteLucet_LOD0.glb",
+                "NEW704/models/NEW704_CompleteLucet_LOD1.glb",
+                "NEW704/models/NEW704_CompleteLucet_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW705",
+              "files": [
+                "NEW705/models/NEW705_CompleteGardenDibber_LOD0.glb",
+                "NEW705/models/NEW705_CompleteGardenDibber_LOD1.glb"
+              ],
+              "LOD_subset": true
+            }
+          ]
+        },
+        {
+          "file": "RECOVERED_GLB_BATCH_041_TRANSPORT_02.zip",
+          "bytes": 4561241,
+          "sha256": "c27e1fa2b7df9e4bbaa5574b78bda5532de47bb0b381c90c043874ab29a8eed9",
+          "GLB_file_count": 7,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW705",
+              "files": [
+                "NEW705/models/NEW705_CompleteGardenDibber_LOD2.glb"
+              ],
+              "LOD_subset": true
+            },
+            {
+              "asset_id": "NEW706",
+              "files": [
+                "NEW706/models/NEW706_CompleteSpurtle_LOD0.glb",
+                "NEW706/models/NEW706_CompleteSpurtle_LOD1.glb",
+                "NEW706/models/NEW706_CompleteSpurtle_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW707",
+              "files": [
+                "NEW707/models/NEW707_CompleteNiddyNoddy_LOD0.glb",
+                "NEW707/models/NEW707_CompleteNiddyNoddy_LOD1.glb",
+                "NEW707/models/NEW707_CompleteNiddyNoddy_LOD2.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_archive": "RECOVERED_GLB_EXTRAS_BATCH_016.zip",
+      "original_sha256": "30699cc32e1450df91a35e5a5ff12e9747ffa61e70b91788d23d767986dbd9c6",
+      "original_bytes": 17352435,
+      "replacement_archives": [
+        {
+          "file": "RECOVERED_GLB_EXTRAS_BATCH_016_TRANSPORT_01.zip",
+          "bytes": 9675491,
+          "sha256": "0a1c9c3a0bdea082d265df9ff0b9199871922e925900c9c731831ed1eb0a6246",
+          "GLB_file_count": 3,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW675",
+              "files": [
+                "NEW675/models/NEW675_LOD0.glb",
+                "NEW675/models/NEW675_LOD1.glb",
+                "NEW675/models/NEW675_LOD2.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        },
+        {
+          "file": "RECOVERED_GLB_EXTRAS_BATCH_016_TRANSPORT_02.zip",
+          "bytes": 7677521,
+          "sha256": "b8eb5ab4a019551e42a41d6454a63c719fec1e4c27a5415e848b3faa3ecb6a5b",
+          "GLB_file_count": 6,
+          "asset_LOD_contents": [
+            {
+              "asset_id": "NEW677",
+              "files": [
+                "NEW677/models/NEW677_LOD0.glb",
+                "NEW677/models/NEW677_LOD1.glb",
+                "NEW677/models/NEW677_LOD2.glb"
+              ],
+              "LOD_subset": false
+            },
+            {
+              "asset_id": "NEW684",
+              "files": [
+                "NEW684/models/NEW684_SoundingLine_LOD0_v001.glb",
+                "NEW684/models/NEW684_SoundingLine_LOD1_v001.glb",
+                "NEW684/models/NEW684_SoundingLine_LOD2_v001.glb"
+              ],
+              "LOD_subset": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "required_external_textures": 0,
+  "static_validation": "Exact original GLB bytes, structural and metadata/image checks; reviewed technical extras preserved. Not full model import, visual-quality or runtime certification.",
+  "Unity": "NOT_RUN",
+  "not_included": "Assets requiring further review or handled separately are not included."
+}
