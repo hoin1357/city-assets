@@ -1,0 +1,1 @@
+Three original stylized animal assets. Preserve folders on extraction. 381/383 morphs mutually exclusive;382 tentacle tip drift only. Same-format native/FBX preservation, not continuous simulation or Unity certification. No reference photos/source/QA included.

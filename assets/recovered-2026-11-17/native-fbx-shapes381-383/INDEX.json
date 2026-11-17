@@ -1,0 +1,143 @@
+{
+  "asset_count": 3,
+  "asset_ids": [
+    "NEW381",
+    "NEW382",
+    "NEW383"
+  ],
+  "native_files": 9,
+  "FBX_files": 9,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW381_SHAPES.zip",
+      "bytes": 2554741,
+      "sha256": "e5d19078057f3e01db636b80892e639ffd193ba7ffca865224c49db3e01b19d8",
+      "asset_id": "NEW381",
+      "members": [
+        {
+          "member": "NEW381/NEW381_LOD0.blend",
+          "bytes": 2795664,
+          "sha256": "560fda212e2e8a841c0e234502dd7253e251cfd55df342cdc5bf0d8fb5649774"
+        },
+        {
+          "member": "NEW381/NEW381_LOD0.fbx",
+          "bytes": 803292,
+          "sha256": "73e4eb42b680758d6555e46f28f502efa76dea2d5bdacb7ee6910eb4ed48f281"
+        },
+        {
+          "member": "NEW381/NEW381_LOD1.blend",
+          "bytes": 1741016,
+          "sha256": "6f04ce7a2886e64876fffd1f4a21f2513a0270b40ebc26c9f17c136f835e4181"
+        },
+        {
+          "member": "NEW381/NEW381_LOD1.fbx",
+          "bytes": 488236,
+          "sha256": "551aa8483c68ff986702f3cff7cb60ceead938b1df645b68835ea24700b44951"
+        },
+        {
+          "member": "NEW381/NEW381_LOD2.blend",
+          "bytes": 975032,
+          "sha256": "f8753332e651ab130f72e241cbe25bbe391fcfb802a95b36dcdbcb712b477ed8"
+        },
+        {
+          "member": "NEW381/NEW381_LOD2.fbx",
+          "bytes": 248860,
+          "sha256": "d7ac9fcb6106b8e27d726fb113239267a0aebf6e4fc86032ea28c84e238e7c5d"
+        },
+        {
+          "member": "NEW381/MANIFEST.json",
+          "bytes": 11889,
+          "sha256": "9ea818887b6ab60a256789e3e29a026882f164e5fb40f7f01d5ceefc600a9871"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW382_SHAPES.zip",
+      "bytes": 5149664,
+      "sha256": "a09c4903839c1312ac59b20d80abf4a064f04739b8d4754d5c1866d428645568",
+      "asset_id": "NEW382",
+      "members": [
+        {
+          "member": "NEW382/NEW382_LOD0.blend",
+          "bytes": 5599228,
+          "sha256": "9e256bd4e0bccc03bef7dae23fcd708e87107f0615d53c1c45ff0de7f1d5b80b"
+        },
+        {
+          "member": "NEW382/NEW382_LOD0.fbx",
+          "bytes": 1991164,
+          "sha256": "45bec84714046176a3d1b6a60f256df258045b3b2e5eebde5b5a43fba821cada"
+        },
+        {
+          "member": "NEW382/NEW382_LOD1.blend",
+          "bytes": 3380120,
+          "sha256": "017c446f37c9debeb269a79883356ccd26b872da52ec04be128d632f7a267645"
+        },
+        {
+          "member": "NEW382/NEW382_LOD1.fbx",
+          "bytes": 1185228,
+          "sha256": "c4e35e8db8ec96b71fa18e9f5a2181707a0788530df8a271fe7a159d7de3152d"
+        },
+        {
+          "member": "NEW382/NEW382_LOD2.blend",
+          "bytes": 1916816,
+          "sha256": "6447446073907fc92bd27c76fef335df931d59d639ccc325e04b986b763fbcf5"
+        },
+        {
+          "member": "NEW382/NEW382_LOD2.fbx",
+          "bytes": 659724,
+          "sha256": "b6601853a1451d80bd2e4257c556408fe4d48a14fd985d3e11ada4173b42b04a"
+        },
+        {
+          "member": "NEW382/MANIFEST.json",
+          "bytes": 38604,
+          "sha256": "ae96a1bcfd61d4ab33a077811c9b9d8db2ccb6a56a0d5114461d1eb2f9b0f04b"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW383_SHAPES.zip",
+      "bytes": 3739897,
+      "sha256": "40c24ebbbcdaa5d2eb90103a488f84654c54dfcf02f043d928b89c6bf4e04753",
+      "asset_id": "NEW383",
+      "members": [
+        {
+          "member": "NEW383/NEW383_LOD0.blend",
+          "bytes": 3973912,
+          "sha256": "d1a7d887159ab258b2d255c111aa5d2245b9692aeac63aa48fd2ece7aa846b28"
+        },
+        {
+          "member": "NEW383/NEW383_LOD0.fbx",
+          "bytes": 1288428,
+          "sha256": "43afa734f094499ca0069806bd0366d6176932db3e1deeb6ccf6f7214efa2e95"
+        },
+        {
+          "member": "NEW383/NEW383_LOD1.blend",
+          "bytes": 2686904,
+          "sha256": "96335b827a71fcacac00cd5fa173572c0f8ed53b2a9386a8e591b50ccb34575d"
+        },
+        {
+          "member": "NEW383/NEW383_LOD1.fbx",
+          "bytes": 897420,
+          "sha256": "7000dea74a6f50368182b26762d35b1b63e93102ad7ec77da4708a9703a34bc5"
+        },
+        {
+          "member": "NEW383/NEW383_LOD2.blend",
+          "bytes": 1760296,
+          "sha256": "8cfe2aae3ee499d977f085ac582a8bd01cf41c2aabfc64b3660e8c8c2d26a02f"
+        },
+        {
+          "member": "NEW383/NEW383_LOD2.fbx",
+          "bytes": 614572,
+          "sha256": "df2cff0922cad4378aa42e13c5079035f7394521cc8fec0716f99bc5908c9204"
+        },
+        {
+          "member": "NEW383/MANIFEST.json",
+          "bytes": 62831,
+          "sha256": "0439c2533b5c88e6bd362a67c0df710d98422077ca0af5b863abf4450f12efa7"
+        }
+      ]
+    }
+  ],
+  "each_archive_complete_for_its_asset": true,
+  "Unity": "NOT_RUN"
+}
