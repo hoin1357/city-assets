@@ -1,0 +1,1 @@
+NEW385 great hammerhead shark, original r05 model scope. Preserve folders on extraction. Left/right small idle body-tail bends are mutually exclusive. Roughly4cm tip excursion, not full locomotion. Same-format native/FBX preservation, not continuous simulation or Unity certification. No reference photos/source/QA included.

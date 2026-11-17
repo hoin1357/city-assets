@@ -1,0 +1,55 @@
+{
+  "asset_count": 1,
+  "asset_ids": [
+    "NEW385"
+  ],
+  "native_files": 3,
+  "FBX_files": 3,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW385_SHAPES.zip",
+      "bytes": 3066162,
+      "sha256": "035f5669ee8bff64a6392c2467626ae2e2c1582f12b0dd38b40ca1c9b07c2a42",
+      "asset_id": "NEW385",
+      "members": [
+        {
+          "member": "NEW385/NEW385_LOD0.blend",
+          "bytes": 3221776,
+          "sha256": "5ae034852274af89f0de25fdbc3904ad4911b5b0bd4b9fa6043161e0ddb111df"
+        },
+        {
+          "member": "NEW385/NEW385_LOD0.fbx",
+          "bytes": 977228,
+          "sha256": "e02d06b69921d1ba8393ad5a256b734b2e67fc0aa6d6214c4577d5b6337c78ec"
+        },
+        {
+          "member": "NEW385/NEW385_LOD1.blend",
+          "bytes": 2202480,
+          "sha256": "74b34800bb883bbb62a7f8ea64080432d840600683da4c972f5b3092122fdaf6"
+        },
+        {
+          "member": "NEW385/NEW385_LOD1.fbx",
+          "bytes": 678236,
+          "sha256": "62aea65369225eeba470a81ba1d9e6356bcba1b6de6d005e7c80943882e853aa"
+        },
+        {
+          "member": "NEW385/NEW385_LOD2.blend",
+          "bytes": 1464168,
+          "sha256": "07ace2a78d042ab781f2c1e84947937ed50e8ddd340a8972a441dc2579c0a082"
+        },
+        {
+          "member": "NEW385/NEW385_LOD2.fbx",
+          "bytes": 451324,
+          "sha256": "f03ec52f4efa5dc78af6a2ae595b505637af4da5a50e65dc366c6cd2a2449978"
+        },
+        {
+          "member": "NEW385/MANIFEST.json",
+          "bytes": 34455,
+          "sha256": "41c967c6d69cc226c4425fb8118a2702a511197e034daf0fc0386daa3c0e674a"
+        }
+      ]
+    }
+  ],
+  "each_archive_complete_for_its_asset": true,
+  "Unity": "NOT_RUN"
+}
