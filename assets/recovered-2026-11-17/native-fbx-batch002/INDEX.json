@@ -1,0 +1,55 @@
+{
+  "scope": "24 existing assets, separately privacy-cleaned native and FBX copies; originals preserved. GLB packages are separate. Not full registry completion.",
+  "asset_count": 24,
+  "native_files": 72,
+  "FBX_files": 72,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH002_001.zip",
+      "bytes": 8867090,
+      "sha256": "ab5fe0927ca73c8e95aa7846b8275d8684cad8b5dc96ad1e469658c6a808597f",
+      "asset_ids": [
+        "NEW_RECOVERY_016",
+        "NEW_RECOVERY_018",
+        "NEW_RECOVERY_021",
+        "NEW_RECOVERY_022",
+        "NEW_RECOVERY_024",
+        "NEW_RECOVERY_034",
+        "NEW_RECOVERY_036",
+        "NEW_RECOVERY_038",
+        "NEW_RECOVERY_039",
+        "NEW_RECOVERY_040",
+        "NEW_RECOVERY_041",
+        "NEW_RECOVERY_042",
+        "NEW_RECOVERY_043",
+        "NEW_RECOVERY_044",
+        "NEW_RECOVERY_045",
+        "NEW_RECOVERY_046",
+        "NEW_RECOVERY_048",
+        "NEW_RECOVERY_049"
+      ],
+      "native_files": 54,
+      "FBX_files": 54,
+      "payloads_including_public_manifests": 126
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH002_002.zip",
+      "bytes": 4639128,
+      "sha256": "4ad32fef2391027093a56d789298244aedcaf5f3f95afca35aeb521d4100b836",
+      "asset_ids": [
+        "NEW_RECOVERY_050",
+        "NEW_RECOVERY_052",
+        "NEW_RECOVERY_053",
+        "NEW_RECOVERY_054",
+        "NEW_RECOVERY_055",
+        "NEW_RECOVERY_056"
+      ],
+      "native_files": 18,
+      "FBX_files": 18,
+      "payloads_including_public_manifests": 42
+    }
+  ],
+  "Unity": "NOT_RUN",
+  "source_public_hashes_differ": true,
+  "original_source_publication_deduplication": "Pending independent 20-branch review; a new cleaned byte hash is not evidence that its source asset was never published."
+}
