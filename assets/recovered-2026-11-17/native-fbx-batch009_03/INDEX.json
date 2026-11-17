@@ -1,0 +1,41 @@
+{
+  "scope": "9 existing assets, separately privacy-cleaned native and FBX copies; originals preserved. GLB packages are separate. Not full registry completion.",
+  "asset_count": 9,
+  "native_files": 27,
+  "FBX_files": 27,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH009_03_001.zip",
+      "bytes": 9021477,
+      "sha256": "92482fb96f6ed566d89b5429050cdb5e30801d21f0ae7f0ce288517608e58e09",
+      "asset_ids": [
+        "NEW388",
+        "NEW389",
+        "NEW390",
+        "NEW391"
+      ],
+      "native_files": 12,
+      "FBX_files": 12,
+      "payloads_including_public_manifests": 28
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH009_03_002.zip",
+      "bytes": 7325385,
+      "sha256": "d6b3de4f5e29f2e2d9a0da406c8825a98d812826345f7987d68cada95c087c9a",
+      "asset_ids": [
+        "NEW392",
+        "NEW393",
+        "NEW394",
+        "NEW395",
+        "NEW399"
+      ],
+      "native_files": 15,
+      "FBX_files": 15,
+      "payloads_including_public_manifests": 35
+    }
+  ],
+  "functional_scope": "Same simple scene-library preservation scope as the first 31-asset pilot; not full animation, rig, linked-library, texture-dependent or Unity validation.",
+  "Unity": "NOT_RUN",
+  "source_public_hashes_differ": true,
+  "original_source_publication_deduplication": "Public-copy byte hashes differ from originals; this package is not a claim that the source asset was previously unpublished. GLB coverage and prior branch audit are separate."
+}
