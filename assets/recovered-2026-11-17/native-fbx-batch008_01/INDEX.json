@@ -1,0 +1,23 @@
+{
+  "asset_count": 3,
+  "native_files": 9,
+  "FBX_files": 9,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH008_01_001.zip",
+      "bytes": 5555438,
+      "sha256": "15de64fd764937bd4648da8ebae57f9c97ea8d02624d6d4940bb309fc91931c1",
+      "asset_ids": [
+        "NEW306",
+        "NEW318",
+        "NEW376"
+      ],
+      "native_files": 9,
+      "FBX_files": 9,
+      "payloads_including_public_manifests": 21
+    }
+  ],
+  "scope": "Three model-only cleaned shape-feature copies; originals preserved. NEW308 excluded. Not total project completion.",
+  "source_public_hashes_differ": true,
+  "Unity": "NOT_RUN"
+}
