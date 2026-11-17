@@ -1,0 +1,97 @@
+{
+  "asset_count": 2,
+  "asset_ids": [
+    "NEW471",
+    "NEW475"
+  ],
+  "native_files": 6,
+  "FBX_files": 6,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW471_CONTROLS.zip",
+      "bytes": 766838,
+      "sha256": "2b25456526d01118d5d15d4ba878aeb829a5bd2590d4c2874f91752554183eec",
+      "members": [
+        {
+          "member": "NEW471/LOD0.blend",
+          "bytes": 1472416,
+          "sha256": "4d6ee14c23dd9e51655deff57e8f948064d1facc0207814d54d666206641995b"
+        },
+        {
+          "member": "NEW471/LOD0.fbx",
+          "bytes": 455116,
+          "sha256": "cbe4656a5b002e1b65b7c2089694d837d7001b5ea4ec541f4879569919350b4b"
+        },
+        {
+          "member": "NEW471/LOD1.blend",
+          "bytes": 1249816,
+          "sha256": "5f80632c88fc8c970723c2fb4fa8c06a4366442bbbc08cec54407f216f9a3523"
+        },
+        {
+          "member": "NEW471/LOD1.fbx",
+          "bytes": 385916,
+          "sha256": "2d064fc5fc3c9f3690c927f6904dc876442be35c6f87681d7511ef3667f41338"
+        },
+        {
+          "member": "NEW471/LOD2.blend",
+          "bytes": 919184,
+          "sha256": "890bf9b0db01490d1402881a4b315cf18d58ed4916ef162e6ee4af084b19e80f"
+        },
+        {
+          "member": "NEW471/LOD2.fbx",
+          "bytes": 276572,
+          "sha256": "e4570300bf7bd487681489e7982a1eff3c9f6b5c923b373929b3c6cfffa6c502"
+        },
+        {
+          "member": "NEW471/MANIFEST.json",
+          "bytes": 4264,
+          "sha256": "f8bc7caaf270b5b43bd04431e995ea09aae9867d03b6870acf0d5b006febc2b3"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW475_CONTROLS.zip",
+      "bytes": 2015870,
+      "sha256": "90089ffbc0800a78b2f962d270d5456480c31b8e1abd4d776caf08bad97ae415",
+      "members": [
+        {
+          "member": "NEW475/wired_optical_mouse_LOD0.blend",
+          "bytes": 2000972,
+          "sha256": "dc0391ad668f9d9d7821a5752896cf1195d06b5fe86aae23524216fc4a69a29f"
+        },
+        {
+          "member": "NEW475/wired_optical_mouse_LOD0.fbx",
+          "bytes": 1061804,
+          "sha256": "415721ddff110290c7c4c47d9534a161e6855e5e17b16fbea01733823566d825"
+        },
+        {
+          "member": "NEW475/wired_optical_mouse_LOD1.blend",
+          "bytes": 1269860,
+          "sha256": "126f143ca2bb6cddca5b7c39948434c68fd3d776d06bb5d6c6d0d58f0371a284"
+        },
+        {
+          "member": "NEW475/wired_optical_mouse_LOD1.fbx",
+          "bytes": 806492,
+          "sha256": "ed2ce7be62b4ea664fe4b7e0ec328bc08c12a24e4fe5f40462247573531070e8"
+        },
+        {
+          "member": "NEW475/wired_optical_mouse_LOD2.blend",
+          "bytes": 890004,
+          "sha256": "3bbd5d2b71189413b3bb0a8436ac70d5892a324546559b4298b493758cc4eef2"
+        },
+        {
+          "member": "NEW475/wired_optical_mouse_LOD2.fbx",
+          "bytes": 661420,
+          "sha256": "a1bf6d504712710a9a3a9a1256b161b273b9c6b9d78b0cc0d3ccb91c29c02c0e"
+        },
+        {
+          "member": "NEW475/MANIFEST.json",
+          "bytes": 20964,
+          "sha256": "ebbf3f52a027eab1c040b9a74c2a86ae471711e15de9956c0cc58557a1275753"
+        }
+      ]
+    }
+  ],
+  "each_asset_zip_complete": true,
+  "Unity": "NOT_RUN"
+}

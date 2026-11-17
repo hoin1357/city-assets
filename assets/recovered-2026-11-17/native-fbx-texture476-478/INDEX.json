@@ -1,0 +1,97 @@
+{
+  "asset_count": 2,
+  "asset_ids": [
+    "NEW476",
+    "NEW478"
+  ],
+  "native_files": 6,
+  "FBX_files": 6,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW476_TEXTURES.zip",
+      "bytes": 1477730,
+      "sha256": "54b39eb2c23031f30d0354d619849f5a5daf8e9d2b540e7c3b89270bbc99b496",
+      "members": [
+        {
+          "member": "NEW476/wooden_pencil_LOD0.blend",
+          "bytes": 822012,
+          "sha256": "a4e07729a1dc339a273aa1f461104f10c15ee42814fd7177587e424feff6df33"
+        },
+        {
+          "member": "NEW476/wooden_pencil_LOD0.fbx",
+          "bytes": 282940,
+          "sha256": "552991377e8e664bc906037d18cb06b09bba4ba316418e4fd81c7fdbea529394"
+        },
+        {
+          "member": "NEW476/wooden_pencil_LOD1.blend",
+          "bytes": 617436,
+          "sha256": "41a3b28c0d83ecaae0b91d7c8b05ff9f0375e08c50bbbbb1b235b64f8beb27c0"
+        },
+        {
+          "member": "NEW476/wooden_pencil_LOD1.fbx",
+          "bytes": 227804,
+          "sha256": "cfd32f6c70ea9b9bdbb9845f1ce403cc8e47a5b7e499f51214176bb99fb121a3"
+        },
+        {
+          "member": "NEW476/wooden_pencil_LOD2.blend",
+          "bytes": 537612,
+          "sha256": "1fb7bb8e5eb6a8e9d2deab4049be48287fcef8dc51998edd542accc1d56b5900"
+        },
+        {
+          "member": "NEW476/wooden_pencil_LOD2.fbx",
+          "bytes": 206044,
+          "sha256": "d0403e084efdb99d5cffe164e7e91feb2f0786ac406539fbe9a00c43bc1b408a"
+        },
+        {
+          "member": "NEW476/MANIFEST.json",
+          "bytes": 17632,
+          "sha256": "b9bb40cfd4cded55af383896d2375c84a7bbbbe643154861f4fcee892f95da56"
+        }
+      ]
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW478_TEXTURES.zip",
+      "bytes": 2248432,
+      "sha256": "33d3198942e8e18ff5d6d73626da7d07b2006decff60825ef3f24030fe4a284f",
+      "members": [
+        {
+          "member": "NEW478/pedestal_birdbath_LOD0.blend",
+          "bytes": 986240,
+          "sha256": "867b555a2d842a1c3fceca55e1870596563ac11dd95d56f02e8724e9dae725c8"
+        },
+        {
+          "member": "NEW478/pedestal_birdbath_LOD0.fbx",
+          "bytes": 417980,
+          "sha256": "d3a3fbd39dbbe0acde3da6f8013cf99cee96f2f6a070f0d407bef5939eb03679"
+        },
+        {
+          "member": "NEW478/pedestal_birdbath_LOD1.blend",
+          "bytes": 738704,
+          "sha256": "6d3978832c277f7f2e74920a39e607a1f86f7118b4fad514107775614e856a42"
+        },
+        {
+          "member": "NEW478/pedestal_birdbath_LOD1.fbx",
+          "bytes": 360748,
+          "sha256": "075477c1ecb845920a5932dad27f4da8a53cdc27eb533af0e1f60058bd1b654c"
+        },
+        {
+          "member": "NEW478/pedestal_birdbath_LOD2.blend",
+          "bytes": 578264,
+          "sha256": "0803434b25dfa0b49384c7d86c18f069a670a722bdf91345b48602e23a8fc39d"
+        },
+        {
+          "member": "NEW478/pedestal_birdbath_LOD2.fbx",
+          "bytes": 323644,
+          "sha256": "064165cdbabf438ddf32636b258ae2a29c3ee6c05b63139d376876dc42552c31"
+        },
+        {
+          "member": "NEW478/MANIFEST.json",
+          "bytes": 6601,
+          "sha256": "3aca81919e6fd365d0cdebb8ae51a37cbfbd86cffed96aa122d61dcb53e8f887"
+        }
+      ]
+    }
+  ],
+  "each_model_has_embedded_texture_closure": true,
+  "Unity": "NOT_RUN"
+}
