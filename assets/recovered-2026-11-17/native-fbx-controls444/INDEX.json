@@ -1,0 +1,55 @@
+{
+  "asset_count": 1,
+  "asset_ids": [
+    "NEW444"
+  ],
+  "native_files": 3,
+  "FBX_files": 3,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_NEW444_CONTROLS.zip",
+      "bytes": 2027031,
+      "sha256": "8ae026fe0e08d2aa784dc9b1f8bc2727011195eb98b8c106ffd9580b26d0695b",
+      "asset_id": "NEW444",
+      "members": [
+        {
+          "member": "NEW444/NEW444_track_hurdle_LOD0.blend",
+          "bytes": 1948412,
+          "sha256": "5155e8a8c7ceec976eba3ebdae5b4c34fe29b35b350050a7baac0291dcae249c"
+        },
+        {
+          "member": "NEW444/NEW444_track_hurdle_LOD0.fbx",
+          "bytes": 652508,
+          "sha256": "e94b4d34ccab81dbd94698c3a5243eb92e862de1924f108293342efc2decf86c"
+        },
+        {
+          "member": "NEW444/NEW444_track_hurdle_LOD1.blend",
+          "bytes": 1481180,
+          "sha256": "95f40ea5e7f221383fa4f77bcdf17b3afb2cb2b5c0cfe4e57e7375e3d12b7a22"
+        },
+        {
+          "member": "NEW444/NEW444_track_hurdle_LOD1.fbx",
+          "bytes": 475116,
+          "sha256": "1ac18c2d330a6dc515e9c25885aa68d4825bffbf57cafcd77e4d1cef62c7d396"
+        },
+        {
+          "member": "NEW444/NEW444_track_hurdle_LOD2.blend",
+          "bytes": 1087500,
+          "sha256": "07353b917c347fc28cf541aa60cd5010f0cdbce427af3d1bdfa15bbcf14e3785"
+        },
+        {
+          "member": "NEW444/NEW444_track_hurdle_LOD2.fbx",
+          "bytes": 332092,
+          "sha256": "e93d9a8aca63310684a866ef66fd89913c8b5bcd4ee0529b1aa093aec38365d4"
+        },
+        {
+          "member": "NEW444/MANIFEST.json",
+          "bytes": 3643,
+          "sha256": "e914658ccbb90d362b227c7683cd142d63225f159bf5362aaad5008681079719"
+        }
+      ]
+    }
+  ],
+  "each_archive_complete_for_its_asset": true,
+  "Unity": "NOT_RUN"
+}

@@ -1,0 +1,23 @@
+{
+  "scope": "1 existing assets, separately privacy-cleaned native and FBX copies; originals preserved. GLB packages are separate. Not full registry completion.",
+  "asset_count": 1,
+  "native_files": 3,
+  "FBX_files": 3,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH014_01_001.zip",
+      "bytes": 759334,
+      "sha256": "d22eeb7452f09ce60b43085a13621a37e0d979b9161ba0ad1ce6fc4cf6ece1f3",
+      "asset_ids": [
+        "NEW436"
+      ],
+      "native_files": 3,
+      "FBX_files": 3,
+      "payloads_including_public_manifests": 7
+    }
+  ],
+  "functional_scope": "Native bounded roof-window controls preserved: UNLOCK latch 0 to 1, OPEN_DEG 0 to 45. Sash opens only when UNLOCK >= 1. Saved plus 35 boundary/intermediate/out-of-range combinations and six ordered operation states per LOD matched source evaluated geometry/normals/hierarchy. Close before locking and unlock before opening. This is a logical visual interlock, not physical collision, watertightness or load certification. No 180-degree cleaning mode. Original FBX is static interchange without native drivers; no native-FBX functional parity or Unity certification.",
+  "Unity": "NOT_RUN",
+  "source_public_hashes_differ": true,
+  "original_source_publication_deduplication": "Public-copy byte hashes differ from originals; this package is not a claim that the source asset was previously unpublished. GLB coverage and prior branch audit are separate."
+}
