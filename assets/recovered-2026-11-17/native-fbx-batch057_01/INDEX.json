@@ -1,0 +1,26 @@
+{
+  "scope": "1 existing assets, separately privacy-cleaned native and FBX copies; originals preserved. GLB packages are separate. Not full registry completion.",
+  "asset_count": 1,
+  "native_files": 3,
+  "FBX_files": 3,
+  "texture_sidecar_files": 1,
+  "unique_texture_images": 1,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH057_01_001.zip",
+      "bytes": 3210616,
+      "sha256": "967a99e5e584b84357eedae824bf4b82d376baa642ded3a0db6f99a2b6ed0af2",
+      "asset_ids": [
+        "NEW690"
+      ],
+      "native_files": 3,
+      "FBX_files": 3,
+      "payloads_including_public_manifests": 10,
+      "texture_sidecar_files": 3
+    }
+  ],
+  "functional_scope": "Per-asset MANIFEST describes static or preserved native constrained-control scope. Original FBX snapshot capabilities are separate. No Unity, physics or safety certification.",
+  "Unity": "NOT_RUN",
+  "source_public_hashes_differ": true,
+  "original_source_publication_deduplication": "Public-copy byte hashes differ from originals; this package is not a claim that the source asset was previously unpublished. GLB coverage and prior branch audit are separate."
+}
