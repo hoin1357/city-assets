@@ -1,0 +1,64 @@
+{
+  "scope": "2 existing assets, separately privacy-cleaned native and FBX copies; originals preserved. GLB packages are separate. Not full registry completion.",
+  "asset_count": 2,
+  "native_files": 6,
+  "FBX_files": 6,
+  "texture_sidecar_files": 3,
+  "unique_texture_images": 3,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH071_01_001.zip",
+      "bytes": 9365416,
+      "sha256": "5c1bf1881695126647bc4156d73a48da2c8e0e730ecb10ed0425cdb55698bb2b",
+      "asset_ids": [
+        "NEW577"
+      ],
+      "native_files": 3,
+      "FBX_files": 2,
+      "payloads_including_public_manifests": 5,
+      "texture_sidecar_files": 0
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH071_01_002.zip",
+      "bytes": 8299093,
+      "sha256": "2dd6a20e96d9a485d4e63e408a45b4e7f06abd2bfc3c40c23e77ce046d5b9c8a",
+      "asset_ids": [
+        "NEW577",
+        "NEW488"
+      ],
+      "native_files": 0,
+      "FBX_files": 1,
+      "payloads_including_public_manifests": 5,
+      "texture_sidecar_files": 3
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH071_01_003.zip",
+      "bytes": 7859394,
+      "sha256": "29a058cfd2895a922dac6cd6bb4020e77594dc5f2da3fb0b0507221f4b845037",
+      "asset_ids": [
+        "NEW488"
+      ],
+      "native_files": 1,
+      "FBX_files": 1,
+      "payloads_including_public_manifests": 2,
+      "texture_sidecar_files": 0
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH071_01_004.zip",
+      "bytes": 8631970,
+      "sha256": "840e45fdc7fd42c48f717d4f0588e06c6d2bdf8515a7abd1e23ea9dd395772be",
+      "asset_ids": [
+        "NEW488"
+      ],
+      "native_files": 2,
+      "FBX_files": 2,
+      "payloads_including_public_manifests": 5,
+      "texture_sidecar_files": 0
+    }
+  ],
+  "functional_scope": "Per-asset MANIFEST describes static or preserved native constrained-control scope. Original FBX snapshot capabilities are separate. No Unity, physics or safety certification.",
+  "Unity": "NOT_RUN",
+  "source_public_hashes_differ": true,
+  "original_source_publication_deduplication": "Public-copy byte hashes differ from originals; this package is not a claim that the source asset was previously unpublished. GLB coverage and prior branch audit are separate.",
+  "archive_extraction_note": "All 4 archives must be extracted into the same parent directory preserving asset folders. Model and texture dependencies are spread across ZIPs; partial extraction is incomplete."
+}
