@@ -1,0 +1,52 @@
+{
+  "scope": "2 existing assets, separately privacy-cleaned native and FBX copies; originals preserved. GLB packages are separate. Not full registry completion.",
+  "asset_count": 2,
+  "native_files": 6,
+  "FBX_files": 6,
+  "texture_sidecar_files": 4,
+  "unique_texture_images": 4,
+  "archives": [
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH070_01_001.zip",
+      "bytes": 9469770,
+      "sha256": "60679c9c4c27dc955c7c20711e67a42d13218bc340474126aa167a9b92bd227b",
+      "asset_ids": [
+        "NEW693",
+        "NEW677"
+      ],
+      "native_files": 3,
+      "FBX_files": 3,
+      "payloads_including_public_manifests": 10,
+      "texture_sidecar_files": 3
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH070_01_002.zip",
+      "bytes": 9315356,
+      "sha256": "503c5b5b5272375243543b462e430de85d2594ded4b783733e6239dc375a691c",
+      "asset_ids": [
+        "NEW677"
+      ],
+      "native_files": 2,
+      "FBX_files": 2,
+      "payloads_including_public_manifests": 5,
+      "texture_sidecar_files": 1
+    },
+    {
+      "file": "RECOVERED_NATIVE_FBX_PUBLIC_BATCH070_01_003.zip",
+      "bytes": 4280660,
+      "sha256": "77b6c74895d4f145cb27dc96f247eff3c8866671954e0599529fdf01eaeef411",
+      "asset_ids": [
+        "NEW677"
+      ],
+      "native_files": 1,
+      "FBX_files": 1,
+      "payloads_including_public_manifests": 3,
+      "texture_sidecar_files": 0
+    }
+  ],
+  "functional_scope": "Per-asset MANIFEST describes static or preserved native constrained-control scope. Original FBX snapshot capabilities are separate. No Unity, physics or safety certification.",
+  "Unity": "NOT_RUN",
+  "source_public_hashes_differ": true,
+  "original_source_publication_deduplication": "Public-copy byte hashes differ from originals; this package is not a claim that the source asset was previously unpublished. GLB coverage and prior branch audit are separate.",
+  "archive_extraction_note": "All three archives must be extracted into the same parent directory preserving asset folders. Model and texture dependencies are spread across ZIPs; partial extraction is incomplete."
+}
